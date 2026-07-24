@@ -1,7 +1,7 @@
-# semi-roadmap
-## 🚀 [팀 챌린저스]
+# SEMI-ROADMAP
+## 🚀 AI Document Builders Challenge with Upstage
 
-## 👥 팀원 소개
+## 👥 [팀 챌린저스] 팀원 소개
 
 * **구제현** (약학과)
 * **민경원** (산업공학과)
