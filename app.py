@@ -635,6 +635,15 @@ HTML_PAGE = '''
             scroll-snap-type: x mandatory;
             -ms-overflow-style: none;
             scrollbar-width: none;
+            cursor: grab;
+            user-select: none;
+            touch-action: pan-y;
+        }
+
+        .carousel-wrapper.dragging {
+            cursor: grabbing;
+            scroll-behavior: auto;
+            scroll-snap-type: none;
         }
         
         .carousel-wrapper::-webkit-scrollbar {
@@ -1249,6 +1258,63 @@ HTML_PAGE = '''
             });
         };
 
+        function enableCarouselDrag(wrapper) {
+            if (!wrapper || wrapper.dataset.dragBound === 'true') return;
+            wrapper.dataset.dragBound = 'true';
+
+            let isDown = false;
+            let startX = 0;
+            let startScrollLeft = 0;
+            let hasDragged = false;
+
+            wrapper.addEventListener('pointerdown', (event) => {
+                if (event.button !== 0 || event.pointerType === 'touch') return;
+
+                isDown = true;
+                hasDragged = false;
+                startX = event.clientX;
+                startScrollLeft = wrapper.scrollLeft;
+                wrapper.classList.add('dragging');
+                wrapper.setPointerCapture(event.pointerId);
+            });
+
+            wrapper.addEventListener('pointermove', (event) => {
+                if (!isDown) return;
+
+                const deltaX = event.clientX - startX;
+                if (Math.abs(deltaX) > 5) {
+                    hasDragged = true;
+                    wrapper.dataset.dragged = 'true';
+                }
+                wrapper.scrollLeft = startScrollLeft - deltaX;
+            });
+
+            const endDrag = (event) => {
+                if (!isDown) return;
+
+                isDown = false;
+                wrapper.classList.remove('dragging');
+                if (wrapper.hasPointerCapture(event.pointerId)) {
+                    wrapper.releasePointerCapture(event.pointerId);
+                }
+                updateCarouselDots(wrapper);
+
+                if (hasDragged) {
+                    window.setTimeout(() => {
+                        wrapper.dataset.dragged = 'false';
+                    }, 0);
+                }
+            };
+
+            wrapper.addEventListener('pointerup', endDrag);
+            wrapper.addEventListener('pointercancel', endDrag);
+            wrapper.addEventListener('pointerleave', endDrag);
+        }
+
+        function initCarouselDrag() {
+            document.querySelectorAll('.carousel-wrapper').forEach(enableCarouselDrag);
+        }
+
         function toggleSideMenu() {
             const sideMenu = document.getElementById('sideMenu');
             const overlay = document.getElementById('sideMenuOverlay');
@@ -1528,6 +1594,8 @@ HTML_PAGE = '''
 
 
                     // Render consulting cards (LLM2 결과)
+                    initCarouselDrag();
+
                     if (data.consulting_cards && data.consulting_cards.length > 0) {
                         renderConsultingCards(data.consulting_cards);
                     } else if (data.consulting_error) {
@@ -1549,12 +1617,16 @@ HTML_PAGE = '''
 
         // Carousel Logic
         window.expandCard = function(card) {
+            const wrapper = card.closest('.carousel-wrapper');
+            if (wrapper && wrapper.dataset.dragged === 'true') {
+                return;
+            }
+
             if (card.classList.contains('expanded')) {
                 card.classList.remove('expanded');
                 return;
             }
             
-            const wrapper = card.closest('.carousel-wrapper');
             wrapper.querySelectorAll('.comp-card.expanded').forEach(c => c.classList.remove('expanded'));
             card.classList.add('expanded');
         }
