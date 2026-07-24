@@ -1266,6 +1266,7 @@ HTML_PAGE = '''
             let startX = 0;
             let startScrollLeft = 0;
             let hasDragged = false;
+            let hasPointerCapture = false;
 
             wrapper.addEventListener('pointerdown', (event) => {
                 if (event.button !== 0 || event.pointerType === 'touch') return;
@@ -1276,7 +1277,6 @@ HTML_PAGE = '''
                 startX = event.clientX;
                 startScrollLeft = wrapper.scrollLeft;
                 wrapper.classList.add('dragging');
-                wrapper.setPointerCapture(event.pointerId);
             });
 
             wrapper.addEventListener('pointermove', (event) => {
@@ -1286,6 +1286,10 @@ HTML_PAGE = '''
                 if (Math.abs(deltaX) > 8) {
                     hasDragged = true;
                     wrapper.dataset.dragged = 'true';
+                    if (!hasPointerCapture) {
+                        wrapper.setPointerCapture(event.pointerId);
+                        hasPointerCapture = true;
+                    }
                 }
                 wrapper.scrollLeft = startScrollLeft - deltaX;
             });
@@ -1294,6 +1298,7 @@ HTML_PAGE = '''
                 if (!isDown) return;
 
                 isDown = false;
+                hasPointerCapture = false;
                 wrapper.classList.remove('dragging');
                 if (wrapper.hasPointerCapture(event.pointerId)) {
                     wrapper.releasePointerCapture(event.pointerId);
