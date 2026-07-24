@@ -122,7 +122,6 @@ HTML_PAGE = '''
             --consulting-icon-bg: rgba(0, 86, 179, 0.08);
             --consulting-detail-bg: rgba(0, 86, 179, 0.04);
             --consulting-detail-bullet: #0056b3;
-            --icon-filter: none;
         }
 
         [data-theme="dark"] {
@@ -147,13 +146,12 @@ HTML_PAGE = '''
             --input-bg: rgba(15, 23, 42, 0.9);
             --result-bg: rgba(15, 23, 42, 0.6);
             --consulting-card-bg: rgba(15, 23, 42, 0.7);
-            --consulting-card-border: rgba(255, 255, 255, 0.2);
+            --consulting-card-border: rgba(0, 255, 204, 0.15);
             --consulting-card-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
             --consulting-card-hover-shadow: 0 16px 48px rgba(0, 255, 204, 0.12);
             --consulting-icon-bg: rgba(0, 255, 204, 0.1);
             --consulting-detail-bg: rgba(0, 255, 204, 0.05);
             --consulting-detail-bullet: #00ffcc;
-            --icon-filter: invert(1);
         }
         
         body {
@@ -229,7 +227,7 @@ HTML_PAGE = '''
         h2 {
             font-family: 'Orbitron', sans-serif;
             text-align: center;
-            font-size: 2.6rem;
+            font-size: 2.2rem;
             letter-spacing: 2px;
             margin: 0;
             background: linear-gradient(to right, var(--accent-main), var(--accent-blue));
@@ -645,10 +643,10 @@ HTML_PAGE = '''
 
         .comp-card {
             flex: 0 0 250px;
-            height: 220px;
+            height: 250px;
             scroll-snap-align: start;
-            background: linear-gradient(135deg, #edf5ff 0%, #ffffff 100%);
-            border: 1px solid rgba(0,0,0,0.06);
+            background: #ffffff;
+            border: 1px solid rgba(0,0,0,0.04);
             border-radius: 20px;
             padding: 30px 24px;
             display: flex;
@@ -665,9 +663,9 @@ HTML_PAGE = '''
         }
         
         [data-theme="dark"] .comp-card {
-            background: linear-gradient(145deg, #1e293b 0%, #0f172a 100%);
-            border: 1px solid rgba(255, 255, 255, 0.25);
-            box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+            background: var(--result-bg);
+            border-color: var(--border-color);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.2);
         }
         
         .comp-card.expanded {
@@ -684,11 +682,11 @@ HTML_PAGE = '''
         }
         
         .comp-card-common {
-            height: 150px;
+            height: 180px;
         }
         
         .comp-card-common.expanded {
-            min-height: 150px;
+            min-height: 180px;
         }
         
         [data-theme="dark"] .comp-card.expanded {
@@ -879,34 +877,6 @@ HTML_PAGE = '''
         a:hover {
             color: var(--accent-blue);
             text-decoration: underline;
-        }
-        
-        /* Custom Scrollbars for Consulting */
-        .consulting-sidebar::-webkit-scrollbar,
-        .consulting-content-view::-webkit-scrollbar {
-            width: 8px;
-        }
-        .consulting-sidebar::-webkit-scrollbar-track,
-        .consulting-content-view::-webkit-scrollbar-track {
-            background: rgba(0,0,0,0.03);
-            border-radius: 10px;
-        }
-        [data-theme="dark"] .consulting-sidebar::-webkit-scrollbar-track,
-        [data-theme="dark"] .consulting-content-view::-webkit-scrollbar-track {
-            background: rgba(255,255,255,0.02);
-        }
-        .consulting-sidebar::-webkit-scrollbar-thumb,
-        .consulting-content-view::-webkit-scrollbar-thumb {
-            background: rgba(0, 86, 179, 0.2);
-            border-radius: 10px;
-        }
-        [data-theme="dark"] .consulting-sidebar::-webkit-scrollbar-thumb,
-        [data-theme="dark"] .consulting-content-view::-webkit-scrollbar-thumb {
-            background: rgba(0, 255, 204, 0.2);
-        }
-        .consulting-sidebar::-webkit-scrollbar-thumb:hover,
-        .consulting-content-view::-webkit-scrollbar-thumb:hover {
-            background: var(--accent-main);
         }
         
         /* ===== AI CAREER CONSULTING SPLIT-PANE ===== */
@@ -1221,9 +1191,6 @@ HTML_PAGE = '''
                 </div>
             </div>
 
-            <div style="text-align: center; margin-top: 50px; margin-bottom: 20px;">
-                <button type="button" class="btn" onclick="document.getElementById('resultTabBtn').click()" style="width: auto; padding: 16px 40px; font-size: 1.1em; border-radius: 30px;">분석 결과 보기</button>
-            </div>
         </div>
     </div>
 
@@ -1481,16 +1448,11 @@ HTML_PAGE = '''
                         llmResultDiv.style.whiteSpace = 'normal';
                         let html = `
                             <div style="background: var(--bg-color); padding: 15px; border-radius: 10px; border-left: 4px solid var(--accent-main); margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-                                <strong style="color: var(--accent-main); display: flex; align-items: center; gap: 8px;">
-                                    <img src="/static/new_bulb_icon.png" style="width: 26px; height: 26px; object-fit: contain; margin-top: -2px;">
-                                    핵심 요약
-                                </strong>
+                                <strong style="color: var(--accent-main);">💡 핵심 요약</strong>
                                 <p style="margin: 10px 0 0 0; color: var(--text-main); font-weight: 500; font-size: 1.05em;">${data.llm_analysis.summary}</p>
                             </div>
                             <div>
-                                <strong style="color: var(--accent-main); display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
-                                    <img src="/static/advantage_thumb.png" style="width: 26px; height: 26px; object-fit: contain; margin-top: -2px;"> 주요 강점
-                                </strong>
+                                <strong style="color: var(--accent-main); display: block; margin-bottom: 10px;">✨ 주요 강점</strong>
                                 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
                         `;
                         data.llm_analysis.strengths.forEach(s => {
@@ -1526,9 +1488,7 @@ HTML_PAGE = '''
                                         <span class="comp-card-title">${safeCompetency} ${titleIndicator}</span>
                                     </div>
                                     <div class="comp-card-reason">${safeReason}</div>
-                                    <div class="comp-card-action">
-                                        <img src="/static/search_icon.png" style="width: 16px; height: 16px; vertical-align: middle; margin-right: 4px; filter: var(--icon-filter);"> 자세히 알아보기
-                                    </div>
+                                    <div class="comp-card-action">🔍 자세히 알아보기</div>
                                 </div>`;
                     };
 
