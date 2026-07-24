@@ -1272,6 +1272,7 @@ HTML_PAGE = '''
 
                 isDown = true;
                 hasDragged = false;
+                wrapper.dataset.dragged = 'false';
                 startX = event.clientX;
                 startScrollLeft = wrapper.scrollLeft;
                 wrapper.classList.add('dragging');
@@ -1282,7 +1283,7 @@ HTML_PAGE = '''
                 if (!isDown) return;
 
                 const deltaX = event.clientX - startX;
-                if (Math.abs(deltaX) > 5) {
+                if (Math.abs(deltaX) > 8) {
                     hasDragged = true;
                     wrapper.dataset.dragged = 'true';
                 }
@@ -1298,17 +1299,18 @@ HTML_PAGE = '''
                     wrapper.releasePointerCapture(event.pointerId);
                 }
                 updateCarouselDots(wrapper);
-
-                if (hasDragged) {
-                    window.setTimeout(() => {
-                        wrapper.dataset.dragged = 'false';
-                    }, 0);
-                }
             };
 
             wrapper.addEventListener('pointerup', endDrag);
             wrapper.addEventListener('pointercancel', endDrag);
             wrapper.addEventListener('pointerleave', endDrag);
+            wrapper.addEventListener('click', (event) => {
+                if (wrapper.dataset.dragged === 'true') {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    wrapper.dataset.dragged = 'false';
+                }
+            }, true);
         }
 
         function initCarouselDrag() {
@@ -1618,10 +1620,6 @@ HTML_PAGE = '''
         // Carousel Logic
         window.expandCard = function(card) {
             const wrapper = card.closest('.carousel-wrapper');
-            if (wrapper && wrapper.dataset.dragged === 'true') {
-                return;
-            }
-
             if (card.classList.contains('expanded')) {
                 card.classList.remove('expanded');
                 return;
