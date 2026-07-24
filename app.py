@@ -269,41 +269,109 @@ HTML_PAGE = '''
             box-shadow: 0 0 10px var(--border-glow);
         }
 
-        /* Tabs styling */
-        .tabs {
-            display: flex;
-            background: rgba(0, 0, 0, 0.03);
-            padding: 5px;
-            border-radius: 12px;
-            margin-bottom: 35px;
+        /* Side Menu styling */
+        .hamburger-btn {
+            position: fixed;
+            top: 25px;
+            left: 25px;
+            z-index: 1000;
+            background: var(--bg-color);
             border: 1px solid var(--border-color);
-        }
-        
-        [data-theme="dark"] .tabs {
-            background: rgba(30, 41, 59, 0.5);
+            color: var(--text-main);
+            width: 50px;
+            height: 50px;
+            border-radius: 12px;
+            cursor: pointer;
+            font-size: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            transition: all 0.3s ease;
         }
 
-        .tab-link {
-            flex: 1;
-            padding: 14px;
+        .hamburger-btn:hover {
+            border-color: var(--accent-main);
+            box-shadow: 0 0 15px var(--border-glow);
+            transform: scale(1.05);
+        }
+
+        .side-menu {
+            position: fixed;
+            top: 0;
+            left: -320px;
+            width: 280px;
+            height: 100vh;
+            background: var(--bg-color);
+            box-shadow: 4px 0 25px rgba(0,0,0,0.1);
+            z-index: 1001;
+            transition: left 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            padding: 80px 20px 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            border-right: 1px solid var(--border-color);
+        }
+
+        .side-menu.open {
+            left: 0;
+        }
+
+        .side-menu-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(0,0,0,0.4);
+            backdrop-filter: blur(3px);
+            z-index: 1000;
+            display: none;
+            opacity: 0;
+            transition: opacity 0.4s ease;
+        }
+
+        .side-menu-overlay.open {
+            display: block;
+            opacity: 1;
+        }
+
+        .menu-link {
+            padding: 16px 20px;
             cursor: pointer;
             border: none;
-            background: none;
-            font-size: 15px;
-            font-weight: 600;
+            background: transparent;
+            font-size: 16px;
+            font-weight: 700;
             color: var(--text-muted);
-            border-radius: 8px;
+            border-radius: 12px;
             transition: all 0.3s ease;
-            font-family: 'Rajdhani', sans-serif;
-            letter-spacing: 1px;
-            text-transform: uppercase;
+            font-family: 'Orbitron', 'Rajdhani', sans-serif;
+            text-align: left;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            gap: 10px;
         }
 
-        .tab-link.active {
-            color: var(--tab-active-text);
-            background: var(--tab-active-bg);
-            box-shadow: 0 0 15px var(--border-glow);
-            font-weight: 700;
+        .menu-link:hover {
+            background: rgba(0, 0, 0, 0.03);
+            color: var(--text-main);
+        }
+
+        [data-theme="dark"] .menu-link:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .menu-link.active {
+            color: var(--accent-main);
+            background: rgba(0, 86, 179, 0.08);
+            box-shadow: inset 3px 0 0 var(--accent-main);
+        }
+
+        [data-theme="dark"] .menu-link.active {
+            background: rgba(0, 255, 204, 0.1);
+            box-shadow: inset 3px 0 0 var(--accent-main);
         }
 
         .tab-content {
@@ -320,64 +388,114 @@ HTML_PAGE = '''
             to { opacity: 1; transform: translateY(0); }
         }
 
-        /* Form elements */
-        p {
-            color: var(--text-muted);
-            line-height: 1.6;
-            margin-bottom: 25px;
+        /* ===== CORE UPLOAD REDESIGN ===== */
+        .persona-btn-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 30px;
+            justify-content: center;
         }
 
-        .form-group {
-            margin-bottom: 25px;
-        }
-
-        label {
-            display: block;
-            margin-bottom: 10px;
-            font-weight: 600;
-            color: var(--accent-main);
-            font-size: 14px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-
-        input[type="file"] {
-            width: 100%;
-            padding: 15px;
-            background: var(--input-bg);
-            border: 1px dashed var(--border-color);
-            border-radius: 10px;
-            color: var(--text-main);
-            box-sizing: border-box;
-            cursor: pointer;
-            transition: all 0.3s ease;
-        }
-
-        input[type="file"]:hover {
-            border-color: var(--accent-main);
-            box-shadow: 0 0 10px var(--border-glow);
-        }
-
-        select {
-            width: 100%;
-            padding: 14px;
+        .persona-btn {
+            padding: 12px 20px;
             background: var(--input-bg);
             border: 1px solid var(--border-color);
-            border-radius: 10px;
             color: var(--text-main);
-            font-size: 15px;
-            outline: none;
-            transition: all 0.3s ease;
+            border-radius: 12px;
+            font-weight: 600;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-family: 'Noto Sans KR', sans-serif;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.02);
         }
 
-        select:focus {
+        .persona-btn:hover {
             border-color: var(--accent-main);
-            box-shadow: 0 0 15px var(--border-glow);
+            box-shadow: 0 4px 12px var(--border-glow);
+            transform: translateY(-2px);
         }
 
-        select option {
-            background-color: var(--bg-color);
+        .persona-btn.selected {
+            background: var(--accent-main);
+            color: #fff;
+            border-color: var(--accent-main);
+            box-shadow: 0 4px 15px var(--accent-glow);
+        }
+
+        .upload-dropzone {
+            background: var(--input-bg);
+            border: 2px dashed var(--border-color);
+            border-radius: 20px;
+            padding: 60px 20px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.02);
+        }
+
+        .upload-dropzone:hover, .upload-dropzone.dragover {
+            border-color: var(--accent-main);
+            background: rgba(0, 86, 179, 0.02);
+        }
+
+        [data-theme="dark"] .upload-dropzone:hover, [data-theme="dark"] .upload-dropzone.dragover {
+            background: rgba(0, 255, 204, 0.05);
+        }
+
+        .upload-icon {
+            font-size: 4rem;
+            margin-bottom: 20px;
+        }
+
+        .upload-title {
+            font-size: 2rem;
+            font-weight: 700;
             color: var(--text-main);
+            margin-bottom: 10px;
+        }
+
+        .upload-subtitle {
+            font-size: 1rem;
+            color: var(--text-muted);
+            margin-bottom: 30px;
+        }
+
+        .upload-btn {
+            background: #4763F7;
+            color: white;
+            border: none;
+            padding: 16px 40px;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            box-shadow: 0 4px 15px rgba(71, 99, 247, 0.3);
+            margin-bottom: 15px;
+            display: inline-block;
+            font-family: 'Noto Sans KR', sans-serif;
+        }
+
+        .upload-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(71, 99, 247, 0.4);
+        }
+
+        .upload-drag-text {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+        }
+
+        .file-selected-text {
+            color: var(--accent-main);
+            font-weight: 700;
+            font-size: 1.1rem;
+            margin-top: 20px;
+            display: none;
         }
 
         .btn {
@@ -471,18 +589,108 @@ HTML_PAGE = '''
             color: var(--text-main);
         }
 
-        /* ===== COMPETENCY GRADE VISUALIZATION ===== */
-        .comp-card {
-            background: var(--result-bg);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 16px 18px;
+        .carousel-container {
             display: flex;
             flex-direction: column;
-            gap: 10px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+            align-items: center;
+            width: 100%;
+        }
+        
+        .carousel-dots {
+            display: flex;
+            gap: 8px;
+            margin-top: 15px;
+            margin-bottom: 5px;
+        }
+        
+        .carousel-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: rgba(0,0,0,0.15);
             transition: all 0.3s ease;
             cursor: pointer;
+        }
+        
+        [data-theme="dark"] .carousel-dot {
+            background: rgba(255,255,255,0.2);
+        }
+        
+        .carousel-dot.active {
+            background: var(--accent-main);
+            width: 24px;
+            border-radius: 4px;
+        }
+
+        /* ===== COMPETENCY GRADE VISUALIZATION (SCROLL) ===== */
+        .carousel-wrapper {
+            display: flex;
+            align-items: flex-start;
+            overflow-x: auto;
+            gap: 20px;
+            padding: 20px 5px;
+            margin-top: 10px;
+            width: 100%;
+            scroll-behavior: smooth;
+            scroll-snap-type: x mandatory;
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+        
+        .carousel-wrapper::-webkit-scrollbar {
+            display: none;
+        }
+
+        .comp-card {
+            flex: 0 0 250px;
+            height: 250px;
+            scroll-snap-align: start;
+            background: #ffffff;
+            border: 1px solid rgba(0,0,0,0.04);
+            border-radius: 20px;
+            padding: 30px 24px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            gap: 12px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.03);
+            transition: all 0.35s cubic-bezier(0.25, 1, 0.5, 1);
+            cursor: pointer;
+            position: relative;
+            word-break: keep-all;
+        }
+        
+        [data-theme="dark"] .comp-card {
+            background: var(--result-bg);
+            border-color: var(--border-color);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.2);
+        }
+        
+        .comp-card.expanded {
+            height: auto;
+            min-height: 250px;
+            transform: translateY(-4px) scale(1.01);
+            box-shadow: 0 15px 35px rgba(0,0,0,0.08);
+            z-index: 10;
+            border: 1px solid var(--accent-main);
+            cursor: pointer;
+            justify-content: flex-start;
+            align-items: flex-start;
+            text-align: left;
+        }
+        
+        .comp-card-common {
+            height: 180px;
+        }
+        
+        .comp-card-common.expanded {
+            min-height: 180px;
+        }
+        
+        [data-theme="dark"] .comp-card.expanded {
+            box-shadow: 0 12px 25px rgba(0, 255, 204, 0.1);
         }
 
         .comp-card-high {
@@ -515,15 +723,19 @@ HTML_PAGE = '''
 
         .comp-card-header {
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
             align-items: center;
             width: 100%;
+        }
+        
+        .comp-card.expanded .comp-card-header {
+            justify-content: flex-start;
         }
 
         .comp-card-title {
             font-weight: 700;
             color: var(--text-main);
-            font-size: 1.05em;
+            font-size: 1.2em;
             display: flex;
             align-items: center;
             gap: 8px;
@@ -574,6 +786,27 @@ HTML_PAGE = '''
 
         .comp-card.expanded .comp-card-reason {
             display: block;
+            margin-top: 10px;
+            opacity: 1;
+            animation: fadeIn 0.4s ease forwards;
+        }
+        
+        .comp-card-action {
+            margin-top: 15px;
+            padding-top: 15px;
+            color: var(--accent-blue);
+            font-weight: 700;
+            font-size: 0.9em;
+            text-align: right;
+            transition: color 0.3s ease;
+        }
+        
+        .comp-card:hover .comp-card-action {
+            color: var(--accent-main);
+        }
+
+        .comp-card.expanded .comp-card-action {
+            display: none;
         }
 
         #competencyAnalysisResult {
@@ -646,173 +879,203 @@ HTML_PAGE = '''
             text-decoration: underline;
         }
         
-        /* Resource links section in Consulting */
-        .resource-links-section {
-            margin-top: 30px;
-            padding: 24px;
-            background: var(--result-bg);
+        /* ===== AI CAREER CONSULTING SPLIT-PANE ===== */
+        .consulting-split-layout {
+            display: flex;
+            gap: 20px;
+            margin-top: 20px;
+            min-height: 550px;
+            background: var(--consulting-card-bg);
+            border: 1px solid var(--consulting-card-border);
             border-radius: 16px;
-            border: 1px solid var(--border-color);
+            box-shadow: var(--consulting-card-shadow);
+            overflow: hidden;
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
         }
 
-        .resource-links-title {
+        .consulting-sidebar {
+            width: 35%;
+            background: rgba(0,0,0,0.02);
+            border-right: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+            max-height: 600px;
+        }
+
+        [data-theme="dark"] .consulting-sidebar {
+            background: rgba(255,255,255,0.02);
+        }
+
+        .consulting-sidebar-item {
+            padding: 20px;
+            cursor: pointer;
+            border-bottom: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            border-left: 4px solid transparent;
+        }
+
+        .consulting-sidebar-item:hover {
+            background: var(--consulting-detail-bg);
+        }
+
+        .consulting-sidebar-item.active {
+            background: var(--consulting-detail-bg);
+            border-left: 4px solid var(--accent-main);
+        }
+
+        .consulting-sidebar-icon {
+            font-size: 1.8rem;
+            width: 50px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--consulting-icon-bg);
+            border-radius: 12px;
+            flex-shrink: 0;
+        }
+
+        .consulting-sidebar-text {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .consulting-sidebar-title {
             font-family: 'Rajdhani', sans-serif;
             font-weight: 700;
-            font-size: 1.1rem;
-            color: var(--accent-main);
-            margin-bottom: 16px;
+            color: var(--text-main);
+            font-size: 1.15rem;
+        }
+
+        .consulting-sidebar-subtitle {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            line-height: 1.4;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+
+        .consulting-content-view {
+            width: 65%;
+            padding: 35px 30px;
             display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+            max-height: 600px;
+        }
+
+        .consulting-content-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .consulting-content-title {
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 1.6rem;
+            font-weight: 700;
+            color: var(--text-main);
+        }
+
+        .consulting-content-summary-box {
+            background: var(--consulting-detail-bg);
+            border-left: 4px solid var(--accent-main);
+            padding: 20px;
+            border-radius: 0 12px 12px 0;
+            margin-bottom: 30px;
+            color: var(--accent-blue);
+            font-weight: 700;
+            font-size: 1.1rem;
+            line-height: 1.5;
+        }
+        
+        [data-theme="dark"] .consulting-content-summary-box {
+            color: var(--accent-main);
+        }
+
+        .consulting-content-details {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 40px 0;
+            flex-grow: 1;
+        }
+
+        .consulting-content-details li {
+            position: relative;
+            padding-left: 24px;
+            margin-bottom: 16px;
+            line-height: 1.6;
+            color: var(--text-muted);
+            font-size: 1.05rem;
+            border-bottom: none;
+        }
+
+        .consulting-content-details li::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: var(--accent-main);
+            font-size: 1.5rem;
+            top: -4px;
+        }
+
+        .consulting-resources-title {
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--text-main);
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding-top: 25px;
+            border-top: 1px dashed var(--border-color);
+        }
+
+        .consulting-resources-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            padding-bottom: 20px;
+        }
+
+        .resource-pill {
+            padding: 10px 18px;
+            background: rgba(0, 86, 179, 0.08);
+            color: var(--accent-blue);
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 0.95rem;
+            transition: all 0.2s;
+            border: 1px solid rgba(0, 86, 179, 0.15);
+            display: inline-flex;
             align-items: center;
             gap: 8px;
         }
 
-        .resource-links-grid {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-
-        .resource-link-btn {
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            padding: 8px 18px;
-            border-radius: 8px;
-            font-size: 0.9em;
-            font-weight: 700;
-            text-decoration: none;
-            color: #fff;
-            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-            transition: all 0.25s ease;
-        }
-
-        .resource-link-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 18px rgba(0,0,0,0.15);
-            text-decoration: none;
-            color: #fff;
-        }
-
-        [data-theme="dark"] a:hover {
-            text-shadow: 0 0 8px rgba(0, 255, 204, 0.3);
-            text-decoration: none;
-        }
-
-        /* ===== CONSULTING CARDS ===== */
-        .consulting-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
-
-        .consulting-card {
-            background: var(--consulting-card-bg);
-            backdrop-filter: blur(16px);
-            -webkit-backdrop-filter: blur(16px);
-            border: 1px solid var(--consulting-card-border);
-            border-radius: 16px;
-            padding: 24px;
-            box-shadow: var(--consulting-card-shadow);
-            transition: all 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-            position: relative;
-            overflow: hidden;
-            cursor: pointer;
-        }
-
-        .consulting-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 3px;
-            background: linear-gradient(90deg, var(--accent-main), var(--accent-blue));
-            opacity: 0;
-            transition: opacity 0.35s ease;
-        }
-
-        .consulting-card:hover {
-            transform: translateY(-4px);
-            box-shadow: var(--consulting-card-hover-shadow);
-        }
-
-        .consulting-card:hover::before {
-            opacity: 1;
-        }
-
-        .consulting-card-header {
-            display: flex;
-            align-items: center;
-            gap: 14px;
-            margin-bottom: 14px;
-        }
-
-        .consulting-card-icon {
-            width: 48px;
-            height: 48px;
-            border-radius: 12px;
-            background: var(--consulting-icon-bg);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.5rem;
-            flex-shrink: 0;
-        }
-
-        .consulting-card-title {
-            font-family: 'Rajdhani', sans-serif;
-            font-weight: 700;
-            font-size: 1.15rem;
-            color: var(--text-main);
-            letter-spacing: 0.5px;
-        }
-
-        .consulting-card-summary {
+        [data-theme="dark"] .resource-pill {
+            background: rgba(0, 255, 204, 0.08);
             color: var(--accent-main);
-            font-weight: 600;
-            font-size: 0.92rem;
-            margin-bottom: 16px;
-            padding: 10px 14px;
-            background: var(--consulting-detail-bg);
-            border-radius: 10px;
-            border-left: 3px solid var(--accent-main);
-            line-height: 1.5;
+            border: 1px solid rgba(0, 255, 204, 0.15);
         }
 
-        .consulting-card-details {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-            display: none;
-        }
-
-        .consulting-card.expanded .consulting-card-details {
-            display: block;
-        }
-
-        .consulting-card-details li {
-            position: relative;
-            padding: 8px 0 8px 22px;
-            font-size: 0.93rem;
-            color: var(--text-main);
-            line-height: 1.65;
-            border-bottom: 1px dashed var(--border-color);
-            margin-bottom: 0;
-        }
-
-        .consulting-card-details li:last-child {
-            border-bottom: none;
-        }
-
-        .consulting-card-details li::before {
-            content: '▸';
-            position: absolute;
-            left: 0;
-            top: 8px;
-            color: var(--consulting-detail-bullet);
-            font-size: 14px;
-            font-weight: 700;
+        .resource-pill:hover {
+            transform: translateY(-2px);
+            background: var(--accent-main);
+            color: white;
+            border-color: var(--accent-main);
+            text-decoration: none;
         }
 
         .consulting-placeholder {
@@ -849,41 +1112,49 @@ HTML_PAGE = '''
     </style>
 </head>
 <body>
+    <!-- Side Menu -->
+    <button class="hamburger-btn" onclick="toggleSideMenu()">☰</button>
+    <div class="side-menu-overlay" id="sideMenuOverlay" onclick="toggleSideMenu()"></div>
+    <div class="side-menu" id="sideMenu">
+        <h3 style="margin: 0 0 20px 10px; color: var(--accent-main); font-family: 'Orbitron', sans-serif; letter-spacing: 2px;">MENU</h3>
+        <button class="menu-link active" onclick="openTab(event, 'uploadTab')">🔵 HOME</button>
+        <button class="menu-link" id="resultTabBtn" onclick="openTab(event, 'resultTab')">🔵 ANALYSIS</button>
+        <button class="menu-link" id="consultingTabBtn" onclick="openTab(event, 'consultingTab')">🔵 CONSULTING</button>
+    </div>
+
     <div class="container">
         <div class="header-wrapper">
-            <h2>⚡ SILICON INSIGHT PRO</h2>
+            <h2>SEMI ROADMAP</h2>
             <button class="theme-toggle" id="themeToggleBtn" onclick="toggleTheme()">
                 🌙 다크 모드
             </button>
         </div>
 
-        <div class="tabs">
-            <button class="tab-link active" onclick="openTab(event, 'uploadTab')">CORE UPLOAD</button>
-            <button class="tab-link" id="resultTabBtn" onclick="openTab(event, 'resultTab')">ANALYSIS SYSTEM</button>
-            <button class="tab-link" id="consultingTabBtn" onclick="openTab(event, 'consultingTab')">CONSULTING</button>
-        </div>
-
         <div id="uploadTab" class="tab-content active">
-            <p>반도체 채용 분야에 특화된 페르소나 및 일반 전문가 중 적합한 마이크로 코드를 선택하여 이력서를 정밀 탐색합니다.</p>
             <form id="uploadForm">
-                <div class="form-group">
-                    <label>이력서 (PDF FORMAT)</label>
-                    <input type="file" name="file" accept=".pdf" required>
+                <!-- Job Persona Buttons -->
+                <div class="persona-btn-group" id="personaBtnGroup">
+                    <button type="button" class="persona-btn selected" data-value="공정">공정 엔지니어</button>
+                    <button type="button" class="persona-btn" data-value="설계">설계 엔지니어</button>
+                    <button type="button" class="persona-btn" data-value="SW">SW 개발자</button>
+                    <button type="button" class="persona-btn" data-value="설비/인프라">설비/인프라</button>
+                    <button type="button" class="persona-btn" data-value="경영">경영 및 기획</button>
+                    <button type="button" class="persona-btn" data-value="OSAT">OSAT (후공정)</button>
+                </div>
+                <input type="hidden" name="persona" id="personaHiddenInput" value="공정">
+
+                <!-- Upload Dropzone -->
+                <div class="upload-dropzone" id="uploadDropzone">
+                    <input type="file" name="file" id="fileInput" accept=".pdf" style="display: none;" required>
+                    <div class="upload-icon">📄</div>
+                    <div class="upload-title"> PDF 업로드</div>
+                    <div class="upload-subtitle">이미지 PDF 업로드 불가 (최대 4MB)</div>
+                    <button type="button" class="upload-btn" id="customUploadBtn">파일 선택</button>
+                    <div class="upload-drag-text">또는 파일을 끌어다 놓기</div>
+                    <div class="file-selected-text" id="fileSelectedText">선택된 파일: 없음</div>
                 </div>
                 
-                <div class="form-group">
-                    <label for="personaSelect">분석 페르소나 매핑</label>
-                    <select id="personaSelect" name="persona">
-                        <option value="공정">공정 (PROCESS) 엔지니어 전문가</option>
-                        <option value="설계">설계 (DESIGN) 엔지니어 전문가</option>
-                        <option value="SW">SW (SOFTWARE) 개발자 전문가</option>
-                        <option value="설비/인프라">설비/인프라 (INFRASTRUCTURE) 전문가</option>
-                        <option value="경영">경영 (MANAGEMENT) 및 기획 전문가</option>
-                        <option value="OSAT">OSAT (반도체 후공정) 채용 전문가</option>
-                    </select>
-                </div>
-                
-                <input type="submit" class="btn" id="submitBtn" value="RUN INTELLECTUAL INFERENCE">
+                <input type="submit" class="btn" id="submitBtn" value="업로드 하고 분석하기" disabled>
             </form>
             
             <div class="loading-container" id="status">
@@ -893,40 +1164,33 @@ HTML_PAGE = '''
         </div>
 
         <div id="resultTab" class="tab-content">
-            <h3>🔬 CORE AI FEEDBACK</h3>
+            <h3>ANALYSIS</h3>
             <div id="llmAnalysisResult">대기 중... 먼저 파일 업로드를 수행하십시오.</div>
 
-            <h3>📊 SKILL COMPETENCY RATING (직무 특화)</h3>
+            <h3>직무별 핵심 역량</h3>
             <div id="jobCompetencyResult">대기 중...</div>
 
-            <h3>🌐 COMMON COMPETENCY RATING (어학/자격증)</h3>
+            <h3>공통 역량</h3>
             <div id="commonCompetencyResult">대기 중...</div>
+
+            <div style="text-align: center; margin-top: 50px; margin-bottom: 20px;">
+                <button type="button" class="btn" onclick="document.getElementById('consultingTabBtn').click()" style="width: auto; padding: 16px 40px; font-size: 1.1em; border-radius: 30px;"> 컨설팅 결과 보기</button>
+            </div>
         </div>
 
         <div id="consultingTab" class="tab-content">
-            <h3>🧠 AI CAREER CONSULTING</h3>
+            <h3> CONSULTING</h3>
             <div id="consultingResult">
                 <div class="consulting-placeholder">
                     <div class="consulting-placeholder-icon">🎯</div>
                     <div class="consulting-placeholder-text">
                         이력서 분석 후 AI 컨설턴트가<br>
                         직무 맞춤형 커리어 컨설팅 카드를 생성합니다.<br><br>
-                        <strong>CORE UPLOAD</strong> 탭에서 이력서를 업로드해주세요.
+                        <strong></strong> 탭에서 이력서를 업로드해주세요.
                     </div>
                 </div>
             </div>
 
-            <div class="resource-links-section" id="resourceLinksSection" style="display:none;">
-                <div class="resource-links-title">🔗 커리어 성장을 위한 추천 리소스</div>
-                <div class="resource-links-grid">
-                    <a href="https://opic.or.kr/" target="_blank" class="resource-link-btn" style="background: #e74c3c;">📝 OPIc 공식 사이트 ↗</a>
-                    <a href="https://exam.toeic.co.kr/" target="_blank" class="resource-link-btn" style="background: #3498db;">📝 TOEIC 공식 사이트 ↗</a>
-                    <a href="https://www.toeicswt.co.kr/" target="_blank" class="resource-link-btn" style="background: #f39c12;">📝 TOEIC Speaking ↗</a>
-                    <a href="https://www.coursera.org/" target="_blank" class="resource-link-btn" style="background: #2980b9;">📚 Coursera ↗</a>
-                    <a href="https://www.edx.org/" target="_blank" class="resource-link-btn" style="background: #8e44ad;">📚 edX ↗</a>
-                    <a href="https://www.linkedin.com/" target="_blank" class="resource-link-btn" style="background: #0077b5;">👥 LinkedIn ↗</a>
-                </div>
-            </div>
         </div>
     </div>
 
@@ -958,14 +1222,167 @@ HTML_PAGE = '''
             }
         };
 
+        window.updateCarouselDots = function(wrapper) {
+            const dotsContainer = wrapper.nextElementSibling;
+            if (!dotsContainer || !dotsContainer.classList.contains('carousel-dots')) return;
+            const scrollLeft = wrapper.scrollLeft;
+            const scrollWidth = wrapper.scrollWidth;
+            const clientWidth = wrapper.clientWidth;
+            const cards = wrapper.children;
+            if (cards.length === 0) return;
+            
+            let activeIndex = 0;
+            if (scrollLeft + clientWidth >= scrollWidth - 5) {
+                // User has scrolled all the way to the right
+                activeIndex = cards.length - 1;
+            } else {
+                const cardWidth = cards[0].offsetWidth + 20; 
+                activeIndex = Math.round(scrollLeft / cardWidth);
+            }
+            
+            if (activeIndex < 0) activeIndex = 0;
+            if (activeIndex >= cards.length) activeIndex = cards.length - 1;
+            
+            const dots = dotsContainer.querySelectorAll('.carousel-dot');
+            dots.forEach((dot, index) => {
+                dot.classList.toggle('active', index === activeIndex);
+            });
+        };
+
+        function toggleSideMenu() {
+            const sideMenu = document.getElementById('sideMenu');
+            const overlay = document.getElementById('sideMenuOverlay');
+            sideMenu.classList.toggle('open');
+            overlay.classList.toggle('open');
+        }
+
+        // Run UI binding after DOM is fully loaded to prevent JS errors
+        document.addEventListener('DOMContentLoaded', () => {
+            // Job Persona Button Logic
+            const personaBtns = document.querySelectorAll('.persona-btn');
+            const personaHiddenInput = document.getElementById('personaHiddenInput');
+            if(personaBtns.length > 0 && personaHiddenInput) {
+                personaBtns.forEach(btn => {
+                    btn.addEventListener('click', () => {
+                        personaBtns.forEach(b => b.classList.remove('selected'));
+                        btn.classList.add('selected');
+                        personaHiddenInput.value = btn.getAttribute('data-value');
+                    });
+                });
+            }
+
+            // Drag and Drop Upload Logic
+            const dropzone = document.getElementById('uploadDropzone');
+            const fileInput = document.getElementById('fileInput');
+            const customUploadBtn = document.getElementById('customUploadBtn');
+            const fileSelectedText = document.getElementById('fileSelectedText');
+            const submitBtn = document.getElementById('submitBtn');
+
+            if(dropzone && fileInput && customUploadBtn) {
+                customUploadBtn.addEventListener('click', () => {
+                    fileInput.click();
+                });
+
+                fileInput.addEventListener('change', handleFileSelect);
+
+                dropzone.addEventListener('dragover', (e) => {
+                    e.preventDefault();
+                    dropzone.classList.add('dragover');
+                });
+
+                dropzone.addEventListener('dragleave', (e) => {
+                    e.preventDefault();
+                    dropzone.classList.remove('dragover');
+                });
+
+                dropzone.addEventListener('drop', (e) => {
+                    e.preventDefault();
+                    dropzone.classList.remove('dragover');
+                    if (e.dataTransfer.files.length) {
+                        fileInput.files = e.dataTransfer.files;
+                        handleFileSelect();
+                    }
+                });
+
+                function handleFileSelect() {
+                    if (fileInput.files.length > 0) {
+                        fileSelectedText.innerText = `✅ 선택된 파일: ${fileInput.files[0].name}`;
+                        fileSelectedText.style.display = 'block';
+                        submitBtn.disabled = false;
+                        submitBtn.value = "분석 시작";
+                        // Scroll to submit button smoothly
+                        setTimeout(() => {
+                            submitBtn.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                        }, 100);
+                    } else {
+                        fileSelectedText.style.display = 'none';
+                        submitBtn.disabled = true;
+                        submitBtn.value = "업로드 하고 분석하기";
+                    }
+                }
+            }
+        });
+
         function openTab(evt, tabName) {
             const contents = document.getElementsByClassName("tab-content");
             for (let i = 0; i < contents.length; i++) contents[i].classList.remove("active");
-            const links = document.getElementsByClassName("tab-link");
+            const links = document.getElementsByClassName("menu-link");
             for (let i = 0; i < links.length; i++) links[i].classList.remove("active");
             document.getElementById(tabName).classList.add("active");
             evt.currentTarget.classList.add("active");
+
+            // Close sidebar when a tab is clicked
+            const sideMenu = document.getElementById('sideMenu');
+            const overlay = document.getElementById('sideMenuOverlay');
+            if(sideMenu.classList.contains('open')) {
+                sideMenu.classList.remove('open');
+                overlay.classList.remove('open');
+            }
         }
+
+        window.consultingCardsData = []; // Store cards globally for click events
+
+        window.selectConsultingCard = function(index) {
+            // Update Sidebar Active State
+            const items = document.querySelectorAll('.consulting-sidebar-item');
+            items.forEach((el, i) => {
+                if(i === index) el.classList.add('active');
+                else el.classList.remove('active');
+            });
+
+            // Update Main Content
+            const card = window.consultingCardsData[index];
+            if(!card) return;
+
+            let detailsHtml = '<ul class="consulting-content-details">';
+            if(card.details && card.details.length) {
+                card.details.forEach(d => {
+                    detailsHtml += `<li>${d}</li>`;
+                });
+            }
+            detailsHtml += '</ul>';
+
+            let resourcesHtml = '';
+            if (card.resources && card.resources.length) {
+                resourcesHtml += '<div class="consulting-resources-title">🔗 추천 리소스</div>';
+                resourcesHtml += '<div class="consulting-resources-grid">';
+                card.resources.forEach(res => {
+                    resourcesHtml += `<a href="${res.url}" target="_blank" class="resource-pill">📝 ${res.name} ↗</a>`;
+                });
+                resourcesHtml += '</div>';
+            }
+
+            const contentView = document.getElementById('consultingContentView');
+            contentView.innerHTML = `
+                <div class="consulting-content-header">
+                    <div class="consulting-sidebar-icon" style="font-size:2rem; width:60px; height:60px;">${card.icon || '📋'}</div>
+                    <div class="consulting-content-title">${card.title}</div>
+                </div>
+                <div class="consulting-content-summary-box">${card.summary}</div>
+                ${detailsHtml}
+                ${resourcesHtml}
+            `;
+        };
 
         function renderConsultingCards(cards) {
             const container = document.getElementById('consultingResult');
@@ -974,24 +1391,30 @@ HTML_PAGE = '''
                 return;
             }
 
-            let html = '<div class="consulting-grid">';
+            window.consultingCardsData = cards;
+            
+            let sidebarHtml = '<div class="consulting-sidebar" id="consultingSidebar">';
             cards.forEach((card, index) => {
-                const delay = index * 0.1;
-                html += `
-                    <div class="consulting-card animate-in" style="animation-delay: ${delay}s;" onclick="this.classList.toggle('expanded')">
-                        <div class="consulting-card-header">
-                            <div class="consulting-card-icon">${card.icon || '📋'}</div>
-                            <div class="consulting-card-title">${card.title}</div>
+                sidebarHtml += `
+                    <div class="consulting-sidebar-item ${index === 0 ? 'active' : ''}" onclick="selectConsultingCard(${index})">
+                        <div class="consulting-sidebar-icon">${card.icon || '📋'}</div>
+                        <div class="consulting-sidebar-text">
+                            <div class="consulting-sidebar-title">${card.title}</div>
+                            <div class="consulting-sidebar-subtitle">${card.summary}</div>
                         </div>
-                        <div class="consulting-card-summary">${card.summary}</div>
-                        <ul class="consulting-card-details">
-                            ${card.details.map(d => `<li>${d}</li>`).join('')}
-                        </ul>
                     </div>
                 `;
             });
-            html += '</div>';
-            container.innerHTML = html;
+            sidebarHtml += '</div>';
+            
+            const contentHtml = '<div class="consulting-content-view" id="consultingContentView"></div>';
+
+            container.innerHTML = `<div class="consulting-split-layout">${sidebarHtml}${contentHtml}</div>`;
+            
+            // Automatically select the first item to render its content
+            setTimeout(() => {
+                selectConsultingCard(0);
+            }, 50);
         }
 
         document.getElementById('uploadForm').onsubmit = async (e) => {
@@ -1002,14 +1425,12 @@ HTML_PAGE = '''
             const jobCompetencyResultDiv = document.getElementById('jobCompetencyResult');
             const commonCompetencyResultDiv = document.getElementById('commonCompetencyResult');
             const consultingResultDiv = document.getElementById('consultingResult');
-            const resourceLinksSection = document.getElementById('resourceLinksSection');
 
             status.style.display = "flex";
             btn.disabled = true;
             llmResultDiv.innerText = "분석 연산 처리 중...";
             jobCompetencyResultDiv.innerText = "분석 연산 처리 중...";
             commonCompetencyResultDiv.innerText = "분석 연산 처리 중...";
-            resourceLinksSection.style.display = 'none';
             consultingResultDiv.innerHTML = '<div class="consulting-placeholder"><div class="pulse-loader" style="margin:0 auto;"></div><div class="loading-text" style="margin-top:20px;">AI 컨설턴트가 맞춤형 컨설팅 카드를 생성 중...</div></div>';
 
             const formData = new FormData(e.target);
@@ -1046,64 +1467,69 @@ HTML_PAGE = '''
                         llmResultDiv.innerText = data.llm_analysis;
                     }
 
-                    // Render job competency analysis (최대 6개, 등급별 시각화)
-                    let jobHtml = '<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 15px; margin-top: 10px;">';
-                    if (data.competency_analysis && data.competency_analysis.job_evaluations && data.competency_analysis.job_evaluations.length > 0) {
-                        const jobItems = data.competency_analysis.job_evaluations.slice(0, 6);
-                        jobItems.forEach(item => {
-                            let cardClass = 'comp-card';
-                            let titleIndicator = '';
-                            if (item.grade === '상') {
-                                cardClass += ' comp-card-high';
-                                titleIndicator = '<span class="comp-card-indicator-high">✓</span>';
-                            } else if (item.grade === '하') {
-                                cardClass += ' comp-card-low';
-                                titleIndicator = '<span class="comp-card-indicator-low">⚠</span>';
-                            }
-                            jobHtml += `<div class="${cardClass}" onclick="this.classList.toggle('expanded')">
-                                              <div class="comp-card-header">
-                                                  <span class="comp-card-title">${item.competency} ${titleIndicator}</span>
-                                              </div>
-                                              <div class="comp-card-reason">${item.reason}</div>
-                                           </div>`;
-                        });
-                        jobHtml += '</div>';
-                    } else {
-                        jobHtml = '<p style="color:var(--text-muted);">해당 직무의 역량 데이터 파일이 제공되지 않았습니다. 추후 반영 예정입니다.</p>';
-                    }
-                    jobCompetencyResultDiv.innerHTML = jobHtml;
+                    // Reusable card creation logic
+                    const createCard = (item, isCommon = false) => {
+                        let cardClass = 'comp-card';
+                        if (isCommon) cardClass += ' comp-card-common';
+                        let titleIndicator = '';
+                        if (item.grade === '상') {
+                            cardClass += ' comp-card-high';
+                            titleIndicator = '<span class="comp-card-indicator-high">✓</span>';
+                        } else if (item.grade === '하') {
+                            cardClass += ' comp-card-low';
+                            titleIndicator = '<span class="comp-card-indicator-low">⚠</span>';
+                        }
+                        
+                        const safeCompetency = (item.competency || "").replace(/_/g, ' ');
+                        const safeReason = (item.reason || "").replace(/_/g, ' ');
+                        
+                        return `<div class="${cardClass}" onclick="expandCard(this)">
+                                    <div class="comp-card-header">
+                                        <span class="comp-card-title">${safeCompetency} ${titleIndicator}</span>
+                                    </div>
+                                    <div class="comp-card-reason">${safeReason}</div>
+                                    <div class="comp-card-action">🔍 자세히 알아보기</div>
+                                </div>`;
+                    };
 
-                    // Render common competency analysis (같은 시각화 적용)
-                    let commonHtml = '<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 15px; margin-top: 10px;">';
-                    if (data.competency_analysis && data.competency_analysis.common_evaluations && data.competency_analysis.common_evaluations.length > 0) {
-                        data.competency_analysis.common_evaluations.forEach(item => {
-                            let cardClass = 'comp-card';
-                            let titleIndicator = '';
-                            if (item.grade === '상') {
-                                cardClass += ' comp-card-high';
-                                titleIndicator = '<span class="comp-card-indicator-high">✓</span>';
-                            } else if (item.grade === '하') {
-                                cardClass += ' comp-card-low';
-                                titleIndicator = '<span class="comp-card-indicator-low">⚠</span>';
-                            }
-                            commonHtml += `<div class="${cardClass}" onclick="this.classList.toggle('expanded')">
-                                              <div class="comp-card-header">
-                                                  <span class="comp-card-title">${item.competency} ${titleIndicator}</span>
-                                              </div>
-                                              <div class="comp-card-reason">${item.reason}</div>
-                                           </div>`;
-                        });
-                        commonHtml += '</div>';
+                    const renderCarousel = (items, isCommon = false) => {
+                        if (!items || items.length === 0) return '<p style="color:var(--text-muted);">데이터가 제공되지 않았습니다.</p>';
+                        
+                        let html = '<div class="carousel-container">';
+                        html += '<div class="carousel-wrapper" onscroll="updateCarouselDots(this)">';
+                        html += items.map(item => createCard(item, isCommon)).join('');
+                        html += '</div>';
+                        
+                        // Render Dots
+                        if (items.length > 1) {
+                            html += '<div class="carousel-dots">';
+                            items.forEach((_, i) => {
+                                html += `<div class="carousel-dot ${i === 0 ? 'active' : ''}"></div>`;
+                            });
+                            html += '</div>';
+                        }
+                        html += '</div>';
+                        return html;
+                    };
+
+                    // Render job competency analysis
+                    if (data.competency_analysis && data.competency_analysis.job_evaluations && data.competency_analysis.job_evaluations.length > 0) {
+                        jobCompetencyResultDiv.innerHTML = renderCarousel(data.competency_analysis.job_evaluations.slice(0, 6), false);
                     } else {
-                        commonHtml = '<p style="color:var(--text-muted);">공통 역량 평가 결과가 없습니다.</p>';
+                        jobCompetencyResultDiv.innerHTML = '<p style="color:var(--text-muted);">해당 직무의 역량 데이터 파일이 제공되지 않았습니다. 추후 반영 예정입니다.</p>';
                     }
-                    commonCompetencyResultDiv.innerHTML = commonHtml;
+
+                    // Render common competency analysis
+                    if (data.competency_analysis && data.competency_analysis.common_evaluations && data.competency_analysis.common_evaluations.length > 0) {
+                        commonCompetencyResultDiv.innerHTML = renderCarousel(data.competency_analysis.common_evaluations, true);
+                    } else {
+                        commonCompetencyResultDiv.innerHTML = '<p style="color:var(--text-muted);">공통 역량 평가 결과가 없습니다.</p>';
+                    }
 
 
                     // Render consulting cards (LLM2 결과)
                     if (data.consulting_cards && data.consulting_cards.length > 0) {
                         renderConsultingCards(data.consulting_cards);
-                        resourceLinksSection.style.display = 'block';
                     } else if (data.consulting_error) {
                         consultingResultDiv.innerHTML = `<div class="consulting-placeholder"><div class="consulting-placeholder-icon">⚠️</div><div class="consulting-placeholder-text">${data.consulting_error}</div></div>`;
                     } else {
@@ -1120,6 +1546,18 @@ HTML_PAGE = '''
                 btn.disabled = false;
             }
         };
+
+        // Carousel Logic
+        window.expandCard = function(card) {
+            if (card.classList.contains('expanded')) {
+                card.classList.remove('expanded');
+                return;
+            }
+            
+            const wrapper = card.closest('.carousel-wrapper');
+            wrapper.querySelectorAll('.comp-card.expanded').forEach(c => c.classList.remove('expanded'));
+            card.classList.add('expanded');
+        }
     </script>
 </body>
 </html>
@@ -1171,7 +1609,7 @@ def analyze_resume():
 
     try:
         response = client.chat.completions.create(
-            model="solar-1-mini-chat",
+            model="solar-pro3",
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": extracted_text}
@@ -1229,7 +1667,7 @@ def analyze_resume():
         )
         
         comp_response = client.chat.completions.create(
-            model="solar-1-mini-chat",
+            model="solar-pro3",
             messages=[
                 {"role": "system", "content": comp_prompt}
             ],

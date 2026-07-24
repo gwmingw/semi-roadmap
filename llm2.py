@@ -52,6 +52,10 @@ def generate_consulting_cards(target_job: str, job_competencies_json: str, analy
        - 장기 성장 로드맵 (6개월~1년)
        - 추천 자격증/교육/프로젝트
        - 면접 대비 포인트
+    6. 만약 어학이나 글로벌 커뮤니케이션 관련 역량 강화 카드를 생성할 경우, 추천 리소스에 반드시 다음 링크들을 포함하세요:
+       - TOEIC 접수 (https://exam.toeic.co.kr/)
+       - OPIc 접수 (https://www.opic.or.kr/)
+       - 토익스피킹 (https://www.toeicswt.co.kr/)
 
     반드시 아래의 JSON 형식으로만 응답하세요. 마크다운 기호(```json)나 부연 설명은 절대 포함하지 마세요.
 
@@ -60,9 +64,13 @@ def generate_consulting_cards(target_job: str, job_competencies_json: str, analy
         {{
           "card_id": "고유한 영문 ID (snake_case)",
           "icon": "카드 주제에 어울리는 이모지 1개",
-          "title": "카드 제목",
-          "summary": "핵심 내용 한 줄 요약",
-          "details": ["구체적인 조언 또는 분석 포인트 1", "구체적인 조언 또는 분석 포인트 2", "...필요한 만큼"]
+          "title": "카드 제목 (예: 반도체 공정 도메인 지식 보완 전략)",
+          "summary": "핵심 내용 한 줄 요약 (예: 반도체 공정/소자 기초지식과 FAB/PKG 경험을 보완하기 위한 실행 계획)",
+          "details": ["구체적인 조언 또는 분석 포인트 1", "구체적인 조언 또는 분석 포인트 2", "...필요한 만큼"],
+          "resources": [
+            {{ "name": "리소스 이름 (예: Coursera 반도체 공정 강의)", "url": "정확하고 접속 가능한 실제 URL (불확실할 경우 구글 검색 링크 활용: https://www.google.com/search?q=해당+주제+강의)" }},
+            {{ "name": "관련 자격증 등", "url": "URL" }}
+          ]
         }}
       ]
     }}
