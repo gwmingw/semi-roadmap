@@ -1145,9 +1145,9 @@ HTML_PAGE = '''
                 <div class="persona-btn-group" id="personaBtnGroup">
                     <button type="button" class="persona-btn selected" data-value="공정">공정 엔지니어</button>
                     <button type="button" class="persona-btn" data-value="설계">설계 엔지니어</button>
-                    <button type="button" class="persona-btn" data-value="SW">SW 개발자</button>
+                    <button type="button" class="persona-btn" data-value="SW">SW 엔지니어</button>
                     <button type="button" class="persona-btn" data-value="설비/인프라">설비/인프라</button>
-                    <button type="button" class="persona-btn" data-value="경영">경영 및 기획</button>
+                    <button type="button" class="persona-btn" data-value="경영">경영지원</button>
                     <button type="button" class="persona-btn" data-value="OSAT">OSAT (후공정)</button>
                 </div>
                 <input type="hidden" name="persona" id="personaHiddenInput" value="공정">
@@ -1163,7 +1163,7 @@ HTML_PAGE = '''
                     <div class="file-selected-text" id="fileSelectedText">선택된 파일: 없음</div>
                 </div>
                 
-                <input type="submit" class="btn" id="submitBtn" value="업로드 하고 분석하기" disabled>
+                <input type="submit" class="btn" id="submitBtn" value="업로드하고 분석하기" disabled>
             </form>
             
             <div class="loading-container" id="status">
