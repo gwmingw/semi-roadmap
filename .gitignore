@@ -216,3 +216,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+**/__pycache__/
+
+# Vercel
+.vercel/
+
+# Environment files
+.env.local
+.env.* 
+!.env.example
+
+# Codex / local agent metadata
+.agents/
+.codex/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project-specific local / scratch files
+server.out.log
+server.err.log
+api호출 (1).ipynb
+static/dbscan_process_test.html
