@@ -1,0 +1,318 @@
+﻿posting_id,company_name_normalized,division_name_raw,role_name_raw,type,content
+20c147a4,SK하이닉스,IT,IT,requirement,∙ 4년제 학사 이상 졸업(예정)자 (학/석/박)
+20c147a4,SK하이닉스,IT,IT,requirement,"∙ 전산, 컴퓨터, 산업공학, 경영정보학, 전기, 전자, 반도체 등 관련 전공"
+20c147a4,SK하이닉스,IT,IT,requirement,| 행동역량 및 Skillset(
+20c147a4,SK하이닉스,IT,IT,preference,"∙ Software 설계/개발 경험/역량 보유 : C/C++, C#, JAVA, SQL, React, SpringBoot,"
+20c147a4,SK하이닉스,IT,IT,preference,"Redis, Open Source Software 등 Language/DBMS 역량/ALM Tool 이해"
+20c147a4,SK하이닉스,IT,IT,preference,"∙ AMHS(OHT, AMR 등) 기술에 대한 H/W, S/W 이해"
+20c147a4,SK하이닉스,IT,IT,preference,"∙ IoT, Cloud, Big Data, Mobile, 서버가상화/VDI, AR/VR, UI/UX/CX 기술에 대한 이해"
+20c147a4,SK하이닉스,IT,IT,preference,∙ 시스템 구축 기획 및 아키텍처 설계 경험/역량 보유
+20c147a4,SK하이닉스,IT,IT,preference,∙ Agile/DevOps 등 개발 방법론에 대한 이해
+54740e49,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,requirement,데이터 분석 및 통신 방식을 이해하고 신기술에 대한 관심과 이해도를 보유한 자
+54740e49,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,requirement,시스템 요구사항을 이해하고 이에 맞는 소프트웨어 및 IT인프라 기획/설계가 가능한 자
+54740e49,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,requirement,"컴퓨터, 전기전자/통신, 수학/통계/산업공학, 물리/기계 계열 전공자 또는 이에 상응하는 전공"
+54740e49,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,requirement,지식 보유자
+54740e49,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제 해결 역량 보유자
+54740e49,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,소프트웨어 및 하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+54740e49,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,"보안관리 및 거버넌스, 통신보안, 표준화 데이터베이스, 인터넷보안 관련 경험 보유자"
+54740e49,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+54740e49,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,"운영체제(Windows/Linux) 및 Embedded시스템, ARM Architecture역량 보유자"
+54740e49,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,CAD/CAE 관련 Tool 역량 보유자
+791fc8ce,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,requirement,데이터 분석 및 통신 방식을 이해하고 신기술에 대한 관심과 이해도를 보유한 자
+791fc8ce,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,requirement,시스템 요구사항을 이해하고 이에 맞는 소프트웨어 및 IT인프라 기획/설계가 가능한 자
+791fc8ce,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,requirement,"컴퓨터, 전기전자/통신, 수학/통계/산업공학, 물리/기계 계열 전공자 또는 이에 상응하는 전공"
+791fc8ce,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,requirement,지식 보유자
+791fc8ce,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제 해결 역량 보유자
+791fc8ce,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,소프트웨어 및 하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+791fc8ce,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,"보안관리 및 거버넌스, 통신보안, 표준화 데이터베이스, 인터넷보안 관련 경험 보유자"
+791fc8ce,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+791fc8ce,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,"운영체제(Windows/Linux) 및 Embedded시스템, ARM Architecture역량 보유자"
+791fc8ce,삼성전자 DS 부문,,MIS(Management Information System) 기획/구축/운영,preference,CAD/CAE 관련 Tool 역량 보유자
+a4b506e2,삼성전자,,MIS(Management Information System) 기획/구축/운영,requirement,데이터 분석 및 통신 방식을 이해하고 신기술에 대한 관심과 이해도를 보유한 자
+a4b506e2,삼성전자,,MIS(Management Information System) 기획/구축/운영,requirement,시스템 요구사항을 이해하고 이에 맞는 소프트웨어 및 IT인프라 기획/설계가 가능한 자
+a4b506e2,삼성전자,,MIS(Management Information System) 기획/구축/운영,requirement,"컴퓨터, 전기전자/통신, 수학/통계/산업공학, 물리/기계 계열 전공자 또는 이에 상응하는 전공"
+a4b506e2,삼성전자,,MIS(Management Information System) 기획/구축/운영,requirement,지식 보유자
+a4b506e2,삼성전자,,MIS(Management Information System) 기획/구축/운영,preference,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제 해결 역량 보유자
+a4b506e2,삼성전자,,MIS(Management Information System) 기획/구축/운영,preference,소프트웨어 및 하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+a4b506e2,삼성전자,,MIS(Management Information System) 기획/구축/운영,preference,"보안관리 및 거버넌스, 통신보안, 표준화 데이터베이스, 인터넷보안 관련 경험 보유자"
+a4b506e2,삼성전자,,MIS(Management Information System) 기획/구축/운영,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+a4b506e2,삼성전자,,MIS(Management Information System) 기획/구축/운영,preference,"운영체제(Windows/Linux) 및 Embedded시스템, ARM Architecture역량 보유자"
+a4b506e2,삼성전자,,MIS(Management Information System) 기획/구축/운영,preference,CAD/CAE 관련 Tool 역량 보유자
+14725550,삼성전자,System LSI사업부,S/W 개발,requirement,프로그래밍 언어 (C/C++/C#/Python/Java 등) 및 알고리즘 문제 해결 역량 보유자
+14725550,삼성전자,System LSI사업부,S/W 개발,requirement,"Embedded 시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+14725550,삼성전자,System LSI사업부,S/W 개발,requirement,요구 사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+14725550,삼성전자,System LSI사업부,S/W 개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+14725550,삼성전자,System LSI사업부,S/W 개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+14725550,삼성전자,System LSI사업부,S/W 개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+14725550,삼성전자,System LSI사업부,S/W 개발,preference,Front-end Web Programming 경험자
+14725550,삼성전자,System LSI사업부,S/W 개발,preference,Machine Learning에 대한 이해와 활용 경험 보유자
+1747048d,삼성전자,,S/W 개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량 보유자
+1747048d,삼성전자,,S/W 개발,requirement,"Embedded시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+1747048d,삼성전자,,S/W 개발,requirement,요구사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+1747048d,삼성전자,,S/W 개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+1747048d,삼성전자,,S/W 개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+1747048d,삼성전자,,S/W 개발,preference,AI 및 Machine Learning에 대한 이해와 활용 경험 보유자
+1747048d,삼성전자,,S/W 개발,preference,SW / HW 플랫폼을 활용한 프로젝트 수행 경험 보유자
+1747048d,삼성전자,,S/W 개발,preference,"설비 제어SW, Embedded SW, Vision SW개발 경험 보유자"
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,requirement,프로그래밍 언어(C / C++ / C# / Python / Java / R / Spotfire 등) 및
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,requirement,알고리즘 문제해결 역량 보유자
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,requirement,"임베디드 시스템 및 ARM Architecture, 운영체제(Windows / Linux) 역량 보유자"
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,SW / HW 플랫폼을 활용한 프로젝트 수행 경험 보유자
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,Front-end Web Programming 경험자
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,Machine Learning에 대한 이해와 활용 경험 보유자
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,메모리 소자 및 구조에 대한 지식 보유자
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,Career Vision
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,S/W 기술 지식을 바탕으로 제품 기술 및 Firmware 개발을 통해 S/W설계 역량을 배양할 수
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,있습니다.
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,Machine Learning 및 S/W Engineering 경험을 통해 제품 최적화 및 품질 방법론 전문가로
+2a6ccb59,삼성전자,메모리사업부,S/W 개발,preference,성장할 수 있습니다.
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량 보유자
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,requirement,"Embedded시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,requirement,요구사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,AI 및 Machine Learning에 대한 이해와 활용 경험 보유자
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,"Machine Learning, Deep Learning 기반 최적화, 예측 Model/Application 개발 경험"
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,"직무와 연관된 경험 보유자(프로젝트, 논문, 특허, 경진대회)"
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,S/W Architecture 및 Source 코드 분석 경험자
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,S/W Measurement 기법 활용 및 Metrics 분석 경험자
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,"ICS/SCADA, Application, Mobile, Cloud 취약점 진단 지식 및 해킹 기술 보유자"
+3f5e64b4,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,"설비 제어SW, Embedded SW, Vision SW개발 경험 보유자"
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,requirement,프로그래밍 언어 (C/C++/C#/Python/Java 등) 및 알고리즘 문제 해결 역량 보유자
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,requirement,"Embedded 시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,requirement,요구 사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,preference,Front-end Web Programming 경험자
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,preference,Machine Learning에 대한 이해와 활용 경험 보유자
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,preference,Career Vision
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,preference,"Mobile, Automotive 등 다양한 응용처에서 시스템 반도체가 구동할 수 있도록Embedded"
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,preference,S/W를 개발하는 S/W개발자로 성장할 수 있습니다.
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,preference,다양한 OS 환경의 S/W개발과 AI를 적용한 Solution개발로 최고의 성능을 구현하는데
+8e0343d6,삼성전자,System LSI사업부,S/W 개발,preference,참여함을 통해 넓은 기술 커버리지를 갖춘 S/W Engineer로 성장 가능합니다.
+8e522ec5,삼성전자,TSP총괄,S/W 개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량 보유자
+8e522ec5,삼성전자,TSP총괄,S/W 개발,requirement,"Embedded시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+8e522ec5,삼성전자,TSP총괄,S/W 개발,requirement,요구사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,AI 및 Machine Learning에 대한 이해와 활용 경험 보유자
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,"Machine Learning, Deep Learning 기반 최적화, 예측 Model/Application 개발 경험"
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,"직무와 연관된 경험 보유자(프로젝트, 논문, 특허, 경진대회)"
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,S/W Architecture 및 Source 코드 분석 경험자
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,S/W Measurement 기법 활용 및 Metrics 분석 경험자
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,"ICS/SCADA, Application, Mobile, Cloud 취약점 진단 지식 및 해킹 기술 보유자"
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,"설비 제어SW, Embedded SW, Vision SW개발 경험 보유자"
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,Career Vision
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,"A.I., D.L"
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,"등을 활용한 Data Engineering 역량을 배양하고 관련된 방법론 개발, 품질 관리"
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,전문가로 성장할 수 있습니다.
+8e522ec5,삼성전자,TSP총괄,S/W 개발,preference,"공정, 테스트 설비 제어, 통신 등에 대한 S/W 역량을 배양하고 시스템을 개발하고 설계하는"
+8e81a43f,삼성전자 DS 부문,System LSI사업부,S/W 개발,requirement,프로그래밍 언어 (C/C++/C#/Python/Java 등) 및 알고리즘 문제 해결 역량 보유자
+8e81a43f,삼성전자 DS 부문,System LSI사업부,S/W 개발,requirement,"Embedded 시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+8e81a43f,삼성전자 DS 부문,System LSI사업부,S/W 개발,requirement,요구 사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+8e81a43f,삼성전자 DS 부문,System LSI사업부,S/W 개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+8e81a43f,삼성전자 DS 부문,System LSI사업부,S/W 개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+8e81a43f,삼성전자 DS 부문,System LSI사업부,S/W 개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+8e81a43f,삼성전자 DS 부문,System LSI사업부,S/W 개발,preference,Front-end Web Programming 경험자
+8e81a43f,삼성전자 DS 부문,System LSI사업부,S/W 개발,preference,Machine Learning에 대한 이해와 활용 경험 보유자
+9257f068,삼성전자,,S/W 개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량 보유자
+9257f068,삼성전자,,S/W 개발,requirement,"Embedded시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+9257f068,삼성전자,,S/W 개발,requirement,요구사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+9257f068,삼성전자,,S/W 개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+9257f068,삼성전자,,S/W 개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+9257f068,삼성전자,,S/W 개발,preference,AI 및 Machine Learning에 대한 이해와 활용 경험 보유자
+9257f068,삼성전자,,S/W 개발,preference,SW / HW 플랫폼을 활용한 프로젝트 수행 경험 보유자
+9257f068,삼성전자,,S/W 개발,preference,"설비 제어SW, Embedded SW, Vision SW개발 경험 보유자"
+92cc7836,삼성전자 DS 부문,System LSI사업부,S/W 개발,requirement,프로그래밍 언어 (C/C++/C#/Python/Java 등) 및 알고리즘 문제 해결 역량 보유자
+92cc7836,삼성전자 DS 부문,System LSI사업부,S/W 개발,requirement,"Embedded 시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+92cc7836,삼성전자 DS 부문,System LSI사업부,S/W 개발,requirement,요구 사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+92cc7836,삼성전자 DS 부문,System LSI사업부,S/W 개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+92cc7836,삼성전자 DS 부문,System LSI사업부,S/W 개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+92cc7836,삼성전자 DS 부문,System LSI사업부,S/W 개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+92cc7836,삼성전자 DS 부문,System LSI사업부,S/W 개발,preference,Front-end Web Programming 경험자
+92cc7836,삼성전자 DS 부문,System LSI사업부,S/W 개발,preference,Machine Learning에 대한 이해와 활용 경험 보유자
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량 보유자
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,requirement,"Embedded시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,requirement,요구사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,AI 및 Machine Learning에 대한 이해와 활용 경험 보유자
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,"Machine Learning, Deep Learning 기반 최적화, 예측 Model/Application 개발 경험"
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,"직무와 연관된 경험 보유자(프로젝트, 논문, 특허, 경진대회)"
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,S/W Architecture 및 Source 코드 분석 경험자
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,S/W Measurement 기법 활용 및 Metrics 분석 경험자
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,"ICS/SCADA, Application, Mobile, Cloud 취약점 진단 지식 및 해킹 기술 보유자"
+f0381a9e,삼성전자 DS 부문,TSP총괄,S/W 개발,preference,"설비 제어SW, Embedded SW, Vision SW개발 경험 보유자"
+fca83551,삼성전자,TSP총괄,S/W 개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량 보유자
+fca83551,삼성전자,TSP총괄,S/W 개발,requirement,"Embedded시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+fca83551,삼성전자,TSP총괄,S/W 개발,requirement,요구사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+fca83551,삼성전자,TSP총괄,S/W 개발,preference,AI 및 Machine Learning에 대한 이해와 활용 경험 보유자
+fca83551,삼성전자,TSP총괄,S/W 개발,preference,"Machine Learning, Deep Learning 기반 최적화, 예측 Model/Application 개발 경험"
+fca83551,삼성전자,TSP총괄,S/W 개발,preference,"직무와 연관된 경험 보유자(프로젝트, 논문, 특허, 경진대회)"
+fca83551,삼성전자,TSP총괄,S/W 개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+fca83551,삼성전자,TSP총괄,S/W 개발,preference,S/W Architecture 및 Source 코드 분석 경험자
+fca83551,삼성전자,TSP총괄,S/W 개발,preference,S/W Measurement 기법 활용 및 Metrics 분석 경험자
+fca83551,삼성전자,TSP총괄,S/W 개발,preference,"ICS/SCADA, Application, Mobile, Cloud 취약점 진단 지식 및 해킹 기술 보유자"
+fca83551,삼성전자,TSP총괄,S/W 개발,preference,"설비 제어SW, Embedded SW, Vision SW개발 경험 보유자"
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,프로그래밍 언어(C / C++ / C# / Python / Java / R / Spotfire 등) 및
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,알고리즘 문제해결 역량 보유자
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,"임베디드 시스템 및 ARM Architecture, 운영체제(Windows / Linux) 역량 보유자"
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,요구사항을 이해하고 이에 기반한 소프트웨어 설계 및 Test script 구현 역량 보유자
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,Storage System 및 Cloud System에 대한 지식 보유자
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,데이터 마이닝 역량 보유자
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,"암호, 네트워크, 통신 보안, 분산 시스템에 대한 지식 보유자"
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,preference,SW / HW 플랫폼을 활용한 프로젝트 수행 경험 보유자
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,preference,Front-end Web Programming 경험자
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,preference,Machine Learning에 대한 이해와 활용 경험 보유자
+018f884a,삼성전자 DS 부문,메모리사업부,S/W개발,preference,메모리 소자 및 구조에 대한 지식 보유자
+0d8df790,삼성전자 DS 부문,설비기술연구소,S/W개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량보유자
+0d8df790,삼성전자 DS 부문,설비기술연구소,S/W개발,requirement,프로그래밍 요구사항을 이해하고 이에 맞는 소프트웨어 설계 및 구현이 가능한 자
+0d8df790,삼성전자 DS 부문,설비기술연구소,S/W개발,requirement,"Data 특성에 맞는 전처리, 분석 방법론을 설계/적용하고 해석이 가능한 자"
+0d8df790,삼성전자 DS 부문,설비기술연구소,S/W개발,preference,직무와 연관된 대내외 활동 경험 보유자
+0d8df790,삼성전자 DS 부문,설비기술연구소,S/W개발,preference,"소프트웨어, 하드웨어 플랫폼을 활용한 경진대회 수상자, 프로젝트 수행 경험 보유자"
+0d8df790,삼성전자 DS 부문,설비기술연구소,S/W개발,preference,"Data 분석 관련 경진대회 수상자, 프로젝트 수행 경험 보유자"
+0d8df790,삼성전자 DS 부문,설비기술연구소,S/W개발,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+13a1870e,삼성전자,,S/W개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량 보유자
+13a1870e,삼성전자,,S/W개발,requirement,"Embedded시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+13a1870e,삼성전자,,S/W개발,requirement,요구사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+13a1870e,삼성전자,,S/W개발,preference,웹 시스템 개발을 위한 Front-end / Back-end 경험 보유자
+13a1870e,삼성전자,,S/W개발,preference,Database에 대한 이해와 활용 경험 보유자
+13a1870e,삼성전자,,S/W개발,preference,AI 및 Machine Learning에 대한 이해와 활용 경험 보유자
+13a1870e,삼성전자,,S/W개발,preference,"ML/DL 기반 최적화, 예측 Model/Application 개발 경험"
+13a1870e,삼성전자,,S/W개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+13a1870e,삼성전자,,S/W개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+13a1870e,삼성전자,,S/W개발,preference,S/W Architecture 및 Source 코드 분석 경험자
+13a1870e,삼성전자,,S/W개발,preference,S/W Measurement 기법 활용 및 Metrics 분석 경험자
+13a1870e,삼성전자,,S/W개발,preference,Career Vision
+13a1870e,삼성전자,,S/W개발,preference,다양한 분석 Platform 및 혁신센터 자체 SW Tool을 개발하는 역량을 배양할 수 있습니다.
+13a1870e,삼성전자,,S/W개발,preference,반도체 분야 SW 품질 및 생산성 개선을 통해 SW 전문가로 성장할 수 있습니다.
+2133ae45,삼성전자,,S/W개발,requirement,"전자공학, 전산학, 컴퓨터공학, 산업공학, 정보통신공학, 정보보안학과 등 이공계열 전공자"
+2133ae45,삼성전자,,S/W개발,requirement,기본과 원칙을 중시하고 분석적인 사고력/논리력을 바탕으로 한 문제 해결 역량 보유자
+2133ae45,삼성전자,,S/W개발,preference,"정보보안 관련 직무와 연관된 경험 보유자(프로젝트, 논문, 해킹대회참여 등)"
+2133ae45,삼성전자,,S/W개발,preference,"정보보호분야 관련 자격증 소지자(CEH, CISA, CISSP, 정보보안기사, 산업보안관리사 등)"
+2133ae45,삼성전자,,S/W개발,preference,해외법인과 소통을 위한 비즈니스 영어 및 중국어 회화 역량 보유자
+2cd25f25,삼성전자,설비기술연구소,S/W개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량보유자
+2cd25f25,삼성전자,설비기술연구소,S/W개발,requirement,프로그래밍 요구사항을 이해하고 이에 맞는 소프트웨어 설계 및 구현이 가능한 자
+2cd25f25,삼성전자,설비기술연구소,S/W개발,requirement,"Data 특성에 맞는 전처리, 분석 방법론을 설계/적용하고 해석이 가능한 자"
+2cd25f25,삼성전자,설비기술연구소,S/W개발,preference,직무와 연관된 대내외 활동 경험 보유자
+2cd25f25,삼성전자,설비기술연구소,S/W개발,preference,"소프트웨어, 하드웨어 플랫폼을 활용한 경진대회 수상자, 프로젝트 수행 경험 보유자"
+2cd25f25,삼성전자,설비기술연구소,S/W개발,preference,"Data 분석 관련 경진대회 수상자, 프로젝트 수행 경험 보유자"
+2cd25f25,삼성전자,설비기술연구소,S/W개발,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+5f4fc903,삼성전자,메모리사업부,S/W개발,requirement,프로그래밍 언어(C / C++ / C# / Python / Java / R / Spotfire 등) 및
+5f4fc903,삼성전자,메모리사업부,S/W개발,requirement,알고리즘 문제해결 역량 보유자
+5f4fc903,삼성전자,메모리사업부,S/W개발,requirement,"임베디드 시스템 및 ARM Architecture, 운영체제(Windows / Linux) 역량 보유자"
+5f4fc903,삼성전자,메모리사업부,S/W개발,requirement,요구사항을 이해하고 이에 기반한 소프트웨어 설계 및 Test script 구현 역량 보유자
+5f4fc903,삼성전자,메모리사업부,S/W개발,requirement,Storage System 및 Cloud System에 대한 지식 보유자
+5f4fc903,삼성전자,메모리사업부,S/W개발,requirement,데이터 마이닝 역량 보유자
+5f4fc903,삼성전자,메모리사업부,S/W개발,requirement,"암호, 네트워크, 통신 보안, 분산 시스템에 대한 지식 보유자"
+5f4fc903,삼성전자,메모리사업부,S/W개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+5f4fc903,삼성전자,메모리사업부,S/W개발,preference,SW / HW 플랫폼을 활용한 프로젝트 수행 경험 보유자
+5f4fc903,삼성전자,메모리사업부,S/W개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+5f4fc903,삼성전자,메모리사업부,S/W개발,preference,Front-end Web Programming 경험자
+5f4fc903,삼성전자,메모리사업부,S/W개발,preference,Machine Learning에 대한 이해와 활용 경험 보유자
+5f4fc903,삼성전자,메모리사업부,S/W개발,preference,메모리 소자 및 구조에 대한 지식 보유자
+883f4d62,삼성전자,,S/W개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량 보유자
+883f4d62,삼성전자,,S/W개발,requirement,"Embedded시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+883f4d62,삼성전자,,S/W개발,requirement,요구사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+883f4d62,삼성전자,,S/W개발,preference,AI 및 Machine Learning에 대한 이해와 활용 경험 보유자
+883f4d62,삼성전자,,S/W개발,preference,"ML/DL 기반 최적화, 예측 Model/Application 개발 경험"
+883f4d62,삼성전자,,S/W개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+883f4d62,삼성전자,,S/W개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+883f4d62,삼성전자,,S/W개발,preference,웹 시스템 개발을 위한 Front-end / Back-end 경험 보유자
+883f4d62,삼성전자,,S/W개발,preference,S/W Architecture 및 Source 코드 분석 경험자
+883f4d62,삼성전자,,S/W개발,preference,S/W Measurement 기법 활용 및 Metrics 분석 경험자
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,프로그래밍 요구사항을 이해하고 이에 맞는 소프트웨어 설계 및 구현이 가능한 자
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"Data 특성에 맞는 전처리, 분석 방법론을 설계/적용하고 해석이 가능한 자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"반도체 기본 동작원리, 공정개발 등 반도체 개발의 공정기술 개선에 필요한 역량 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,반도체 소자의 물리적 / 재료화학적 분석에 필요한 역량 보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,빅데이터 분석 역량 보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"기계, 물리, 부품, 센서, 공압 등 설비 주요 구성 및 동작원리 지식 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"열전달, 전기전자, 변형, 플라즈마, 유체, 진공 등 설비 요소기술 지식 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"생산관리, 물류관리 등 생산관리 직무에 필요한 역량 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"EX) 생산관리, 물류관리, Data Mining, 시스템 시뮬레이션, SCM 등"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"반도체 기본 동작원리, 공정개발 등 반도체 개발의 공정프로세스 개선에 필요한 역량 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"메모리 제품(DRAM, Flash memory 등)와 Foundry 제품(CIS, DDI, eFlash, loT등)의 동작 원리와"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"구조를 이해하고 제품의 성능, 품질 개선에 필요한 직무 지식 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,프로그래밍 언어(C / C++ / C# / Python / Java / R / Spotfire 등) 및 알고리즘 문제해결 역량
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"임베디드 시스템 및 ARM Architecture, 운영체제(Windows / Linux) 역량 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,요구사항을 이해하고 이에 기반한 소프트웨어 설계 및 Test script 구현 역량 보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,데이터 마이닝 역량 보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,"Data Engineering 기술 이해, Algorithm 및 System 설계 역량 및 운영 경험 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,시스템 / Software 개발 경험 및 관련 지식 보유
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,Image / Data 기반 A.I Solution 개발에 대한 전공 지식 보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,requirement,AI 기반 생산성 최적화 Algorithm 및 System 설계 및 개발 경험자
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,직무와 연관된 대내외 활동 경험 보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,"소프트웨어, 하드웨어 플랫폼을 활용한 경진대회 수상자, 프로젝트 수행 경험 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,"Data 분석 관련 경진대회 수상자, 프로젝트 수행 경험 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,Career Vision
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,AI기반 공정/생상 데이터 분석 및 자동화 기술개발을 통해 설비 및 FAB 시스템 개발역량을
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,쌓을 수 있습니다.
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,설비 제어 시스템 및 검사 계측 기술 개발을 주도하여 반도체 설비SW전문가로 성장할 수
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,있습니다.
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,FAB Infra 및 로보틱스 기술개발을 통해 Adavanced Automation 전문가로 성장할 수
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,"Big Data의 통계적 Tool 활용 가능자(R,Python 등)"
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,공정 엔지니어로써 공정 전반의 연구 및 개발하는 역량을 배양할 수 있습니다.
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,"전공 / 직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,"반도체 개발 / 데이터분석 관련 Tool (MATLAB, Spotfire, C, C++, Python 등) 역량 보유자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,"통계 및 수치해석 Tool (Oracle, SQL 등) 역량 보유"
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,다양한 제품과 공정에 연관된 생산 관리 경험을 통해 생산 관리 전문가로 성장할 수
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,"C / C++, Visual Basic, Python 등 프로그래밍 유경험자"
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,반도체 수율 향상 및 불량 분석 등을 연구 및 개발하는 역량을 배양할 수 있습니다.
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,SW / HW 플랫폼을 활용한 프로젝트 수행 경험 보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,프로그래밍 언어(C/C++/C#/Python/R 등) 사용 가능 및 알고리즘 문제 해결 역량 보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,SQL 등 활용한 DB 구축 경험/기술 보유자
+a05c532a,삼성전자,설비기술연구소,S/W개발,preference,"AI 시스템, 자동화 시스템 개발 등을 연구 및 개발하는 역량을 배양할 수 있습니다."
+af44e03b,삼성전자 DS 부문,설비기술연구소,S/W개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량보유자
+af44e03b,삼성전자 DS 부문,설비기술연구소,S/W개발,requirement,프로그래밍 요구사항을 이해하고 이에 맞는 소프트웨어 설계 및 구현이 가능한 자
+af44e03b,삼성전자 DS 부문,설비기술연구소,S/W개발,requirement,"Data 특성에 맞는 전처리, 분석 방법론을 설계/적용하고 해석이 가능한 자"
+af44e03b,삼성전자 DS 부문,설비기술연구소,S/W개발,preference,직무와 연관된 대내외 활동 경험 보유자
+af44e03b,삼성전자 DS 부문,설비기술연구소,S/W개발,preference,"소프트웨어, 하드웨어 플랫폼을 활용한 경진대회 수상자, 프로젝트 수행 경험 보유자"
+af44e03b,삼성전자 DS 부문,설비기술연구소,S/W개발,preference,"Data 분석 관련 경진대회 수상자, 프로젝트 수행 경험 보유자"
+af44e03b,삼성전자 DS 부문,설비기술연구소,S/W개발,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+e11eb4d9,삼성전자 DS 부문,,S/W개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량 보유자
+e11eb4d9,삼성전자 DS 부문,,S/W개발,requirement,"Embedded시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+e11eb4d9,삼성전자 DS 부문,,S/W개발,requirement,요구사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,AI 및 Machine Learning에 대한 이해와 활용 경험 보유자
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,"ML/DL 기반 최적화, 예측 Model/Application 개발 경험"
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,웹 시스템 개발을 위한 Front-end / Back-end 경험 보유자
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,S/W Architecture 및 Source 코드 분석 경험자
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,S/W Measurement 기법 활용 및 Metrics 분석 경험자
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,"IT보안 지식 및 악성코드 분석, 포렌식 및 개발 경험자"
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,"ICS/SCADA, Application, Mobile, Cloud 취약점 진단 지식 및 해킹 기술 보유자"
+e11eb4d9,삼성전자 DS 부문,,S/W개발,preference,"암호시스템 설계/분석 경험, 양자내성/격자암호 연구 경험"
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,프로그래밍 언어(C / C++ / C# / Python / Java / R / Spotfire 등) 및
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,알고리즘 문제해결 역량 보유자
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,"임베디드 시스템 및 ARM Architecture, 운영체제(Windows / Linux) 역량 보유자"
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,요구사항을 이해하고 이에 기반한 소프트웨어 설계 및 Test script 구현 역량 보유자
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,Storage System 및 Cloud System에 대한 지식 보유자
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,데이터 마이닝 역량 보유자
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,requirement,"암호, 네트워크, 통신 보안, 분산 시스템에 대한 지식 보유자"
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,preference,SW / HW 플랫폼을 활용한 프로젝트 수행 경험 보유자
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,preference,Front-end Web Programming 경험자
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,preference,Machine Learning에 대한 이해와 활용 경험 보유자
+f289b0fe,삼성전자 DS 부문,메모리사업부,S/W개발,preference,메모리 소자 및 구조에 대한 지식 보유자
+ff41f2bf,삼성전자 DS 부문,,S/W개발,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제해결 역량 보유자
+ff41f2bf,삼성전자 DS 부문,,S/W개발,requirement,"Embedded시스템 및 ARM Architecture, 운영체제(Windows/Linux) 역량 보유자"
+ff41f2bf,삼성전자 DS 부문,,S/W개발,requirement,요구사항을 이해하고 이에 맞는 소프트웨어를 설계 및 구현할 수 있는 역량 보유자
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,AI 및 Machine Learning에 대한 이해와 활용 경험 보유자
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,"ML/DL 기반 최적화, 예측 Model/Application 개발 경험"
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,소프트웨어/하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,"CSTS, ISTQB 등 SW Testing Certificate 보유자"
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,웹 시스템 개발을 위한 Front-end / Back-end 경험 보유자
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,S/W Architecture 및 Source 코드 분석 경험자
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,S/W Measurement 기법 활용 및 Metrics 분석 경험자
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,"IT보안 지식 및 악성코드 분석, 포렌식 및 개발 경험자"
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,"ICS/SCADA, Application, Mobile, Cloud 취약점 진단 지식 및 해킹 기술 보유자"
+ff41f2bf,삼성전자 DS 부문,,S/W개발,preference,"암호시스템 설계/분석 경험, 양자내성/격자암호 연구 경험"

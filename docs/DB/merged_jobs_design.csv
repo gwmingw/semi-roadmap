@@ -1,0 +1,737 @@
+﻿posting_id,company_name_normalized,division_name_raw,role_name_raw,type,content
+37e4f210,SK하이닉스,Tech R&D,Application Engineering,requirement,∙ 4년제 학사 이상 졸업(예정)자 (학/석/박)
+37e4f210,SK하이닉스,Tech R&D,Application Engineering,requirement,"∙ 전자/전기 계열, 반도체 계열, 컴퓨터/정보통신 계열"
+37e4f210,SK하이닉스,Tech R&D,Application Engineering,requirement,| 행동역량 및 Skillset(
+37e4f210,SK하이닉스,Tech R&D,Application Engineering,preference,"∙반도체 및 반도체 제품 전반에 대한 이해, Programming 활용 능력 보유자"
+01d8c829,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,통신 시스템을 이해하고 분석이 가능한 자
+01d8c829,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,영상 처리용 알고리즘을 이해하고 분석이 가능한 자
+01d8c829,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,프로그래밍 언어 (Verilog/C언어 등) 구현 가능한 자
+01d8c829,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,통신 알고리즘 관련 프로젝트 수행 경험 보유자
+01d8c829,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,ISP 관련 프로젝트 수행 경험 보유자
+01d8c829,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Deep Learning & Computer Vision 프로젝트 수행 경험 보유자
+05434ba4,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,통신 시스템을 이해하고 분석이 가능한 자
+05434ba4,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,영상 처리용 알고리즘을 이해하고 분석이 가능한 자
+05434ba4,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,프로그래밍 언어 (Verilog/C언어 등) 구현 가능한 자
+05434ba4,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,통신 알고리즘 관련 프로젝트 수행 경험 보유자
+05434ba4,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,ISP 관련 프로젝트 수행 경험 보유자
+05434ba4,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Deep Learning & Computer Vision 프로젝트 수행 경험 보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,통신시스템을 이해하고분석이가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-영상처리용알고리즘을 이해하고 분석이가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-프로그래밍 언어(Verilog/C언어등) 구현가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,반도체제품의이해및반도체소자에대한기본적인지식보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-논리설계및전자기학을전공하거나프로그래밍에 대한전공지식보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,S.LSI사업부> 평가및분석
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,기본적인반도체물성/소자특성을이해하고현상에대한검증및분석이가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-반도체Process에대한기본적인 이해를바탕으로간단한Analog Circuit 구성및Simulation
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,Analog 및Digital 회로설계를이해하고 분석가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-프로그래밍 언어(Verilog, C, Python, Perl, Tcl등) 구현가능한자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-반도체설계/분석을위한EDA(Electronic Design Automation) 환경역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,(Synopsys/ Mentor/ Cadence/ Ansys/ CST 등)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-원인분석및해결능력보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-반도체소자및공정에대한이해가능한 자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-해외파트너와협업을위한어학능력우수자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,반도체소자에대한기본적인지식보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-논리설계/ 전자기학및프로그래밍 전공지식보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-공학계열(전기전자, 재료/금속, 화공, 산업공학등), 물리, 화학계열전공자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,혹은그에상응하는 전공지식보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-반도체제품의이해및공정/설비/소재에 필요한역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-데이터마이닝, 데이터분석, 통계응용관련역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,기본적인반도체공정과소자특성에대한역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-공학계열(전기전자, 재료/금속, 화공, 기계등), 물리, 화학계열전공자 또는이에상응하는전공지식보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-반도체기본동작원리, 공정개발 등반도체개발의공정프로세스 개선에필요한역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-반도체소자의물리적/재료화학적분석에필요한역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-Foundry 제품(AP, modem, Auto/HPC 등)의동작원리와 구조를이해하고,"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"제품의성능, 품질개선에 필요한직무지식보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-반도체설비, Tool, 금형의구조와동작원리를이해하고활용이가능한자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-기구ㆍ모터ㆍ실린더 등요소기술에대하여이해하고적용가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-CAD를이해하고 이에맞는Electrical/Thermal/Mechanical Simulation 구현가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,Foundry사업부> 반도체공정설계
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"반도체기본동작원리, 공정개발등반도체개발의공정기술 개선에필요한역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-빅데이터분석역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"기계, 물리, 부품, 센서, 공압등설비주요구성및동작원리지식보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-열전달, 전기전자, 변형, 플라즈마, 유체, 진공등설비요소기술지식보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"생산관리, 물류관리 등생산관리 직무에필요한역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"(생산관리, 물류관리, 데이터마이닝, 시스템시뮬레이션, SCM 등)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"전기전자, 재료, 물성, 화학, 회로, 소자및물리등계열전공자또는이에상응하는 전공지식보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-반도체단위공정이해, 회로및소자특성, 물성및화학분석원리, 전기전자재료특성및물성등"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"반도체공정관련경험자, 빅데이터활용역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"기계, 전기, 전자, 화학, 재료, 물리계열전공자또는이에상응하는 전공지식보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-반도체설비의유지관리및생산성향상에필요한개조/개선 역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"(RF-Plasma, 진공기술, 전기/전자제어, 센서제어, 열/공압제어, Robot 제어, 진동제어등)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"전기전자(HW), 건축, 토목, 재료/금속, 화학/화공, 기계, 산업공학, 환경/안전계열전공자또는"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,이에상응하는 전공지식보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-기술적이론과분석적사고를바탕으로 공학적인문제해결이가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"환경, 에너지, 지속경영, 안전보건, 소방관련전공자또는이에상응하는전공지식 보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-설비, 공정안전관련지식및예측기술보유자(Simulation, 평가Tool 활용)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-기술력기반법규해석능력보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-반도체사업장의특성과환경안전의중요성을이해하고생명존중과 책임감을가진자로서
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,환경안전분야전공자및역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계등), 물리, 화학계열전공자또는"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-반도체PKG조립 공정, 계측공정, Test공정등반도체공정과기술관련지식보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"전산/컴퓨터, 산업공학, 수학/통계/데이터분석등이공계열 전공자또는이에상응하는전공지식보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-생산관리, 물류관리 등생산관리 직무에필요한역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-물류및Mix 최적화를위한통계역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,데이터분석및통신방식을이해하고신기술에 대한관심과이해도를보유한 자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-시스템요구사항을 이해하고이에맞는소프트웨어 및IT인프라기획/설계가가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-컴퓨터, 전기전자/통신, 수학/통계/산업공학, 물리/기계계열전공자또는이에상응하는전공지식보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,Python 등프로그래밍 언어기반소프트웨어개발역량및자료구조/알고리즘 이해보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-머신러닝/딥러닝 등AI 모델의원리이해및응용역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-데이터분석및통계기반문제해결역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-요구사항을 이해하고 AI 기반시스템아키텍처를설계/구현할수있는역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-Linux 환경에서의 개발및모델실행경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,"-Embedded시스템 및ARM Architecture, 운영체제(Windows/Linux) 역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-요구사항을 이해하고 이에맞는소프트웨어를 설계및구현할수있는역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,AI센터> SW개발
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,경영학등관련전공자또는부전공자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,-기본과원칙을중시하고분석적인 사고력/논리력을 바탕으로한문제해결역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,부문공통> 경영지원(재무)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,통신알고리즘 관련프로젝트수행경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-ISP 관련프로젝트수행경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-Deep Learning & Computer Vision 프로젝트수행경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Career Vision
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-세계최초5G를넘어6G, Wi-Fi, Bluetooth, UWB까지차세대무선통신알고리즘을 개발하고"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"Multimedia(영상, 음성처리) 신호처리신기술을확보하는 등선단의신호처리및알고리즘기술을"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,개발하는엔지니어로 성장할 수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-해외연구소와의 협업과다양한프로그래밍 언어, 알고리즘개발Tool 사용을통해"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,최고의글로벌System Engineer로의성장을지원합니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,S.LSI사업부> 평가및분석
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,S.LSI사업부 (S.LSI Business)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: 평가및분석
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"직무와연관된경험보유자(프로젝트, 논문, 특허, 경진대회)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-반도체개발및분석관련Tool (Spotfire, SPICE Simulation, Schematic Editor, Allegro,"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"Layout Drawing, Trace32, Power Supply, Logic/Protocol Analyzer, Oscilloscope 등) 역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-분석/검사/계측 설비활용경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-Data Science 관련통계적인접근이 가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-설계/공정Test Tool 개발및검증을통해설계경쟁력을강화하고, 반도체수율개선에앞장서는"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,평가및분석전문가로성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-반도체개발과정에서의 여러Data를 통계적으로분석하고, 불량원인자규명및Solution을제시하여"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,제품의신뢰성을확보하고반도체품질극대화를만들어가는 품질분석전문가로성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,S.LSI사업부> 반도체공정설계
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: 반도체공정설계
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"Solid State Device Physics, Surface, Interface Physics / Chemistry 관련지식보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-광학관련지식보유자(Photonic Crystal, Plasmonics, Metamaterial 등)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-광전소자/소재 개발및특성분석경험자(Photodiode, Solar Cell, LED, Laser 등)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-Semiconductor Process Integration 관련경험/지식보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-Si-based CMOS/Analog Circuit Design 관련경험/지식보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-고성능시스템반도체구현이가능하도록 다양한Foundry 공정을분석/검증하고, 설계-공정Interface를"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"극대화하는Test, 공정전문가로성장할 수있습니다."
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-Sensor제품의경우, Pixel 구조설계및공정/소자를자체개발함으로써 반도체공정프로세스설계부터"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,개선까지전분야에서의 공정전문가로성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-공정, 설계전반적인분야에대한이해및전문적인지식을바탕으로DTCO 전문가로성장할수있습니다."
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Foundry사업부
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,세상의 모든 혁신 안에 Samsung Foundry를!
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,We Fabricate your Success on Silicon
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Foundry사업부> 회로설계
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Foundry사업부 (Foundry Business)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: 회로설계
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-Verilog를사용한H/W Design 프로젝트수행경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-반도체공정수업또는회로설계/소자 시뮬레이션경험
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-선단공정Design Methodology 및Library/PDK 개발역량을보유한전문가로 성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-전세계글로벌고객과협업하여고객사제품에특화된전용회로설계및
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Digital/Analog IP 설계역량을보유한전문가로성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Foundry사업부> 평가및분석
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-분석/검사설비활용경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-유체/구조/광학/소재 시뮬레이션경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-품질직무에대한기본적인 지식보유자(품질공학, 신뢰성, 반도체공학, 회로설계, Package 관련,"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"통계적공정관리, 생산관리, Test Engineering, Big Data 해석등)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-양질의제품개발을 위한솔루션 제공및Test 프로그램을개발/평가/양산하는 역량을배양할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-품질보증, 신뢰성, 고객지원관련역량을보유한전문가로성장할수있습니다."
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Foundry사업부> 반도체공정설계
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무와연관된경험보유자(프로젝트ㆍ논문ㆍ특허ㆍ경진대회)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-Data Science 관련Machine LearningㆍBig Dataㆍ컴퓨터공학ㆍ통계 등경험및지식보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-Python/C#/C/C++/Visual Basic/Java Script 등프로그래밍 경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-AI 자격증또는관련프로젝트경험자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-반도체Package 및품질직무와연관된대내외활동경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-반도체Package 공정및품질관련졸업논문및국내/외저널논문보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-반도체및Simulation 관련Tool 역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"(ABAQUS, ANSYS, LS-Dyna, Finesimspice, Hspice, SIWAVE, Advanced Design System 등)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-SI/PI/Thermal/Mechanical Simulation Tool 경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-기계적ㆍ열특성 분석, 성분분석등다양한분야의분석역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-반도체설비ㆍToolㆍ금형의 구조와동작원리를이해하고활용가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-다양한분석장비(SEMㆍFTIRㆍRAMANㆍICㆍXPS 등)의사용경험및활용가능한자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-해외법인및고객과커뮤니케이션이 가능한수준의외국어(영어ㆍ일본어) 회화역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-시스템반도체의선단공정개발역량을키울수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-공정과제품에적합한소자를설계하고 구현하는전문가로성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-반도체수율향상및불량분석등을연구및개발하는역량을 배양할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-Package 개발Process에대한이해를바탕으로설계, Simulation 및Process Architecture에대한"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,역량을배양할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-Package 공정에대한연구와최적화역량을배양할수있고, 나아가새로운공정개발을통해"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,공정전문가로 성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Foundry사업부> 반도체공정기술
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: 반도체공정기술
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-Big Data의통계적Tool 활용역량보유자(R, Python 등)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-공정엔지니어로서 공정전반의연구및개발하는역량을배양할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Foundry사업부> 설비기술
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: 설비기술
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"전공/직무와연관된경험보유자(프로젝트, 논문, 특허, 경진대회)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-반도체개발/데이터분석관련Tool (MATLAB, Spotfire, C, C++, Python 등) 역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-신설비셋업및기존설비관리까지공정별설비프로세스관리역량을배양할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Foundry사업부> 생산관리
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: 생산관리
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-통계및수치해석Tool 역량보유자(Oracle, SQL 등)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-다양한제품과공정에연관된생산관리 경험을통해생산관리전문가로성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,CTO_반도체연구소
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,미래 기술의 시작점이자 차세대 반도체 개발의 중심!
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,CTO_반도체연구소> 반도체공정기술
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,CTO_반도체연구소(Semiconductor R&D Center)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"컴퓨터프로그래밍 언어를통한개발, 데이터분석및시뮬레이션 역량/경험보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-직무와연관된논문작성및특허출원이력보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-해외연구소/설비, 소재협력사와커뮤니케이션 가능한수준의외국어회화역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-반도체8대공정및차세대Package의선행개발경험을통해미래공정을선도하는
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,최고공정전문가로 성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-소재, 설비, 시뮬레이션 등반도체공정기술과 관련된여러분야와의협업을통해저변을넓힐수있습니다."
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,CTO_반도체연구소> 설비기술
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"차세대설비요소기술(IoT 센서기술, Big Data, Smart Factory 제어) 역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-해외Engineer와커뮤니케이션 가능한수준의외국어회화역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-설비의구동원리를 이해하고, 최첨단설비의유지∙ 보수∙ 문제해결업무를수행하면서"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,설비엔지니어로서의 역량을 배양할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-설비자동화및IoT기술을적용한설비개조/개선및스마트팹구축, 설비성능고도화를위한논문작성및"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"특허출원등의업무를진행하고, 이를바탕으로설비Maestro로성장할수있습니다."
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,글로벌 제조&인프라총괄
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,미래지향적·친환경 FAB으로 반도체의 내일을 쓰다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,글로벌제조&인프라총괄> 인프라기술(건설/Facility/전기)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,글로벌 제조&인프라총괄 (Global Manufacturing & Infra Technology)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: 인프라기술(건설/Facility/전기)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,해당전공관련기사및기술사자격증취득자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-직무와연관된대내외활동경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-해외법인과커뮤니케이션이 가능한수준의외국어(영어, 중국어) 회화역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-국내외삼성전자DS 사업장및건물(FAB, 사무환경등)을기획/설계/시공하는 등반도체 생산에필요한"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,최상의FAB 건설인프라를구축할 수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-반도체생산에필요한Facility/Utility(HVAC, UPW, 배기, Bulk Gas 등)를안전하고 안정적으로"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,공급하기위한유지보수부터 기술개발까지 전프로세스를담당하며인프라엔지니어로 성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-반도체생산에필요한전기를안전하고 안정적으로 공급하기위한유지보수부터 기술개발까지
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,전프로세스를 담당하며인프라엔지니어로 성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,글로벌제조&인프라총괄> 환경
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: 환경
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,환경안전직무관련국가기술자격 보유자(기사이상)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-환경안전직무관련대내외경험보유자(프로젝트, 논문, 특허, 경진대회등)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-프로젝트현장환경, 안전보건관련Setup업무경험보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-반도체현장에대한Clean Room 구조및Utility 공급, 순환시설에대한이해및경험자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-사전예방역량확대및데이터기반문제해결로ESG경쟁력을 높여환경전문가로 성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-환경관련국내/국제법·데이터·프로젝트를 융합해 ESG가치를 실현하고,"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,조직의지속가능성 목표를선도하는EHS전문가로 성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,TSP총괄
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,반도체 가치를 극대화하는 패키지의 힘!
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,TSP총괄> 반도체공정기술
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,TSP 총괄 (Test and System PKG)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"반도체Package 공정및품질관련경험보유자(프로젝트, 논문, 특허, 경진대회)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-반도체개발관련Tool 역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-데이터분석역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-광학계구조및이론이해, Image 분석역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-해외업체와커뮤니케이션이 가능한수준의외국어(영어, 일본어) 회화역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-세계반도체시장의 핵심경쟁력인 패키징각공정의공법, 공정조건개발업무능력배양을통해"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"Process Integration, Process Developer 전문가로성장할수있습니다."
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-Package 제품의Wafer, Package, Test Process 품질/생산성향상업무및공정기반기술연구역량을"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,배양할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-발전하는차세대반도체공정연구/분석/개선직무경험을바탕으로Package 공정기술전문가로
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-반도체테스트엔지니어로테스트프로그램 작성, 인터페이스 개발을진행하며, 신제품Test Solution을"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,제공할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-공정/출하시발생하는주요불량인자들에 대해분석하고해결책을적용하여개선할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-반도체설비의컨셉설계, 요소기술개발, 설비시스템S/W, 통신등설비표준화플랫폼개발의전문가로"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,TSP총괄> 생산관리
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"반도체또는생산관리 직무와연관된경험보유자(프로젝트, 논문, 특허, 경진대회)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-통계및데이터분석Tool (R, Python, SQL 등) 역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-Microsoft Power BI 등을포함한비정형분석Tool 역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-물류및Mix 최적화를위한통계역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-수요변화에대한생산기획부터 출하까지자원기획및운영능력을배양할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-Package 신제품에 대한Supply Chain을최적화할수있으며,"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Global OSAT를포함한신사업 Biz
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"사업환경을구축하고, 운영할수있는SCM 전문가로"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,AI센터
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,반도체 비지니스의 글로벌 경쟁력 제고를 위한
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,AI & IT 기술과 서비스를 제공하는 CIO 조직
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,AI센터> 신호및시스템설계
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,AI센터 (AI Center)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: 신호및시스템설계
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,프로그래밍 언어(C/C++/C#/Python/Java 등) 및알고리즘문제해결역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-소프트웨어 및하드웨어플랫폼을 활용한프로젝트수행경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-보안관리및거버넌스, 통신보안, 표준화 데이터베이스, 인터넷보안 관련경험보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-운영체제(Windows/Linux) 및Embedded시스템, ARM Architecture역량보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-직무와연관된경험보유자(프로젝트, 논문, 특허, 경진대회)"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-IT System 보안아키텍쳐설계및운영을통해IT 보안전문가로성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-Data 및신기술(AI, ML 등)을바탕으로 연구개발하는역량을 배양할수있습니다."
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,AI센터> SW개발
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: SW개발
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"LLM, 생성형AI, RAG, Agent 구조설계및구현경험"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-ML/DL 기반예측/최적화모델개발및서비스적용경험
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-대규모데이터처리및데이터엔지니어링 경험
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-데이터베이스 설계및활용경험(SQL/NoSQL 등)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-AI 모델성능최적화(추론 속도, 비용, 자원효율화) 경험"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-AI 기반시스템아키텍처설계및코드구조분석경험
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-웹시스템개발을위한Front-end / Back-end 경험보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-CSTS, ISTQB 등SW Testing Certificate 보유자"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-S/W Architecture 및Source 코드분석경험자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-소프트웨어 품질관리, 테스트, 성능지표(Metrics) 분석경험"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-회로설계경험및반도체도메인지식보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-DevOps, MLOps등플랫폼개발및운영경험"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-AI 기반시스템을설계하고 산업문제해결을주도하는핵심기술역량을키울수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-AI 모델과소프트웨어를 통합하는시스템아키텍처역량을갖춘기술리더로성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-다양한분석Platform 및AI센터자체S/W Tool을개발하는역량을 배양할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-반도체분야S/W 품질및생산성개선을통해S/W 전문가로 성장할수있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,부문공통
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,당신의 성장이 세상의 혁신으로 이어지는 곳
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,부문공통> 경영지원(재무)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무: 경영지원(재무)
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,직무와연관된공인자격보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-해외법인과커뮤니케이션이 가능한수준의외국어회화역량보유자
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,"-회계/세무관리, 원가분석, 손익관리, 리소스운영, 자금관리등다양한재무관련 역량을배양할수"
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,있습니다.
+3899c5e6,삼성전자,Foundry사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,-경영관리직무경험을통해재무/회계관련수준높은이해도를 가질수있으며Global 재무전문가로
+3cfcc492,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,통신 시스템을 이해하고 분석이 가능한 자
+3cfcc492,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,영상 처리용 알고리즘을 이해하고 분석이 가능한 자
+3cfcc492,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,프로그래밍 언어 (Verilog/C언어 등) 구현 가능한 자
+3cfcc492,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,통신 알고리즘 관련 프로젝트 수행 경험 보유자
+3cfcc492,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,ISP 관련 프로젝트 수행 경험 보유자
+3cfcc492,삼성전자 DS 부문,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Deep Learning & Computer Vision 프로젝트 수행 경험 보유자
+e0cb30b9,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,통신 시스템을 이해하고 분석이 가능한 자
+e0cb30b9,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,영상 처리용 알고리즘을 이해하고 분석이 가능한 자
+e0cb30b9,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,requirement,프로그래밍 언어 (Verilog/C언어 등) 구현 가능한 자
+e0cb30b9,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,통신 알고리즘 관련 프로젝트 수행 경험 보유자
+e0cb30b9,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,ISP 관련 프로젝트 수행 경험 보유자
+e0cb30b9,삼성전자,System LSI사업부,Signal Synchronization / FFT / Modulation / Channel Estimation /,preference,Deep Learning & Computer Vision 프로젝트 수행 경험 보유자
+55d59dde,SK하이닉스,Tech R&D,Solution HW,requirement,∙ 4년제 학사 이상 졸업(예정)자 (석/박사 학위자
+55d59dde,SK하이닉스,Tech R&D,Solution HW,preference,"∙ 전기/전자/전파공학, 기계공학, 화학/화학공학, 재료/금속공학 등 관련 전공자"
+81e7e0d5,삼성전자,,기구 개발,requirement,"기계, 전기전자, 열/유체, 통신, 물리 계열 전공자 또는 이에 상응하는 전공지식 보유자"
+81e7e0d5,삼성전자,,기구 개발,requirement,인프라 관련 시스템의 유지/보수를 위한 설계 운영 역량 보유자
+81e7e0d5,삼성전자,,기구 개발,preference,직무와 연관된 대내외 활동 경험 보유자
+81e7e0d5,삼성전자,,기구 개발,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유"
+81e7e0d5,삼성전자,,기구 개발,preference,Career Vision
+81e7e0d5,삼성전자,,기구 개발,preference,최적의 반도체 FAB 인프라를 구현하는 역량을 배양할 수 있습니다.
+81e7e0d5,삼성전자,,기구 개발,preference,신규라인의 셋업 및 안정적 운영을 통해 인프라 분야의 전문가로 성장할 수 있습니다.
+1374f2bb,삼성전자 DS 부문,설비기술연구소,기구개발,requirement,"기구개발을 이해하기 위한 기구설계, 측정, 구동 및 제어 관련 지식 보유자"
+1374f2bb,삼성전자 DS 부문,설비기술연구소,기구개발,requirement,"EX) 기계설계, 최적설계, 고체역학, 열유체공학, 동역학, 정역학, 소음진동"
+1374f2bb,삼성전자 DS 부문,설비기술연구소,기구개발,requirement,"반도체 설비 기구개발에 필요한 분석, 설계, 해석 역량 보유자"
+1374f2bb,삼성전자 DS 부문,설비기술연구소,기구개발,preference,기계 시스템 개발에 관한 프로젝트 수행 경험 보유자
+1374f2bb,삼성전자 DS 부문,설비기술연구소,기구개발,preference,"CAD Tool 활용 능력 보유자 (Solid Edge, Solid Works, CATIA 등)"
+1374f2bb,삼성전자 DS 부문,설비기술연구소,기구개발,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+728a0350,삼성전자,설비기술연구소,기구개발,requirement,"기구개발을 이해하기 위한 기구설계, 측정, 구동 및 제어 관련 지식 보유자"
+728a0350,삼성전자,설비기술연구소,기구개발,requirement,"EX) 기계설계, 최적설계, 고체역학, 열유체공학, 동역학, 정역학, 소음진동"
+728a0350,삼성전자,설비기술연구소,기구개발,requirement,"반도체 설비 기구개발에 필요한 분석, 설계, 해석 역량 보유자"
+728a0350,삼성전자,설비기술연구소,기구개발,preference,기계 시스템 개발에 관한 프로젝트 수행 경험 보유자
+728a0350,삼성전자,설비기술연구소,기구개발,preference,"CAD Tool 활용 능력 보유자 (Solid Edge, Solid Works, CATIA 등)"
+728a0350,삼성전자,설비기술연구소,기구개발,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+afb3cb0f,삼성전자 DS 부문,설비기술연구소,기구개발,requirement,"기구개발을 이해하기 위한 기구설계, 측정, 구동 및 제어 관련 지식 보유자"
+afb3cb0f,삼성전자 DS 부문,설비기술연구소,기구개발,requirement,"EX) 기계설계, 최적설계, 고체역학, 열유체공학, 동역학, 정역학, 소음진동"
+afb3cb0f,삼성전자 DS 부문,설비기술연구소,기구개발,requirement,"반도체 설비 기구개발에 필요한 분석, 설계, 해석 역량 보유자"
+afb3cb0f,삼성전자 DS 부문,설비기술연구소,기구개발,preference,기계 시스템 개발에 관한 프로젝트 수행 경험 보유자
+afb3cb0f,삼성전자 DS 부문,설비기술연구소,기구개발,preference,"CAD Tool 활용 능력 보유자 (Solid Edge, Solid Works, CATIA 등)"
+afb3cb0f,삼성전자 DS 부문,설비기술연구소,기구개발,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+eb993d92,삼성전자,설비기술연구소,기구개발,requirement,"기구개발을 이해하기 위한 기구설계, 측정, 구동 및 제어 관련 지식 보유자"
+eb993d92,삼성전자,설비기술연구소,기구개발,requirement,"EX) 기계설계, 최적설계, 고체역학, 열유체공학, 동역학, 정역학, 소음진동"
+eb993d92,삼성전자,설비기술연구소,기구개발,requirement,"반도체 설비 기구개발에 필요한 분석, 설계, 해석 역량 보유자"
+eb993d92,삼성전자,설비기술연구소,기구개발,requirement,반도체 8대 공정에 대한 이해 및 문제해결 역량 보유자
+eb993d92,삼성전자,설비기술연구소,기구개발,requirement,공정 요구사항을 이해하고 이를 위한 설비/공정 설계 및 구현 가능한 자
+eb993d92,삼성전자,설비기술연구소,기구개발,preference,기계 시스템 개발에 관한 프로젝트 수행 경험 보유자
+eb993d92,삼성전자,설비기술연구소,기구개발,preference,"CAD Tool 활용 능력 보유자 (Solid Edge, Solid Works, CATIA 등)"
+eb993d92,삼성전자,설비기술연구소,기구개발,preference,Device 구조 및 공정 메커니즘의 이해를 위한 기초 전공지식 보유자
+eb993d92,삼성전자,설비기술연구소,기구개발,preference,반도체 공정/설비 개발 프로젝트 수행 경험 보유자
+eb993d92,삼성전자,설비기술연구소,기구개발,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+eb993d92,삼성전자,설비기술연구소,기구개발,preference,Career Vision
+eb993d92,삼성전자,설비기술연구소,기구개발,preference,Global 설비사와 협력하여 반도체 설비/공정에 대한 이해도를 높이고 설비기술 및
+eb993d92,삼성전자,설비기술연구소,기구개발,preference,개발역량을 쌓을 수 있습니다.
+eb993d92,삼성전자,설비기술연구소,기구개발,preference,신설비 설계 및 설비 파라미터 개발을 주도하여 반도체 설비 전문가로 성장할 수 있습니다.
+d6b8a6d6,SK하이닉스,Tech R&D,설계,requirement,∙ 4년제 학사 이상 졸업(예정)자 (학/석/박)
+d6b8a6d6,SK하이닉스,Tech R&D,설계,requirement,"∙ 전자, 전기, 전파, 반도체, 정보통신, 컴퓨터, 물리 등 관련 전공"
+d6b8a6d6,SK하이닉스,Tech R&D,설계,requirement,| 행동역량 및 Skillset(
+d6b8a6d6,SK하이닉스,Tech R&D,설계,preference,"∙ 분석적 사고, 전략적 사고, 성취지향 행동역량 등을 갖춘 인재"
+d6b8a6d6,SK하이닉스,Tech R&D,설계,preference,"∙ Noise 성분 규명, Design Constraint 설계, Circuit modeling 등 경험 보유자"
+86c4f550,삼성전자,설비기술연구소,신호 및 시스템 설계,requirement,회로이론을 숙지하고 회로설계 및 계산이 가능한 자
+86c4f550,삼성전자,설비기술연구소,신호 및 시스템 설계,requirement,"회로기능 요구사항을 이해하고, 이에 맞는 최적설계 및 구현이 가능한 자"
+86c4f550,삼성전자,설비기술연구소,신호 및 시스템 설계,requirement,"전자기학, 신호 및 시스템 등 광학신호, 전자기신호에 대한 기본지식 보유자"
+86c4f550,삼성전자,설비기술연구소,신호 및 시스템 설계,preference,직무와 연관된 대내외 활동 경험 보유자
+86c4f550,삼성전자,설비기술연구소,신호 및 시스템 설계,preference,하드웨어 및 Firmware개발 프로젝트 수행 경험자
+86c4f550,삼성전자,설비기술연구소,신호 및 시스템 설계,preference,RF관련 계측기 사용 경험자
+86c4f550,삼성전자,설비기술연구소,신호 및 시스템 설계,preference,소프트웨어 및 하드웨어 플랫폼을 활용한 프로젝트 수행경험 보유자
+86c4f550,삼성전자,설비기술연구소,신호 및 시스템 설계,preference,"CODE V, Zemax, Matlab, Labview, C언어 사용 경험자"
+86c4f550,삼성전자,설비기술연구소,신호 및 시스템 설계,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+88229dc9,삼성전자 DS 부문,,신호 및 시스템 설계,requirement,원문 참조
+88229dc9,삼성전자 DS 부문,,신호 및 시스템 설계,preference,원문 참조
+ae1bb4ee,삼성전자,,신호 및 시스템 설계,requirement,원문 참조
+ae1bb4ee,삼성전자,,신호 및 시스템 설계,preference,원문 참조
+b2a41b28,삼성전자 DS 부문,,신호 및 시스템 설계,requirement,원문 참조
+b2a41b28,삼성전자 DS 부문,,신호 및 시스템 설계,preference,원문 참조
+e7d941a2,삼성전자,,신호 및 시스템 설계,requirement,데이터 분석 및 통신 방식을 이해하고 신기술에 대한 관심과 이해도를 보유한 자
+e7d941a2,삼성전자,,신호 및 시스템 설계,requirement,시스템 요구사항을 이해하고 이에 맞는 소프트웨어 및 IT인프라 기획/설계가 가능한 자
+e7d941a2,삼성전자,,신호 및 시스템 설계,requirement,"컴퓨터, 전기전자/통신, 수학/통계/산업공학, 물리/기계 계열 전공자 또는 이에 상응하는 전공"
+e7d941a2,삼성전자,,신호 및 시스템 설계,requirement,지식 보유자
+e7d941a2,삼성전자,,신호 및 시스템 설계,preference,프로그래밍 언어(C/C++/C#/Python/Java 등) 및 알고리즘 문제 해결 역량 보유자
+e7d941a2,삼성전자,,신호 및 시스템 설계,preference,소프트웨어 및 하드웨어 플랫폼을 활용한 프로젝트 수행 경험 보유자
+e7d941a2,삼성전자,,신호 및 시스템 설계,preference,"보안관리 및 거버넌스, 통신보안, 표준화 데이터베이스, 인터넷보안 관련 경험 보유자"
+e7d941a2,삼성전자,,신호 및 시스템 설계,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+e7d941a2,삼성전자,,신호 및 시스템 설계,preference,"운영체제(Windows/Linux) 및 Embedded시스템, ARM Architecture역량 보유자"
+e7d941a2,삼성전자,,신호 및 시스템 설계,preference,"직무와 연관된 경험 보유자(프로젝트, 논문, 특허, 경진대회)"
+e7d941a2,삼성전자,,신호 및 시스템 설계,preference,Career Vision
+e7d941a2,삼성전자,,신호 및 시스템 설계,preference,"Data 및 신기술(AI, ML 등)을 바탕으로 연구 개발하는 역량을 배양할 수 있습니다."
+e7d941a2,삼성전자,,신호 및 시스템 설계,preference,IT 인프라/서비스 설계 및 개발을 통해 Autonomous Factory 분야 전문가로 성장할 수
+e7d941a2,삼성전자,,신호 및 시스템 설계,preference,있습니다.
+1438189f,삼성전자 DS 부문,메모리사업부,회로설계,requirement,"반도체 기본 동작원리, 전자회로이론 등 반도체 회로설계에 필요한 역량 보유자"
+1438189f,삼성전자 DS 부문,메모리사업부,회로설계,requirement,"프로그래밍 언어 (C, C++, Verilog/VHDL, Python 등) 역량 보유자"
+1438189f,삼성전자 DS 부문,메모리사업부,회로설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+1438189f,삼성전자 DS 부문,메모리사업부,회로설계,preference,"반도체 개발 관련 Tool (SPICE Simulation, Schematic Editor, Layout Editor, Trace32, Power"
+1438189f,삼성전자 DS 부문,메모리사업부,회로설계,preference,"Supply, Logic/Protocol Analyzer, FPGA 등) 역량 보유자"
+1438189f,삼성전자 DS 부문,메모리사업부,회로설계,preference,"프로그래밍 언어 (C++, System Verilog, Python, VBA 등) 역량 보유자"
+2dc2087f,삼성전자 DS 부문,Foundry사업부,회로설계,requirement,Analog 및 Digital 회로설계를 이해하고 분석 가능한 자
+2dc2087f,삼성전자 DS 부문,Foundry사업부,회로설계,requirement,프로그래밍 언어 (Verilog/C 등) 구현 가능한 자
+2dc2087f,삼성전자 DS 부문,Foundry사업부,회로설계,requirement,반도체 설계/분석을 위한 EDA(Electronic Design Automation) 환경
+2dc2087f,삼성전자 DS 부문,Foundry사업부,회로설계,requirement,(Synopsys/ Mentor/ Cadence/ Ansys/ CST 등) 역량 보유자
+2dc2087f,삼성전자 DS 부문,Foundry사업부,회로설계,requirement,원인 분석 및 해결 능력
+2dc2087f,삼성전자 DS 부문,Foundry사업부,회로설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+2dc2087f,삼성전자 DS 부문,Foundry사업부,회로설계,preference,Verilog를 사용한 H/W Design 프로젝트 수행 경험 보유자
+3f9cef0e,삼성전자 DS 부문,메모리사업부,회로설계,requirement,"반도체 기본 동작원리, 전자회로이론 등 반도체 회로설계에 필요한 역량 보유자"
+3f9cef0e,삼성전자 DS 부문,메모리사업부,회로설계,requirement,"프로그래밍 언어 (C, C++, Verilog/VHDL, Python 등) 역량 보유자"
+3f9cef0e,삼성전자 DS 부문,메모리사업부,회로설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+3f9cef0e,삼성전자 DS 부문,메모리사업부,회로설계,preference,"반도체 개발 관련 Tool (SPICE Simulation, Schematic Editor, Layout Editor, Trace32, Power"
+3f9cef0e,삼성전자 DS 부문,메모리사업부,회로설계,preference,"Supply, Logic/Protocol Analyzer, FPGA 등) 역량 보유자"
+3f9cef0e,삼성전자 DS 부문,메모리사업부,회로설계,preference,"프로그래밍 언어 (C++, System Verilog, Python, VBA 등) 역량 보유자"
+4368e7e9,삼성전자,System LSI사업부,회로설계,requirement,Analog 및 Digital 회로설계를 이해하고 분석 가능한 자
+4368e7e9,삼성전자,System LSI사업부,회로설계,requirement,프로그래밍 언어 (Verilog/C 등) 구현 가능한 자
+4368e7e9,삼성전자,System LSI사업부,회로설계,requirement,"회로 개발 Tool (Oscilloscope, Spectrum Analyzer, Signal Generator, Cadence, Ansys 등)"
+4368e7e9,삼성전자,System LSI사업부,회로설계,requirement,역량 보유자
+4368e7e9,삼성전자,System LSI사업부,회로설계,preference,"전자회로의 구성 및 동작원리를 이해하고, 관련 프로젝트 수행 경험 보유자"
+4368e7e9,삼성전자,System LSI사업부,회로설계,preference,Verilog를 사용한 H/W Design 프로젝트 수행 경험 보유자
+4368e7e9,삼성전자,System LSI사업부,회로설계,preference,"해외 고객 지원을 위한 외국어(영어, 중국어) 회화 역량 보유자"
+4dfcdfec,삼성전자,Foundry사업부,회로설계,requirement,Analog 및 Digital 회로설계를 이해하고 분석 가능한 자
+4dfcdfec,삼성전자,Foundry사업부,회로설계,requirement,프로그래밍 언어 (Verilog/C 등) 구현 가능한 자
+4dfcdfec,삼성전자,Foundry사업부,회로설계,requirement,반도체 설계/분석을 위한 EDA(Electronic Design Automation) 환경
+4dfcdfec,삼성전자,Foundry사업부,회로설계,requirement,(Synopsys/ Mentor/ Cadence/ Ansys/ CST 등) 역량 보유자
+4dfcdfec,삼성전자,Foundry사업부,회로설계,requirement,원인 분석 및 해결 능력
+4dfcdfec,삼성전자,Foundry사업부,회로설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+4dfcdfec,삼성전자,Foundry사업부,회로설계,preference,Verilog를 사용한 H/W Design 프로젝트 수행 경험 보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"반도체기본동작원리, 전자회로이론등반도체회로설계에필요한역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-프로그래밍 언어(C, C++, Verilog/VHDL, Python 등) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-FPGA/ASIC 설계및검증(Vivado, Quartus, Design Compiler등) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"반도체소자동작원리, 디지털신호처리및전자회로등반도체개발/평가에 필요한역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-빅데이터를 통계적으로 처리할수있는데이터분석역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-운영체제, 임베디드 시스템에서 메모리동작원리이해가가능한역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-반도체제품/부품의신뢰성분석업무경험, 지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-개발및분석관련Tool(MiniTab, 3D Scope, X-Ray) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,메모리사업부> 평가및분석
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"반도체기본동작원리, 공정개발 등반도체개발의공정프로세스 개선에필요한역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-반도체단위공정, Device physics 등반도체소자및공정관련전공지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-반도체소자의물리적/재료화학적 분석에필요한역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-메모리제품(DRAM, Flash memory 등)의동작원리와 구조를이해하고"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"제품의성능, 품질개선에 필요한직무지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-빅데이터분석역량및통계학관련전공지식보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"반도체기본동작원리, 공정개발 등반도체개발의공정기술 개선에필요한역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-빅데이터분석역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계, 등), 물리, 화학계열전공자또는이에상응하는전공지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-반도체설비, Tool, 금형의구조와동작원리를이해하고활용이가능한자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-기구/모터/실린더 등요소기술에대하여이해하고적용가능한자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-CAD를이해하고 이에맞는Electrical/Thermal/Mechanical Simulation 구현이 가능한자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"기계, 물리, 부품, 센서, 공압등설비주요구성및동작원리지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-열전달, 전기전자, 변형, 플라즈마, 유체, 진공등설비요소기술지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"생산관리, 물류관리 등생산관리 직무에필요한역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"EX) 생산관리, 물류관리, Data Mining, 시스템시뮬레이션, SCM 등"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"전기전자, 재료, 물성, 화학, 회로, 소자및물리등계열전공자또는이에상응하는 전공지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-반도체단위공정이해, 회로및소자특성, 물성및화학분석원리, 전기전자재료특성및물성등"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,반도체공정관련경험자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"반도체공정관련경험자, Big Data 활용역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"신소재(재료), 화학/화공, 기계계열전공자또는이에상응하는 전공지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-반도체클린룸, 환경/소재/Wafer 극미량 분석에활용될수있는관련지식및역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,반도체소자/공정/소재에대한기본적인지식보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-반도체제품의이해및물성/소재/설비에 대한역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,글로벌제조&인프라총괄> 반도체공정기술
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"기구개발을 이해하기 위한기구설계, 측정, 구동및제어관련지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"EX) 기계설계, 최적설계, 고체역학, 열유체공학, 동역학, 정역학, 소음진동"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-반도체설비기구개발에 필요한분석, 설계, 해석역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-공정요구사항을 이해하고이를위한설비/공정 설계및구현가능한자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,프로그래밍 언어(C / C++ / C# / Python / Java / R / Spotfire등) 및알고리즘 문제해결역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-임베디드시스템및ARM Architecture, 운영체제(Windows / Linux) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-요구사항을 이해하고 이에기반한소프트웨어 설계및Test script 구현역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-데이터마이닝역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"환경, 에너지, 지속경영, 안전보건, 소방관련전공자또는이에상응하는전공지식 보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-설비, 공정안전관련지식및예측기술보유자(Simulation, 평가Tool 활용)"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-기술력기반법규해석능력보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-반도체사업장의특성과환경안전의중요성을이해하고생명존중과 책임감을가진자로서
+57238f37,삼성전자,TSP총괄,회로설계,requirement,환경안전분야전공자및역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계, 산업공학등), 물리, 화학, 수학/통계계열전공자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,또는이에상응하는 전공지식보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-반도체FAB공정, PKG 조립공정, Test공정등반도체공정기술 지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-다양한분석장비(SEM, FTIR, RAMAN, IC, XPS 등)의사용경험및활용이가능한 자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-소재개발/품질관리 경험및지식보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-프로그래밍 언어(C/C++/Verilog, Java, R, Python 등) 및알고리즘문제해결역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계, 등), 물리, 화학계열전공자또는"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,이에상응하는 전공지식보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-반도체PKG조립 공정, 계측공정, Test공정등반도체공정과기술관련지식"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계등), 물리, 화학계열전공자또는"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,TSP총괄> 패키지개발
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-반도체설비구조및동작원리관련지식및경험보유자(부품/금형/로봇, 기계유지/보수, 자동화장치등)"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,TSP총괄> 설비기술
+57238f37,삼성전자,TSP총괄,회로설계,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및알고리즘문제해결역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-Embedded시스템 및ARM Architecture, 운영체제(Windows/Linux) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-요구사항을 이해하고 이에맞는소프트웨어를 설계및구현할수있는역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,데이터분석및통신방식을이해하고신기술에 대한관심과이해도를보유한 자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,-시스템요구사항을 이해하고이에맞는소프트웨어 및IT인프라기획/설계가가능한자
+57238f37,삼성전자,TSP총괄,회로설계,requirement,"-컴퓨터, 전기전자/통신, 수학/통계/산업공학, 물리/기계계열전공자또는이에상응하는전공지식보유자"
+57238f37,삼성전자,TSP총괄,회로설계,requirement,AI센터> SW개발
+57238f37,삼성전자,TSP총괄,회로설계,preference,"직무와연관된경험보유자(프로젝트, 논문, 특허, 경진대회)"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-반도체개발관련Tool(SPICE Simulation, Schematic Editor, Layout Editor, Trace32,"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"Power Supply, Logic/Protocol Analyzer, FPGA 등) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-프로그래밍 언어(C++, System Verilog, Python, VBA 등) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-해외고객지원을위한영어회화역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,Career Vision
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-DRAM, Flash, Solution제품의설계및Layout 설계경험을 통해설계전문가로 성장할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-검증Tool을이용한검증환경및조건구축, 설계제품평가및최적화를통해검증전문가로"
+57238f37,삼성전자,TSP총괄,회로설계,preference,성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,메모리사업부> 평가및분석
+57238f37,삼성전자,TSP총괄,회로설계,preference,메모리사업부 (Memory Business)
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무: 평가및분석
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-반도체개발및분석관련Tool(Spotfire, SPICE Simulation, Schematic Editor, Allegro,"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"Layout Drawing, Trace32, Power Supply, Logic/Protocol Analyzer, Oscilloscope, MiniTab,"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"3D Scope, 3D CT, X-Ray, Dye & Pry, De-Capsulation, Cross Section, SAT, FIB, SEM, EDS,"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"FESEM, TMA 등) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-프로그래밍 언어(C, C++, R, Python, Linux, VBA 등) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-품질관련공인(CRE, CQE, 품질기사등) 자격증보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-평가및검증을위한테스트시나리오도출및구현역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-소재구조(Chemical/Physical), 물성, 특성및성분분석기술역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-평가및분석을위한불량분석기술개발및선행기술구현역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-Automotive향 부품/제품개발및신뢰성전문기술역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-웹개발언어(Java script, Python 등) 및프레임워크(React, Angular 등) 활용역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-부품/제품신뢰성평가및분석업무유경험자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Al Die-Casting, Press, 가공, 압출설계유경험자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Ansys, HyperMesh, Fluent, FlothermTool 사용유경험자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-상품기획부터 개발, 품질관리까지 제품경쟁력을결정하는전과정에참여하며"
+57238f37,삼성전자,TSP총괄,회로설계,preference,메모리반도체제품및기술전반에대한이해와전문성을배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-제품개발, 품질평가, 데이터분석등의다방면에서반도체제품을이해하고신뢰성을 높이는"
+57238f37,삼성전자,TSP총괄,회로설계,preference,평가및분석전문가로성장할 수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,메모리사업부> 반도체공정설계
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무: 반도체공정설계
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Transistor 관련(물리전자, 고체전자물리) 분석유경험자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Data Science 관련Python, Machine Learning, Big Data, 통계및산술/회귀 분석등유경험자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체제품의공정프로세스설계부터 개선까지의 과정을거쳐공정전반에아우르는지식및
+57238f37,삼성전자,TSP총괄,회로설계,preference,반도체역량을배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-최적공정조건개발및소자설계를통해반도체소자전문가로 성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,메모리사업부> 반도체공정기술
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무: 반도체공정기술
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Big Data의통계적Tool 활용가능자(R,Python 등)"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-공정엔지니어로서 공정전반의연구및개발하는역량을배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-공정최적화와 품질개선활동을 통해공정전문가로성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,메모리사업부> 패키지개발
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무: 패키지개발
+57238f37,삼성전자,TSP총괄,회로설계,preference,반도체Package 및품질직무와연관된대내외활동경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체Package공정및품질관련졸업논문및국내/외저널논문보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체및Simulation 관련Tool 역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"(ABAQUS, ANSYS, LS-Dyna, Finesimspice, Hspice, SIWAVE, Advanced Design System 등)"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-기계적/열특성 분석, 성분분석등다양한분야의분석역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-반도체설비, Tool, 금형의구조와동작원리를이해하고활용이가능한자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-다양한분석장비(SEM, FTIR, RAMAN, IC, XPS 등)의사용경험및활용이가능한 자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-해외법인과커뮤니케이션이 가능한수준의외국어(영어, 일본어) 회화역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-반도체산업(특히 AI)에서중요성이부각되고있는HBM Package의설계, Simulation,"
+57238f37,삼성전자,TSP총괄,회로설계,preference,제품/구조/공정/소재를 개발하고최적화하는전문역량을배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-HBM PKG 제품에대한높은이해도를 바탕으로제품/공정/소재/기술 Engineer로서의성장뿐만아니라
+57238f37,삼성전자,TSP총괄,회로설계,preference,"고객대응, 기획, 마케팅등다양한 분야의전문가로성장할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,메모리사업부> 설비기술
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무: 설비기술
+57238f37,삼성전자,TSP총괄,회로설계,preference,"전공/직무와 연관된경험보유자(프로젝트, 논문, 특허, 경진대회)"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-반도체개발/ 데이터분석관련Tool(MATLAB, Spotfire, C, C++, Python 등) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-신설비셋업및기존설비관리까지공정별설비프로세스관리역량을배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-설비H/W 제어기술 역량개발을통해설비Maestro로성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,메모리사업부> 생산관리
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무: 생산관리
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-통계및수치해석Tool(Oracle, SQL 등) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-다양한제품과공정에연관된생산관리 경험을통해생산관리전문가로성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,CTO_반도체연구소
+57238f37,삼성전자,TSP총괄,회로설계,preference,미래 기술의 시작점이자 차세대 반도체 개발의 중심!
+57238f37,삼성전자,TSP총괄,회로설계,preference,CTO_반도체연구소> 반도체공정설계
+57238f37,삼성전자,TSP총괄,회로설계,preference,CTO_반도체연구소(Semiconductor R&D Center)
+57238f37,삼성전자,TSP총괄,회로설계,preference,"컴퓨터프로그래밍 언어를통한개발, 데이터분석및시뮬레이션 역량/경험보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-직무와연관된논문작성및특허출원이력보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-해외연구소/설비, 소재협력사와커뮤니케이션 가능한수준의외국어회화역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체제품개발전반을경험하여 반도체소자및Package 개발을주도하는역량을배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-각소자별선행기술과차세대Package 기술에대한연구/개발을통해반도체의미래기술전문가로
+57238f37,삼성전자,TSP총괄,회로설계,preference,CTO_반도체연구소> 반도체공정기술
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체8대공정및Package의선행개발경험을통해미래공정을선도하는최고공정전문가로
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-소재, 설비, 시뮬레이션 등반도체공정기술과 관련된여러분야와의협업을통해저변을넓힐수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,글로벌 제조&인프라총괄
+57238f37,삼성전자,TSP총괄,회로설계,preference,미래지향적・친환경 FAB을 위한 인프라/제조 공통 요소 기술 조직
+57238f37,삼성전자,TSP총괄,회로설계,preference,글로벌제조&인프라총괄> 평가및분석
+57238f37,삼성전자,TSP총괄,회로설계,preference,글로벌 제조&인프라총괄 (Global Manufacturing & Infra Technology)
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무와연관된대내외활동경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-기상미세입자/분자거동해석및Simulation, Big Data(화학 분석) 통계분석역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-해외법인과커뮤니케이션이 가능한수준의외국어(영어, 중국어) 회화역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체FAB 제조환경구축/운영기술습득하여청정환경전문가로성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-범용적으로 사용되는화학분석기술의 응용및업계최고인프라를바탕으로국내최고수준의
+57238f37,삼성전자,TSP총괄,회로설계,preference,반도체화학분석전문가성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-Bulk Gas/Chemical/공조(HVAC)/배출공급계통을이해하고관리시스템운영/개발역량을 쌓아
+57238f37,삼성전자,TSP총괄,회로설계,preference,화학및품질분야의전문인재성장할 수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,글로벌제조&인프라총괄> 반도체공정기술
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Data 분석/통계및프로그래밍(Python, Java, C, SQL 등) 가능한자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-계측/분석/검사 설비(SEM, TEM 등) 활용경험보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-고객품질대응이해및품질자격증보유
+57238f37,삼성전자,TSP총괄,회로설계,preference,-어학(영어/중국어/일어) 능력
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-검사, 계측모니터링기술개발및불량개선에기여하는공정전문가로성장할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-제품개발부터 양산까지의분석솔루션을제공하며, 평가및분석역량을배양할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-신뢰성, 품질보증, 고객지원관련역량을보유한전문가로성장할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,-공정에사용되는소재에대한품질관리및연구개발하는역량을배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,글로벌제조&인프라총괄> 기구개발
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무: 기구개발
+57238f37,삼성전자,TSP총괄,회로설계,preference,기계시스템개발에 관한프로젝트 수행경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-CAD Tool 활용능력보유자(Solid Edge, Solid Works, CATIA 등)"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-Device 구조및공정메커니즘의 이해를위한기초전공지식보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체공정/설비개발프로젝트수행경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-Global 설비사와 협력하여반도체설비/공정에대한이해도를높이고
+57238f37,삼성전자,TSP총괄,회로설계,preference,설비기술및개발역량을 쌓을수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-신설비설계및설비파라미터개발을주도하여 반도체설비전문가로성장할 수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,글로벌제조&인프라총괄> 설비기술
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-반도체개발/ 데이터분석관련Tool(Python, Spotfire, C, C++, MATLAB 등) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,글로벌제조&인프라총괄> SW개발
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무: SW개발
+57238f37,삼성전자,TSP총괄,회로설계,preference,-SW / HW 플랫폼을활용한프로젝트수행경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-다양한S/W개발및Tester 개발로SW 전문가로성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-AI기반공정데이터분석및자동화기술개발을통해설비및FAB 시스템개발역량을쌓을수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-설비제어시스템및검사계측기술개발을주도하여반도체설비SW전문가로 성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-FAB Infra 및로보틱스기술개발을통해Advanced Automation 전문가로성장할 수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,글로벌제조&인프라총괄> 안전보건
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무: 안전보건
+57238f37,삼성전자,TSP총괄,회로설계,preference,안전보건직무관련국가기술자격 보유자(기사 이상)
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-안전보건직무관련대내외경험보유자(프로젝트, 논문, 특허, 경진대회등)"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-프로젝트현장안전보건관련Setup업무경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-반도체현장에대한Clean Room 구조및Utility 공급, 순환시설에대한이해및경험자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-산업심리/행동심리 관련전공자및역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체/인프라 현장맞춤기준수립및사고예방활동수행으로 현장맞춤안전보건 전문가로
+57238f37,삼성전자,TSP총괄,회로설계,preference,-안전보건분야법규를반영한사내기준수립및관리를통해안전보건전문가로성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,TSP총괄
+57238f37,삼성전자,TSP총괄,회로설계,preference,반도체 가치를 극대화하는 패키지의 힘!
+57238f37,삼성전자,TSP총괄,회로설계,preference,TSP총괄> 평가및분석
+57238f37,삼성전자,TSP총괄,회로설계,preference,TSP 총괄 (Test and System PKG)
+57238f37,삼성전자,TSP총괄,회로설계,preference,품질직무에대한기본적인 지식보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"(품질공학, 환경안전, PL(Product Liability), SPC, 생산관리, Test Engineering, Big Data 해석)"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체Package 및품질직무와연관된대내외활동경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-기계적/열특성 분석, 성분분석등다양한분야의분석지식/경험 보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-소프트웨어 및하드웨어플랫폼을 활용한프로젝트수행경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체소재개발및품질관련직무와연관된대내외활동경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-해외소재사와 커뮤니케이션이가능한수준의외국어(영어, 일본어) 회화능력보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-패키징제품의공정모니터링, 수율, 품질등전체프로세스관리및Data 분석, 패키징심화분석역량을"
+57238f37,삼성전자,TSP총괄,회로설계,preference,배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-반도체산업에서패키징Process에대한높은이해도를가질수있으며, 향후Process Integration,"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"Quality Management, Data Scientist, Defect Analyst 등다양한분야의전문가로성장할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-신제품/소재/공정개발검증, 양산품질관리, 품질경영시스템, 제품신뢰성평가및고객대응기능역량을"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-다양한제품의평가, Big 데이터분석, 통계적양산관리, Audit 경험을통해패키징관련품질전문가로"
+57238f37,삼성전자,TSP총괄,회로설계,preference,TSP총괄> 반도체공정기술
+57238f37,삼성전자,TSP총괄,회로설계,preference,"반도체Package 공정및품질관련경험보유자(프로젝트, 논문, 특허, 경진대회)"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체개발관련Tool 역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-데이터분석역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-광학계구조및이론이해, Image 분석역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-해외업체와커뮤니케이션이 가능한수준의외국어(영어, 일본어) 회화역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-세계반도체시장의 핵심경쟁력인 패키징각공정의공법, 공정조건개발업무능력배양을통해"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"Process Integration, Process Developer 전문가로성장할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Package 제품의Wafer, Package, Test Process 품질/생산성향상업무및공정기반기술연구역량을"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-발전하는차세대반도체공정연구/분석/개선직무경험을바탕으로Package 공정기술전문가로
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-반도체테스트엔지니어로테스트프로그램 작성, 인터페이스 개발을진행하며, 신제품Test Solution을"
+57238f37,삼성전자,TSP총괄,회로설계,preference,제공할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-공정/출하시발생하는주요불량인자들에 대해분석하고해결책을적용하여개선할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-반도체설비의컨셉설계, 요소기술개발, 설비시스템S/W, 통신등설비표준화플랫폼개발의전문가로"
+57238f37,삼성전자,TSP총괄,회로설계,preference,TSP총괄> 패키지개발
+57238f37,삼성전자,TSP총괄,회로설계,preference,-SI/PI/Thermal/Mechanical Simulation Tool경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Package 개발Process에대한이해를바탕으로설계, Simulation 및Process Architecture에대한"
+57238f37,삼성전자,TSP총괄,회로설계,preference,역량을배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Package 공정, 소재에대한연구와최적화역량을배양할수있고, 나아가새로운공정, 소재개발을통해"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"공정, 소재전문가로 성장할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,TSP총괄> 설비기술
+57238f37,삼성전자,TSP총괄,회로설계,preference,"기구설계(Auto CAD, Inventor, CATIA) 및시스템Tool(C언어/Java 등) 역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-패키징공정첨단설비의개발, 동작분석, 성능향상등의업무를통해높은수준의 최신기술동향이해및"
+57238f37,삼성전자,TSP총괄,회로설계,preference,공정역량을수반한설비전문가로성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Package 제품양산을위한Wafer, Package, 계측, Test Process의설비/제조인프라구축및자동화"
+57238f37,삼성전자,TSP총괄,회로설계,preference,제조환경을구현하는역량을 배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-차세대반도체설비및인프라유지/보수/개조/개선직무경험을바탕으로Package 설비기술전문가로
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-TEST 설비관리, 운영을통하여문제해결능력, 분석하는역량을배양할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,-TEST 업계동향및신기술의지속적인 학습을통해최적의Test Solution을 Consultant 할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,TSP총괄> SW개발
+57238f37,삼성전자,TSP총괄,회로설계,preference,-소프트웨어/하드웨어 플랫폼을활용한프로젝트수행경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-AI 및Machine Learning에대한이해와활용경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-설비제어SW, Embedded SW, Vision SW개발경험보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-패키징공정/ 시스템전반에대한이해를통해Big 데이터분석, 시스템PI 전문가, 통계솔루션전문가로"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-데이터베이스 설계및구축, UI 개발, Big Data 분석, M/L 활용Image Processing S/W 개발등"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"Front-end부터Back-end까지다양한시스템개발경험을쌓을수있으며,"
+57238f37,삼성전자,TSP총괄,회로설계,preference,이를기반으로 향후Full-Stack 개발자로성장하여주도적으로 프로세스개발업무를수행할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-패키징공정및시스템전영역의전산체계이해하고기획하는역량을배양할수있으며,"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"향후분야에따라AI 전문가, 시스템PI 전문가, Big Data 분석전문가로성장할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-A.I., D.L"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"등을활용한Data Engineering 역량을배양하고 관련된방법론개발, 품질관리전문가로"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-공정, 테스트설비제어, 통신등에대한S/W 역량을배양하고시스템을개발하고설계하는전문가로"
+57238f37,삼성전자,TSP총괄,회로설계,preference,AI센터
+57238f37,삼성전자,TSP총괄,회로설계,preference,반도체 비지니스의 글로벌 경쟁력 제고를 위한
+57238f37,삼성전자,TSP총괄,회로설계,preference,AI & IT 기술과 서비스를 제공하는 CIO 조직
+57238f37,삼성전자,TSP총괄,회로설계,preference,AI센터> 신호및시스템설계
+57238f37,삼성전자,TSP총괄,회로설계,preference,AI센터 (AI Center)
+57238f37,삼성전자,TSP총괄,회로설계,preference,직무: 신호및시스템설계
+57238f37,삼성전자,TSP총괄,회로설계,preference,프로그래밍 언어(C/C++/C#/Python/Java 등) 및알고리즘문제해결역량보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-보안관리및거버넌스, 통신보안, 표준화 데이터베이스, 인터넷보안 관련경험보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-운영체제(Windows/Linux) 및Embedded시스템, ARM Architecture역량보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-직무와연관된경험보유자(프로젝트, 논문, 특허, 경진대회)"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-IT 인프라/서비스 설계및개발을통해Autonomous Factory 분야전문가로성장할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-Data 및신기술(AI, ML 등)을바탕으로 연구개발하는역량을 배양할수있습니다."
+57238f37,삼성전자,TSP총괄,회로설계,preference,AI센터> SW개발
+57238f37,삼성전자,TSP총괄,회로설계,preference,웹시스템개발을위한Front-end / Back-end 경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-Database에대한이해와활용경험보유자
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-ML/DL 기반최적화, 예측Model/Application 개발경험"
+57238f37,삼성전자,TSP총괄,회로설계,preference,"-CSTS, ISTQB 등SW Testing Certificate 보유자"
+57238f37,삼성전자,TSP총괄,회로설계,preference,-S/W Architecture 및Source 코드분석경험자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-S/W Measurement 기법활용및Metrics 분석경험자
+57238f37,삼성전자,TSP총괄,회로설계,preference,-다양한분석Platform 및AI센터자체S/W Tool을개발하는역량을 배양할수있습니다.
+57238f37,삼성전자,TSP총괄,회로설계,preference,-반도체분야S/W 품질및생산성개선을통해S/W 전문가로 성장할수있습니다.
+71545978,삼성전자 DS 부문,System LSI사업부,회로설계,requirement,Analog 및 Digital 회로설계를 이해하고 분석 가능한 자
+71545978,삼성전자 DS 부문,System LSI사업부,회로설계,requirement,프로그래밍 언어 (Verilog/C 등) 구현 가능한 자
+71545978,삼성전자 DS 부문,System LSI사업부,회로설계,requirement,"회로 개발 Tool (Oscilloscope, Spectrum Analyzer, Signal Generator, Cadence, Ansys 등)"
+71545978,삼성전자 DS 부문,System LSI사업부,회로설계,requirement,역량 보유자
+71545978,삼성전자 DS 부문,System LSI사업부,회로설계,preference,"전자회로의 구성 및 동작원리를 이해하고, 관련 프로젝트 수행 경험 보유자"
+71545978,삼성전자 DS 부문,System LSI사업부,회로설계,preference,Verilog를 사용한 H/W Design 프로젝트 수행 경험 보유자
+71545978,삼성전자 DS 부문,System LSI사업부,회로설계,preference,"해외 고객 지원을 위한 외국어(영어, 중국어) 회화 역량 보유자"
+87980feb,삼성전자 DS 부문,Foundry사업부,회로설계,requirement,Analog 및 Digital 회로설계를 이해하고 분석 가능한 자
+87980feb,삼성전자 DS 부문,Foundry사업부,회로설계,requirement,프로그래밍 언어 (Verilog/C 등) 구현 가능한 자
+87980feb,삼성전자 DS 부문,Foundry사업부,회로설계,requirement,반도체 설계/분석을 위한 EDA(Electronic Design Automation) 환경
+87980feb,삼성전자 DS 부문,Foundry사업부,회로설계,requirement,(Synopsys/ Mentor/ Cadence/ Ansys/ CST 등) 역량 보유자
+87980feb,삼성전자 DS 부문,Foundry사업부,회로설계,requirement,원인 분석 및 해결 능력
+87980feb,삼성전자 DS 부문,Foundry사업부,회로설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+87980feb,삼성전자 DS 부문,Foundry사업부,회로설계,preference,Verilog를 사용한 H/W Design 프로젝트 수행 경험 보유자
+a51eea36,삼성전자,System LSI사업부,회로설계,requirement,Analog 및 Digital 회로설계를 이해하고 분석 가능한 자
+a51eea36,삼성전자,System LSI사업부,회로설계,requirement,프로그래밍 언어 (Verilog/C 등) 구현 가능한 자
+a51eea36,삼성전자,System LSI사업부,회로설계,requirement,"회로 개발 Tool (Oscilloscope, Spectrum Analyzer, Signal Generator, Cadence, Ansys 등)"
+a51eea36,삼성전자,System LSI사업부,회로설계,requirement,역량 보유자
+a51eea36,삼성전자,System LSI사업부,회로설계,preference,"전자회로의 구성 및 동작원리를 이해하고, 관련 프로젝트 수행 경험 보유자"
+a51eea36,삼성전자,System LSI사업부,회로설계,preference,Verilog를 사용한 H/W Design 프로젝트 수행 경험 보유자
+a51eea36,삼성전자,System LSI사업부,회로설계,preference,"해외 고객 지원을 위한 외국어(영어, 중국어) 회화 역량 보유자"
+a51eea36,삼성전자,System LSI사업부,회로설계,preference,Career Vision
+a51eea36,삼성전자,System LSI사업부,회로설계,preference,"SOC(Exynos), DDI, PMIC, Sensor 등 다양한 시스템 반도체 제품의 회로설계 및 Layout설계"
+a51eea36,삼성전자,System LSI사업부,회로설계,preference,경험을 통해 최고의 설계 전문가로 성장할 수 있습니다.
+a51eea36,삼성전자,System LSI사업부,회로설계,preference,"4차 산업혁명의 핵심인 AI 반도체를 직접 설계하고, 상용화에 참여함을 통해 최고의"
+a51eea36,삼성전자,System LSI사업부,회로설계,preference,시스템반도체 설계 전문가로의 역량을 키울 수 있습니다.
+bd86d64e,삼성전자,메모리사업부,회로설계,requirement,"반도체 기본 동작원리, 전자회로이론 등 반도체 회로설계에 필요한 역량 보유자"
+bd86d64e,삼성전자,메모리사업부,회로설계,requirement,"프로그래밍 언어 (C, C++, Verilog/VHDL, Python 등) 역량 보유자"
+bd86d64e,삼성전자,메모리사업부,회로설계,requirement,"FPGA/ASIC 설계 및 검증 (Vivado, Quartus, Design Compiler등) 역량 보유자"
+bd86d64e,삼성전자,메모리사업부,회로설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+bd86d64e,삼성전자,메모리사업부,회로설계,preference,"반도체 개발 관련 Tool (SPICE Simulation, Schematic Editor, Layout Editor, Trace32, Power"
+bd86d64e,삼성전자,메모리사업부,회로설계,preference,"Supply, Logic/Protocol Analyzer, FPGA 등) 역량 보유자"
+bd86d64e,삼성전자,메모리사업부,회로설계,preference,"프로그래밍 언어 (C++, System Verilog, Python, VBA 등) 역량 보유자"
+bd86d64e,삼성전자,메모리사업부,회로설계,preference,Career Vision
+bd86d64e,삼성전자,메모리사업부,회로설계,preference,"DRAM, Flash, Solution 제품의 설계 및 Layout 설계 경험을 통해 설계 전문가로 성장할 수"
+bd86d64e,삼성전자,메모리사업부,회로설계,preference,있습니다.
+bd86d64e,삼성전자,메모리사업부,회로설계,preference,"검증 Tool 을 이용한 검증 환경 및 조건 구축, 설계 제품 평가 및 최적화를 통해 검증"
+bd86d64e,삼성전자,메모리사업부,회로설계,preference,전문가로 성장할 수 있습니다.
+bfe50496,삼성전자,Foundry사업부,회로설계,requirement,Analog 및 Digital 회로설계를 이해하고 분석 가능한 자
+bfe50496,삼성전자,Foundry사업부,회로설계,requirement,프로그래밍 언어 (Verilog/C 등) 구현 가능한 자
+bfe50496,삼성전자,Foundry사업부,회로설계,requirement,반도체 설계/분석을 위한 EDA(Electronic Design Automation) 환경
+bfe50496,삼성전자,Foundry사업부,회로설계,requirement,(Synopsys/ Mentor/ Cadence/ Ansys/ CST 등) 역량 보유자
+bfe50496,삼성전자,Foundry사업부,회로설계,requirement,원인 분석 및 해결 능력 보유자
+bfe50496,삼성전자,Foundry사업부,회로설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+bfe50496,삼성전자,Foundry사업부,회로설계,preference,Verilog를 사용한 H/W Design 프로젝트 수행 경험 보유자
+bfe50496,삼성전자,Foundry사업부,회로설계,preference,Career Vision
+bfe50496,삼성전자,Foundry사업부,회로설계,preference,선단 공정 Design Methodology 및 Library/PDK 개발 역량을 보유한 전문가로
+bfe50496,삼성전자,Foundry사업부,회로설계,preference,성장할 수 있습니다.
+bfe50496,삼성전자,Foundry사업부,회로설계,preference,전 세계 글로벌 고객과 협업하여 고객사 제품에 특화된 전용 회로 설계 및
+bfe50496,삼성전자,Foundry사업부,회로설계,preference,Digital/Analog IP 설계 역량을 보유한 전문가로 성장할 수 있습니다.
+c639edcd,삼성전자,메모리사업부,회로설계,requirement,"반도체 기본 동작원리, 전자회로이론 등 반도체 회로설계에 필요한 역량 보유자"
+c639edcd,삼성전자,메모리사업부,회로설계,requirement,"프로그래밍 언어 (C, C++, Verilog/VHDL, Python 등) 역량 보유자"
+c639edcd,삼성전자,메모리사업부,회로설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+c639edcd,삼성전자,메모리사업부,회로설계,preference,"반도체 개발 관련 Tool (SPICE Simulation, Schematic Editor, Layout Editor, Trace32, Power"
+c639edcd,삼성전자,메모리사업부,회로설계,preference,"Supply, Logic/Protocol Analyzer, FPGA 등) 역량 보유자"
+c639edcd,삼성전자,메모리사업부,회로설계,preference,"프로그래밍 언어 (C++, System Verilog, Python, VBA 등) 역량 보유자"
+e596dd93,삼성전자 DS 부문,System LSI사업부,회로설계,requirement,Analog 및 Digital 회로설계를 이해하고 분석 가능한 자
+e596dd93,삼성전자 DS 부문,System LSI사업부,회로설계,requirement,프로그래밍 언어 (Verilog/C 등) 구현 가능한 자
+e596dd93,삼성전자 DS 부문,System LSI사업부,회로설계,requirement,"회로 개발 Tool (Oscilloscope, Spectrum Analyzer, Signal Generator, Cadence, Ansys 등)"
+e596dd93,삼성전자 DS 부문,System LSI사업부,회로설계,requirement,역량 보유자
+e596dd93,삼성전자 DS 부문,System LSI사업부,회로설계,preference,"전자회로의 구성 및 동작원리를 이해하고, 관련 프로젝트 수행 경험 보유자"
+e596dd93,삼성전자 DS 부문,System LSI사업부,회로설계,preference,Verilog를 사용한 H/W Design 프로젝트 수행 경험 보유자
+e596dd93,삼성전자 DS 부문,System LSI사업부,회로설계,preference,"해외 고객 지원을 위한 외국어(영어, 중국어) 회화 역량 보유자"

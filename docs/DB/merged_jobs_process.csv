@@ -1,0 +1,540 @@
+﻿posting_id,company_name_normalized,division_name_raw,role_name_raw,type,content
+7de27fc5,SK하이닉스,Tech R&D,Product Engineering,requirement,∙ 4년제 학사 이상 졸업(예정)자 (학/석/박)
+7de27fc5,SK하이닉스,Tech R&D,Product Engineering,requirement,"∙ 전자, 전기, 반도체 관련 전공"
+7de27fc5,SK하이닉스,Tech R&D,Product Engineering,requirement,| 행동역량 및 Skillset(
+7de27fc5,SK하이닉스,Tech R&D,Product Engineering,preference,"∙ DRAM 및 반도체 제품 전반에 대한 이해가 높은 자, Programming 능력 보유자"
+a8f39115,SK하이닉스,Tech R&D,Product Engineering,requirement,∙ 학력 : 4년제 학사 이상 졸업자(학/석/박)
+a8f39115,SK하이닉스,Tech R&D,Product Engineering,requirement,"∙ 전공 : 전기, 전자, 반도체, 재료(신소재), 컴퓨터, 물리, 통계, 산업공학 등 관련 전공"
+a8f39115,SK하이닉스,Tech R&D,Product Engineering,requirement,| 필요 역량
+a8f39115,SK하이닉스,Tech R&D,Product Engineering,requirement,∙ 반도체 및 반도체 제품 전반에 대한 이해
+a8f39115,SK하이닉스,Tech R&D,Product Engineering,requirement,∙ Programming 능력 보유
+a8f39115,SK하이닉스,Tech R&D,Product Engineering,preference,원문 참조
+a085bcae,SK하이닉스,Tech R&D,R&D 공정,requirement,∙ 4년제 학사 이상 졸업(예정)자 (학/석/박)
+a085bcae,SK하이닉스,Tech R&D,R&D 공정,requirement,"∙ 전자, 전기, 물리, 재료, 신소재, 화학, 화공, 반도체 관련 전공자"
+a085bcae,SK하이닉스,Tech R&D,R&D 공정,requirement,| 행동역량 및 Skillset(
+a085bcae,SK하이닉스,Tech R&D,R&D 공정,preference,"∙ 반도체 공정 Process 전반의 이해가 높은자, 관련 연구 경험자"
+086f1fba,삼성전자,TSP총괄,반도체 공정기술,requirement,"반도체 FAB공정, PKG 조립공정, Test공정 등 반도체 공정기술 개선에 필요한 역량 보유자"
+086f1fba,삼성전자,TSP총괄,반도체 공정기술,requirement,"반도체 FAB소재(Gas, Chemical, Metal), PKG 조립소재(Film, EMC, Wire, Under-Fill)의 물리적 /"
+086f1fba,삼성전자,TSP총괄,반도체 공정기술,requirement,재료 화학적 분석에 필요한 역량 보유자
+086f1fba,삼성전자,TSP총괄,반도체 공정기술,requirement,데이터 분석 역량 보유자
+086f1fba,삼성전자,TSP총괄,반도체 공정기술,preference,"직무와 연관된 경험 보유자(프로젝트, 논문, 특허, 경진대회)"
+086f1fba,삼성전자,TSP총괄,반도체 공정기술,preference,"반도체 개발 관련 Tool (DC Analyzer, LCR Meter 등) 역량 보유자"
+0ba1eb21,삼성전자 DS 부문,TSP총괄,반도체 공정기술,requirement,"반도체 FAB공정, PKG 조립공정, Test공정 등 반도체 공정기술 개선에 필요한 역량 보유자"
+0ba1eb21,삼성전자 DS 부문,TSP총괄,반도체 공정기술,requirement,"반도체 FAB소재(Gas, Chemical, Metal), PKG 조립소재(Film, EMC, Wire, Under-Fill)의 물리적 /"
+0ba1eb21,삼성전자 DS 부문,TSP총괄,반도체 공정기술,requirement,재료 화학적 분석에 필요한 역량 보유자
+0ba1eb21,삼성전자 DS 부문,TSP총괄,반도체 공정기술,requirement,데이터 분석 역량 보유자
+0ba1eb21,삼성전자 DS 부문,TSP총괄,반도체 공정기술,preference,"직무와 연관된 경험 보유자(프로젝트, 논문, 특허, 경진대회)"
+0ba1eb21,삼성전자 DS 부문,TSP총괄,반도체 공정기술,preference,"반도체 개발 관련 Tool (DC Analyzer, LCR Meter 등) 역량 보유자"
+0efd0a62,삼성전자,Foundry사업부,반도체 공정기술,requirement,"전기전자, 재료/금속, 화학/화공 및 기계, 물리 계열 전공자 또는 이에 상응하는"
+0efd0a62,삼성전자,Foundry사업부,반도체 공정기술,requirement,전공지식 보유자
+0efd0a62,삼성전자,Foundry사업부,반도체 공정기술,requirement,기본적인 반도체 공정과 소자 특성에 대한 역량 보유자
+0efd0a62,삼성전자,Foundry사업부,반도체 공정기술,requirement,"(반도체 8대 공정, Device Physics, Yield, SRAM, Layout)"
+0efd0a62,삼성전자,Foundry사업부,반도체 공정기술,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+0efd0a62,삼성전자,Foundry사업부,반도체 공정기술,preference,"Big data, 통계 분석 tool활용 가능자 (R, Python 등)"
+1c5d73b9,삼성전자,메모리사업부,반도체 공정기술,requirement,"반도체 기본 동작원리, 공정개발 등 반도체 개발의 공정기술 개선에 필요한 역량 보유자"
+1c5d73b9,삼성전자,메모리사업부,반도체 공정기술,requirement,반도체 소자의 물리적 / 재료화학적 분석에 필요한 역량 보유자
+1c5d73b9,삼성전자,메모리사업부,반도체 공정기술,requirement,빅데이터 분석 역량 보유자
+1c5d73b9,삼성전자,메모리사업부,반도체 공정기술,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+1c5d73b9,삼성전자,메모리사업부,반도체 공정기술,preference,"반도체 개발 관련 Tool (DC Analyzer, LCR Meter 등) 역량 보유자"
+1e640070,삼성전자,설비기술연구소,반도체 공정기술,requirement,반도체 8대 공정에 대한 이해 및 문제해결 역량 보유자
+1e640070,삼성전자,설비기술연구소,반도체 공정기술,requirement,공정 요구사항을 이해하고 이를 위한 설비/공정 설계 및 구현 가능한 자
+1e640070,삼성전자,설비기술연구소,반도체 공정기술,requirement,"반도체 설비, 공정 데이터 분석 및 공정 변수 모델링이 가능한 자"
+1e640070,삼성전자,설비기술연구소,반도체 공정기술,preference,Device 구조 및 공정 메커니즘의 이해를 위한 기초 전공지식 보유자
+1e640070,삼성전자,설비기술연구소,반도체 공정기술,preference,반도체 공정개발 및 설비 개발 프로젝트 수행 경험 보유자
+1e640070,삼성전자,설비기술연구소,반도체 공정기술,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+2483e9c0,삼성전자 DS 부문,메모리사업부,반도체 공정기술,requirement,"반도체 기본 동작원리, 공정개발 등 반도체 개발의 공정기술 개선에 필요한 역량 보유자"
+2483e9c0,삼성전자 DS 부문,메모리사업부,반도체 공정기술,requirement,반도체 소자의 물리적 / 재료화학적 분석에 필요한 역량 보유자
+2483e9c0,삼성전자 DS 부문,메모리사업부,반도체 공정기술,requirement,빅데이터 분석 역량 보유자
+2483e9c0,삼성전자 DS 부문,메모리사업부,반도체 공정기술,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+2483e9c0,삼성전자 DS 부문,메모리사업부,반도체 공정기술,preference,"반도체 개발 관련 Tool (DC Analyzer, LCR Meter 등) 역량 보유자"
+2910ea32,삼성전자,반도체연구소,반도체 공정기술,requirement,"전기전자, 재료, 물성, 화학, 회로, 소자 및 물리 등 계열 전공자 또는 이에 상응하는"
+2910ea32,삼성전자,반도체연구소,반도체 공정기술,requirement,전공지식 보유자
+2910ea32,삼성전자,반도체연구소,반도체 공정기술,requirement,"반도체 단위 공정 이해, 회로 및 소자 특성, 물성 및 화학 분석 원리, 전기전자 재료 특성"
+2910ea32,삼성전자,반도체연구소,반도체 공정기술,requirement,"및 물성 등 반도체 설비 관련 경험자, Big Data 활용 역량 보유자"
+2910ea32,삼성전자,반도체연구소,반도체 공정기술,preference,"컴퓨터 프로그래밍 언어를 통한 개발, 데이터 분석 및 시뮬레이션 역량/경험 보유자"
+2910ea32,삼성전자,반도체연구소,반도체 공정기술,preference,직무와 연관된 논문 작성 및 특허 출원 이력 보유자
+2910ea32,삼성전자,반도체연구소,반도체 공정기술,preference,"해외 연구소/설비, 소재 협력사와 커뮤니케이션 가능한 수준의 외국어 회화 역량 보유자"
+5b5d3a6e,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,requirement,반도체 8대 공정에 대한 이해 및 문제해결 역량 보유자
+5b5d3a6e,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,requirement,공정 요구사항을 이해하고 이를 위한 설비/공정 설계 및 구현 가능한 자
+5b5d3a6e,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,requirement,"반도체 설비, 공정 데이터 분석 및 공정 변수 모델링이 가능한 자"
+5b5d3a6e,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,preference,Device 구조 및 공정 메커니즘의 이해를 위한 기초 전공지식 보유자
+5b5d3a6e,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,preference,반도체 공정개발 및 설비 개발 프로젝트 수행 경험 보유자
+5b5d3a6e,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+685f0e87,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,requirement,반도체 8대 공정에 대한 이해 및 문제해결 역량 보유자
+685f0e87,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,requirement,공정 요구사항을 이해하고 이를 위한 설비/공정 설계 및 구현 가능한 자
+685f0e87,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,requirement,"반도체 설비, 공정 데이터 분석 및 공정 변수 모델링이 가능한 자"
+685f0e87,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,preference,Device 구조 및 공정 메커니즘의 이해를 위한 기초 전공지식 보유자
+685f0e87,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,preference,반도체 공정개발 및 설비 개발 프로젝트 수행 경험 보유자
+685f0e87,삼성전자 DS 부문,설비기술연구소,반도체 공정기술,preference,"해외 법인과 커뮤니케이션이 가능한 수준의 외국어(영어, 중국어) 회화 역량 보유자"
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,requirement,"반도체 FAB공정, PKG 조립공정, Test공정 등 반도체 공정기술 개선에 필요한 역량 보유자"
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,requirement,"반도체 FAB소재(Gas, Chemical, Metal), PKG 조립소재(Film, EMC, Wire, Under-Fill)의 물리적 /"
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,requirement,재료 화학적 분석에 필요한 역량 보유자
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,requirement,"전기/전자, 기계/자동차 전공자 또는 이에 상응하는 전공지식 보유자"
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,preference,"반도체 개발 관련 Tool (DC Analyzer, LCR Meter 등) 역량 보유자"
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,preference,"기구 설계(Auto CAD, Inventor, CATIA) 및 S/W Tool (C언어/Java 等) 역량 보유자"
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,preference,윤활/구동 이상 여부 진단 역량 보유자
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,preference,진동/소음 전공 및 진동/소음 등 설비 진단 역량 보유자
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,preference,로봇 기술 및 제어 기술 보유자
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,preference,"센서, 광학, 레이져 기술 보유자 및 각종 계측기 핸들링 가능자"
+6ee867ff,삼성전자 DS 부문,,반도체 공정기술,preference,데이터 분석 역량 보유자
+78d28d3e,삼성전자,,반도체 공정기술,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계, 등), 물리, 화학 계열 전공자 또는"
+78d28d3e,삼성전자,,반도체 공정기술,requirement,이에 상응하는 전공지식 보유자
+78d28d3e,삼성전자,,반도체 공정기술,requirement,"반도체 FAB공정, PKG조립공정, 계측공정, Test공정 등 반도체 공정과 기술 관련 지식"
+78d28d3e,삼성전자,,반도체 공정기술,requirement,"반도체 FAB소재(Gas, Chemical, Metal), PKG 조립소재(Film, EMC, Under-Fill)의"
+78d28d3e,삼성전자,,반도체 공정기술,requirement,물리적/재료화학적 분석에 필요한 지식 보유자
+78d28d3e,삼성전자,,반도체 공정기술,preference,"반도체 Package 공정 및 품질 관련 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+78d28d3e,삼성전자,,반도체 공정기술,preference,반도체 개발 관련 Tool 역량 보유자
+78d28d3e,삼성전자,,반도체 공정기술,preference,데이터 분석 역량 보유자
+78d28d3e,삼성전자,,반도체 공정기술,preference,"광학계 구조 및 이론 이해, Image 분석 역량 보유자"
+78d28d3e,삼성전자,,반도체 공정기술,preference,"해외 업체와 커뮤니케이션이 가능한 수준의 외국어(영어, 일본어) 회화 역량 보유자"
+7ebda398,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,requirement,"전기전자, 재료/금속, 화학/화공 및 기계, 물리 계열 전공자 또는 이에 상응하는"
+7ebda398,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,requirement,전공지식 보유자
+7ebda398,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,requirement,기본적인 반도체 공정과 소자 특성에 대한 역량 보유자
+7ebda398,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,requirement,"(반도체 8대 공정, Device Physics, Yield, SRAM, Layout)"
+7ebda398,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+7ebda398,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,preference,"Big data, 통계 분석 tool활용 가능자 (R, Python 등)"
+82bbaee6,삼성전자,,반도체 공정기술,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계, 등), 물리, 화학 계열 전공자 또는"
+82bbaee6,삼성전자,,반도체 공정기술,requirement,이에 상응하는 전공지식 보유자
+82bbaee6,삼성전자,,반도체 공정기술,requirement,"반도체 FAB공정, PKG조립공정, 계측공정, Test공정 등 반도체 공정과 기술 관련 지식"
+82bbaee6,삼성전자,,반도체 공정기술,requirement,"반도체 FAB소재(Gas, Chemical, Metal), PKG 조립소재(Film, EMC, Under-Fill)의"
+82bbaee6,삼성전자,,반도체 공정기술,requirement,물리적/재료화학적 분석에 필요한 지식 보유자
+82bbaee6,삼성전자,,반도체 공정기술,preference,"반도체 Package 공정 및 품질 관련 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+82bbaee6,삼성전자,,반도체 공정기술,preference,반도체 개발 관련 Tool 역량 보유자
+82bbaee6,삼성전자,,반도체 공정기술,preference,데이터 분석 역량 보유자
+82bbaee6,삼성전자,,반도체 공정기술,preference,"광학계 구조 및 이론 이해, Image 분석 역량 보유자"
+82bbaee6,삼성전자,,반도체 공정기술,preference,"해외 업체와 커뮤니케이션이 가능한 수준의 외국어(영어, 일본어) 회화 역량 보유자"
+84a60d2f,삼성전자 DS 부문,메모리사업부,반도체 공정기술,requirement,"반도체 기본 동작원리, 공정개발 등 반도체 개발의 공정기술 개선에 필요한 역량 보유자"
+84a60d2f,삼성전자 DS 부문,메모리사업부,반도체 공정기술,requirement,반도체 소자의 물리적 / 재료화학적 분석에 필요한 역량 보유자
+84a60d2f,삼성전자 DS 부문,메모리사업부,반도체 공정기술,requirement,빅데이터 분석 역량 보유자
+84a60d2f,삼성전자 DS 부문,메모리사업부,반도체 공정기술,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+84a60d2f,삼성전자 DS 부문,메모리사업부,반도체 공정기술,preference,"반도체 개발 관련 Tool (DC Analyzer, LCR Meter 등) 역량 보유자"
+924e9f47,삼성전자,TSP총괄,반도체 공정기술,requirement,"반도체 FAB공정, PKG 조립공정, Test공정 등 반도체 공정기술 개선에 필요한 역량 보유자"
+924e9f47,삼성전자,TSP총괄,반도체 공정기술,requirement,"반도체 FAB소재(Gas, Chemical, Metal), PKG 조립소재(Film, EMC, Wire, Under-Fill)의 물리적 /"
+924e9f47,삼성전자,TSP총괄,반도체 공정기술,requirement,재료 화학적 분석에 필요한 역량 보유자
+924e9f47,삼성전자,TSP총괄,반도체 공정기술,requirement,데이터 분석 역량 보유자
+924e9f47,삼성전자,TSP총괄,반도체 공정기술,preference,"직무와 연관된 경험 보유자(프로젝트, 논문, 특허, 경진대회)"
+924e9f47,삼성전자,TSP총괄,반도체 공정기술,preference,"반도체 개발 관련 Tool (DC Analyzer, LCR Meter 등) 역량 보유자"
+924e9f47,삼성전자,TSP총괄,반도체 공정기술,preference,Career Vision
+924e9f47,삼성전자,TSP총괄,반도체 공정기술,preference,"반도체 Package 공정에 대해 이해하고 공정 개선, 최적화 활동을 통해 공정 전문가로 성장"
+924e9f47,삼성전자,TSP총괄,반도체 공정기술,preference,할 수 있습니다.
+924e9f47,삼성전자,TSP총괄,반도체 공정기술,preference,"반도체 테스트 공정에 대해 이해하고 공정 개선, 최적화 활동을 통해 테스트 전문가로 성장"
+9fae5a1d,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,requirement,"전기전자, 재료/금속, 화학/화공 및 기계, 물리 계열 전공자 또는 이에 상응하는"
+9fae5a1d,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,requirement,전공지식 보유자
+9fae5a1d,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,requirement,기본적인 반도체 공정과 소자 특성에 대한 역량 보유자
+9fae5a1d,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,requirement,"(반도체 8대 공정, Device Physics, Yield, SRAM, Layout)"
+9fae5a1d,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+9fae5a1d,삼성전자 DS 부문,Foundry사업부,반도체 공정기술,preference,"Big data, 통계 분석 tool활용 가능자 (R, Python 등)"
+a8942e79,삼성전자,,반도체 공정기술,requirement,"전기전자, 재료/금속, 화학/화공, 물리, 기계 계열 전공자 또는 이에 상응하는 전공지식 보유자"
+a8942e79,삼성전자,,반도체 공정기술,requirement,반도체 공정 지식 보유자
+a8942e79,삼성전자,,반도체 공정기술,requirement,고분자/재료/화학이론 等 소재기술 역량 보유자
+a8942e79,삼성전자,,반도체 공정기술,preference,직무와 연관된 대내외 활동 경험 보유자
+a8942e79,삼성전자,,반도체 공정기술,preference,Big Data 분석 Tool 활용 가능자
+a8942e79,삼성전자,,반도체 공정기술,preference,Career Vision
+a8942e79,삼성전자,,반도체 공정기술,preference,차세대 반도체 제품에 요구되는 품질 구현을 위해 단위 공정 및 설비를 개발하고 개선하는
+a8942e79,삼성전자,,반도체 공정기술,preference,기술 역량을 배양할 수 있습니다.
+a8942e79,삼성전자,,반도체 공정기술,preference,"디바이스 특성에 따른 공정, 설비, 소재 및 계측/분석까지 이해하고 활용하는 기술 전문가로"
+a8942e79,삼성전자,,반도체 공정기술,preference,성장할 수 있습니다.
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,requirement,"반도체 소자 동작 원리, 디지털 신호 처리 및 전자 회로 등 반도체 개발/평가에 필요한 역량"
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,requirement,보유자
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,requirement,빅데이터를 통계적으로 처리할 수 있는 데이터 분석 역량 보유자
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,requirement,"운영체제, 임베디드 시스템에서 메모리 동작 원리 이해가 가능한 역량 보유자"
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,requirement,Smart factory 전환 연계된 DX 관련 역량 보유자
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,requirement,컴퓨터 및 네트워크 통신 프로토콜 관련 지식 보유자
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,requirement,수치 및 이미지 데이터 Machine Learning 모델 개발 역량 보유자
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,"반도체 개발 및 분석 관련 Tool (Spotfire, SPICE Simulation, Schematic Editor, Allegro, Layout"
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,"Drawing, Trace32, Power Supply, Logic / Protocol Analyzer, Oscilloscope 등) 역량 보유자"
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,"프로그래밍 언어(C, C++, R, Python, Linux, VBA 등) 역량 보유자"
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,"웹 프로그래밍 (Java, Java Script, Vue, Spring 등) 역량 보유자"
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,"품질관련 공인(CRE, CQE, 품질기사 등) 자격증 보유자"
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,평가 및 검증을 위한 테스트 시나리오 도출 및 구현 역량 보유자
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,Career Vision
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,Test 기술 개발을 통해 공정 전반의 불량검출 및 품질 관리를 고도화하는 Test Engineering
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,전문가로 성장할 수 있습니다.
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,공정 이해부터 데이터 분석을 통한 품질 관리까지 반도체 공정 전반에 대한 지식과
+b5ac0b9c,삼성전자,메모리사업부,반도체 공정기술,preference,전문성을 배양할 수 있습니다.
+c46cd450,삼성전자,LED사업팀,반도체 공정기술,requirement,"전기전자, 재료/금속, 화학/화공, 물리, 기계 계열 전공자 또는 이에 상응하는 전공지식 보유자"
+c46cd450,삼성전자,LED사업팀,반도체 공정기술,requirement,LED 공정을 이해하기 위한 반도체 공정 지식 보유자
+c46cd450,삼성전자,LED사업팀,반도체 공정기술,requirement,고분자/재료/화학이론 等 소재기술 역량 보유자
+c46cd450,삼성전자,LED사업팀,반도체 공정기술,preference,직무와 연관된 대내외 활동 경험 보유자
+c46cd450,삼성전자,LED사업팀,반도체 공정기술,preference,Big Data 분석 Tool 활용 가능자
+ca47ad2b,삼성전자 DS 부문,TSP총괄,반도체 공정기술,requirement,"반도체 FAB공정, PKG 조립공정, Test공정 등 반도체 공정기술 개선에 필요한 역량 보유자"
+ca47ad2b,삼성전자 DS 부문,TSP총괄,반도체 공정기술,requirement,"반도체 FAB소재(Gas, Chemical, Metal), PKG 조립소재(Film, EMC, Wire, Under-Fill)의 물리적 /"
+ca47ad2b,삼성전자 DS 부문,TSP총괄,반도체 공정기술,requirement,재료 화학적 분석에 필요한 역량 보유자
+ca47ad2b,삼성전자 DS 부문,TSP총괄,반도체 공정기술,requirement,데이터 분석 역량 보유자
+ca47ad2b,삼성전자 DS 부문,TSP총괄,반도체 공정기술,preference,"직무와 연관된 경험 보유자(프로젝트, 논문, 특허, 경진대회)"
+ca47ad2b,삼성전자 DS 부문,TSP총괄,반도체 공정기술,preference,"반도체 개발 관련 Tool (DC Analyzer, LCR Meter 등) 역량 보유자"
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,requirement,"반도체 FAB공정, PKG 조립공정, Test공정 등 반도체 공정기술 개선에 필요한 역량 보유자"
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,requirement,"반도체 FAB소재(Gas, Chemical, Metal), PKG 조립소재(Film, EMC, Wire, Under-Fill)의 물리적 /"
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,requirement,재료 화학적 분석에 필요한 역량 보유자
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,requirement,"전기/전자, 기계/자동차 전공자 또는 이에 상응하는 전공지식 보유자"
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,preference,"반도체 개발 관련 Tool (DC Analyzer, LCR Meter 등) 역량 보유자"
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,preference,"기구 설계(Auto CAD, Inventor, CATIA) 및 S/W Tool (C언어/Java 等) 역량 보유자"
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,preference,윤활/구동 이상 여부 진단 역량 보유자
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,preference,진동/소음 전공 및 진동/소음 등 설비 진단 역량 보유자
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,preference,로봇 기술 및 제어 기술 보유자
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,preference,"센서, 광학, 레이져 기술 보유자 및 각종 계측기 핸들링 가능자"
+daf50c85,삼성전자 DS 부문,,반도체 공정기술,preference,데이터 분석 역량 보유자
+01bd592a,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,requirement,기본적인 반도체 물성/소자 특성을 이해하고 현상에 대한 검증 및 분석이 가능한 자
+01bd592a,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,requirement,반도체 Process에 대한 기본적인 이해를 바탕으로 간단한 Analog Circuit 구성 및 Simulation
+01bd592a,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,requirement,가능한 자
+01bd592a,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,preference,"Solid State Device Physics, Surface, Interface Physics / Chemistry 관련 지식 보유자"
+01bd592a,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,preference,"광학 관련 지식 보유자 (Photonic Crystal, Plasmonics, Metamaterial 등)"
+01bd592a,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,preference,"광전 소자/소재 개발 및 특성 분석 경험자 (Photodiode, Solar Cell, LED, Laser 등)"
+01bd592a,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,preference,Semiconductor Process Integration 관련 경험/지식 보유자
+01bd592a,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,preference,Si-based CMOS/Analog Circuit Design 관련 경험/지식 보유자
+2dc77bab,삼성전자,메모리사업부,반도체 공정설계,requirement,"반도체 기본 동작원리, 공정개발 등 반도체 개발의 공정프로세스 개선에 필요한 역량 보유자"
+2dc77bab,삼성전자,메모리사업부,반도체 공정설계,requirement,"반도체 단위 공정, Device physics 등 반도체 소자 및 공정 관련 전공지식 보유자"
+2dc77bab,삼성전자,메모리사업부,반도체 공정설계,requirement,반도체 소자의 물리적/재료화학적 분석에 필요한 역량 보유자
+2dc77bab,삼성전자,메모리사업부,반도체 공정설계,requirement,"메모리 제품(DRAM, Flash memory 등)의 동작 원리와 구조를 이해하고 제품의 성능, 품질"
+2dc77bab,삼성전자,메모리사업부,반도체 공정설계,requirement,개선에 필요한 직무지식 보유자
+2dc77bab,삼성전자,메모리사업부,반도체 공정설계,requirement,빅데이터 분석 역량 및 통계학 관련 전공지식 보유자
+2dc77bab,삼성전자,메모리사업부,반도체 공정설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+2dc77bab,삼성전자,메모리사업부,반도체 공정설계,preference,"Transistor 관련 (물리전자, 고체전자물리) 분석 유경험자"
+2dc77bab,삼성전자,메모리사업부,반도체 공정설계,preference,"C / C++, Visual Basic, Python 등 프로그래밍 유경험자"
+2dc77bab,삼성전자,메모리사업부,반도체 공정설계,preference,Tensor Flow 등 Deep Learning 유경험자
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,requirement,기본적인 반도체 물성/소자 특성을 이해하고 현상에 대한 검증 및 분석이 가능한 자
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,requirement,반도체 Process에 대한 기본적인 이해를 바탕으로 간단한 Analog Circuit 구성 및 Simulation
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,requirement,가능한 자
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,preference,"Solid State Device Physics, Surface, Interface Physics / Chemistry 관련 지식 보유자"
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,preference,"광학 관련 지식 보유자 (Photonic Crystal, Plasmonics, Metamaterial 등)"
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,preference,"광전 소자/소재 개발 및 특성 분석 경험자 (Photodiode, Solar Cell, LED, Laser 등)"
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,preference,Semiconductor Process Integration 관련 경험/지식 보유자
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,preference,Si-based CMOS/Analog Circuit Design 관련 경험/지식 보유자
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,preference,Career Vision
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,preference,"고성능 시스템 반도체 구현이 가능하도록 다양한 Foundry 공정을 분석/검증하고, 설계-공정"
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,preference,"Interface를 극대화하는 Test, 공정 전문가로 성장할 수 있습니다."
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,preference,"특히, Sensor제품의 경우, Pixel 구조 설계 및 공정/소자를 자체 개발함으로써 반도체 공정"
+310c9b74,삼성전자,System LSI사업부,반도체 공정설계,preference,프로세스 설계부터 개선까지 全분야에서의 공정 전문가로 성장할 수 있습니다.
+38eeb28c,삼성전자,Foundry사업부,반도체 공정설계,requirement,기본적인 반도체 공정과 소자 특성에 대한 역량 보유자
+38eeb28c,삼성전자,Foundry사업부,반도체 공정설계,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계 등), 물리 계열 전공자 또는 이에 상응하는"
+38eeb28c,삼성전자,Foundry사업부,반도체 공정설계,requirement,전공지식 보유자
+38eeb28c,삼성전자,Foundry사업부,반도체 공정설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+38eeb28c,삼성전자,Foundry사업부,반도체 공정설계,preference,"Data Science 관련 Machine Learning, Big Data, 컴퓨터공학, 통계 등 경험 및 지식 보유자"
+38eeb28c,삼성전자,Foundry사업부,반도체 공정설계,preference,Career Vision
+38eeb28c,삼성전자,Foundry사업부,반도체 공정설계,preference,시스템 반도체의 선단 공정 개발 역량을 배양할 수 있습니다.
+38eeb28c,삼성전자,Foundry사업부,반도체 공정설계,preference,공정과 제품에 적합한 소자를 설계하고 구현하는 전문가로 성장할 수 있습니다.
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,requirement,"반도체 기본 동작원리, 공정개발 등 반도체 개발의 공정프로세스 개선에 필요한 역량 보유자"
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,requirement,"반도체 단위 공정, Device physics 등 반도체 소자 및 공정 관련 전공지식 보유자"
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,requirement,반도체 소자의 물리적/재료화학적 분석에 필요한 역량 보유자
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,requirement,"메모리 제품(DRAM, Flash memory 등)의 동작 원리와 구조를 이해하고 제품의 성능, 품질"
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,requirement,개선에 필요한 직무지식 보유자
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,requirement,빅데이터 분석 역량 및 통계학 관련 전공지식 보유자
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,preference,"Transistor 관련 (물리전자, 고체전자물리) 분석 유경험자"
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,preference,"C / C++, Visual Basic, Python 등 프로그래밍 유경험자"
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,preference,Tensor Flow 등 Deep Learning 유경험자
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,preference,Career Vision
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,preference,반도체 제품의 공정 프로세스 설계부터 개선까지의 과정을 거쳐 공정 전반에 아우르는 지식
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,preference,및 반도체역량을 배양할 수 있습니다.
+6bc996b2,삼성전자,메모리사업부,반도체 공정설계,preference,최적 공정 조건 개발 및 소자 설계를 통해 반도체 소자 전문가로 성장할 수 있습니다.
+70461dbb,삼성전자,System LSI사업부,반도체 공정설계,requirement,기본적인 반도체 물성/소자 특성을 이해하고 현상에 대한 검증 및 분석이 가능한 자
+70461dbb,삼성전자,System LSI사업부,반도체 공정설계,requirement,반도체 Process에 대한 기본적인 이해를 바탕으로 간단한 Analog Circuit 구성 및 Simulation
+70461dbb,삼성전자,System LSI사업부,반도체 공정설계,requirement,가능한 자
+70461dbb,삼성전자,System LSI사업부,반도체 공정설계,preference,"Solid State Device Physics, Surface, Interface Physics / Chemistry 관련 지식 보유자"
+70461dbb,삼성전자,System LSI사업부,반도체 공정설계,preference,"광학 관련 지식 보유자 (Photonic Crystal, Plasmonics, Metamaterial 등)"
+70461dbb,삼성전자,System LSI사업부,반도체 공정설계,preference,"광전 소자/소재 개발 및 특성 분석 경험자 (Photodiode, Solar Cell, LED, Laser 등)"
+70461dbb,삼성전자,System LSI사업부,반도체 공정설계,preference,Semiconductor Process Integration 관련 경험/지식 보유자
+70461dbb,삼성전자,System LSI사업부,반도체 공정설계,preference,Si-based CMOS/Analog Circuit Design 관련 경험/지식 보유자
+72fc30e3,삼성전자,반도체연구소,반도체 공정설계,requirement,"전기전자, 재료, 물성, 화학, 회로, 소자 및 물리 등 계열 전공자 또는 이에 상응하는"
+72fc30e3,삼성전자,반도체연구소,반도체 공정설계,requirement,전공지식 보유자
+72fc30e3,삼성전자,반도체연구소,반도체 공정설계,requirement,"반도체 단위 공정 이해, 회로 및 소자 특성, 물성 및 화학 분석 원리, 전기전자 재료 특성"
+72fc30e3,삼성전자,반도체연구소,반도체 공정설계,requirement,"및 물성 등 반도체 설비 관련 경험자, Big Data 활용 역량 보유자"
+72fc30e3,삼성전자,반도체연구소,반도체 공정설계,preference,직무와 연관된 SCI급 논문 작성 및 특허 출원 이력 보유자
+72fc30e3,삼성전자,반도체연구소,반도체 공정설계,preference,"해외 연구소/설비, 소재 협력사와 커뮤니케이션 가능한 수준의 외국어 회화 역량 보유자"
+7e62699c,삼성전자,반도체연구소,반도체 공정설계,requirement,"전기전자, 재료, 물성, 화학, 회로, 소자 및 물리 등 계열 전공자 또는 이에 상응하는"
+7e62699c,삼성전자,반도체연구소,반도체 공정설계,requirement,전공지식 보유자
+7e62699c,삼성전자,반도체연구소,반도체 공정설계,requirement,"반도체 단위 공정 이해, 회로 및 소자 특성, 물성 및 화학 분석 원리, 전기전자 재료 특성"
+7e62699c,삼성전자,반도체연구소,반도체 공정설계,requirement,및 물성 등 반도체 설비 관련 경험자
+7e62699c,삼성전자,반도체연구소,반도체 공정설계,preference,"컴퓨터 프로그래밍 언어를 통한 개발, 데이터 분석 및 시뮬레이션 역량/경험 보유자"
+7e62699c,삼성전자,반도체연구소,반도체 공정설계,preference,직무와 연관된 논문 작성 및 특허 출원 이력 보유자
+7e62699c,삼성전자,반도체연구소,반도체 공정설계,preference,"해외 연구소/설비, 소재 협력사와 커뮤니케이션 가능한 수준의 외국어 회화 역량 보유자"
+8642b03e,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,"반도체 기본 동작원리, 공정개발 등 반도체 개발의 공정프로세스 개선에 필요한 역량 보유자"
+8642b03e,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,"반도체 단위 공정, Device physics 등 반도체 소자 및 공정 관련 전공지식 보유자"
+8642b03e,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,반도체 소자의 물리적/재료화학적 분석에 필요한 역량 보유자
+8642b03e,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,"메모리 제품(DRAM, Flash memory 등)의 동작 원리와 구조를 이해하고 제품의 성능, 품질"
+8642b03e,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,개선에 필요한 직무지식 보유자
+8642b03e,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,빅데이터 분석 역량 및 통계학 관련 전공지식 보유자
+8642b03e,삼성전자 DS 부문,메모리사업부,반도체 공정설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+8642b03e,삼성전자 DS 부문,메모리사업부,반도체 공정설계,preference,"Transistor 관련 (물리전자, 고체전자물리) 분석 유경험자"
+8642b03e,삼성전자 DS 부문,메모리사업부,반도체 공정설계,preference,"C / C++, Visual Basic, Python 등 프로그래밍 유경험자"
+8642b03e,삼성전자 DS 부문,메모리사업부,반도체 공정설계,preference,Tensor Flow 등 Deep Learning 유경험자
+920a3636,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,"반도체 기본 동작원리, 공정개발 등 반도체 개발의 공정프로세스 개선에 필요한 역량 보유자"
+920a3636,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,"반도체 단위 공정, Device physics 등 반도체 소자 및 공정 관련 전공지식 보유자"
+920a3636,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,반도체 소자의 물리적/재료화학적 분석에 필요한 역량 보유자
+920a3636,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,"메모리 제품(DRAM, Flash memory 등)의 동작 원리와 구조를 이해하고 제품의 성능, 품질"
+920a3636,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,개선에 필요한 직무지식 보유자
+920a3636,삼성전자 DS 부문,메모리사업부,반도체 공정설계,requirement,빅데이터 분석 역량 및 통계학 관련 전공지식 보유자
+920a3636,삼성전자 DS 부문,메모리사업부,반도체 공정설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+920a3636,삼성전자 DS 부문,메모리사업부,반도체 공정설계,preference,"Transistor 관련 (물리전자, 고체전자물리) 분석 유경험자"
+920a3636,삼성전자 DS 부문,메모리사업부,반도체 공정설계,preference,"C / C++, Visual Basic, Python 등 프로그래밍 유경험자"
+920a3636,삼성전자 DS 부문,메모리사업부,반도체 공정설계,preference,Tensor Flow 등 Deep Learning 유경험자
+a51c0483,삼성전자 DS 부문,LED사업팀,반도체 공정설계,requirement,"전기전자, 재료/금속, 화학/화공, 물리, 기계 계열 전공자 또는 이에 상응하는 전공지식 보유자"
+a51c0483,삼성전자 DS 부문,LED사업팀,반도체 공정설계,requirement,"반도체 기본 동작원리, 제품 성능 분석을 하기 위한 지식 보유자"
+a51c0483,삼성전자 DS 부문,LED사업팀,반도체 공정설계,requirement,"광학설계, 기구설계, 측정, 구동 및 제어, 회로 설계 관련 지식 보유자"
+a51c0483,삼성전자 DS 부문,LED사업팀,반도체 공정설계,requirement,LED 공정을 이해하기 위한 반도체 공정 지식 보유자
+a51c0483,삼성전자 DS 부문,LED사업팀,반도체 공정설계,requirement,고분자/재료/화학이론 等 소재기술 역량 보유자
+a51c0483,삼성전자 DS 부문,LED사업팀,반도체 공정설계,preference,직무와 연관된 대내외 활동 경험 보유자
+a51c0483,삼성전자 DS 부문,LED사업팀,반도체 공정설계,preference,제품 설계 및 광학 관련 (Spectrum Analyzer/Light Tools/3D Modeling 등) 역량 보유자
+a51c0483,삼성전자 DS 부문,LED사업팀,반도체 공정설계,preference,LED 사업팀 (LED Business)
+b61e677a,삼성전자 DS 부문,반도체연구소,반도체 공정설계,requirement,"전기전자, 재료, 물성, 화학, 회로, 소자 및 물리 등 계열 전공자 또는 이에 상응하는"
+b61e677a,삼성전자 DS 부문,반도체연구소,반도체 공정설계,requirement,전공지식 보유자
+b61e677a,삼성전자 DS 부문,반도체연구소,반도체 공정설계,requirement,"반도체 단위 공정 이해, 회로 및 소자 특성, 물성 및 화학 분석 원리, 전기전자 재료 특성"
+b61e677a,삼성전자 DS 부문,반도체연구소,반도체 공정설계,requirement,"및 물성 등 반도체 설비 관련 경험자, Big Data 활용 역량 보유자"
+b61e677a,삼성전자 DS 부문,반도체연구소,반도체 공정설계,preference,직무와 연관된 SCI급 논문 작성 및 특허 출원 이력 보유자
+b61e677a,삼성전자 DS 부문,반도체연구소,반도체 공정설계,preference,"해외 연구소/설비, 소재 협력사와 커뮤니케이션 가능한 수준의 외국어 회화 역량 보유자"
+b73c9154,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,requirement,기본적인 반도체 물성/소자 특성을 이해하고 현상에 대한 검증 및 분석이 가능한 자
+b73c9154,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,requirement,반도체 Process에 대한 기본적인 이해를 바탕으로 간단한 Analog Circuit 구성 및 Simulation
+b73c9154,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,requirement,가능한 자
+b73c9154,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,preference,"Solid State Device Physics, Surface, Interface Physics / Chemistry 관련 지식 보유자"
+b73c9154,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,preference,"광학 관련 지식 보유자 (Photonic Crystal, Plasmonics, Metamaterial 등)"
+b73c9154,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,preference,"광전 소자/소재 개발 및 특성 분석 경험자 (Photodiode, Solar Cell, LED, Laser 등)"
+b73c9154,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,preference,Semiconductor Process Integration 관련 경험/지식 보유자
+b73c9154,삼성전자 DS 부문,System LSI사업부,반도체 공정설계,preference,Si-based CMOS/Analog Circuit Design 관련 경험/지식 보유자
+c3ab33c9,삼성전자 DS 부문,반도체연구소,반도체 공정설계,requirement,"전기전자, 재료, 물성, 화학, 회로, 소자 및 물리 등 계열 전공자 또는 이에 상응하는"
+c3ab33c9,삼성전자 DS 부문,반도체연구소,반도체 공정설계,requirement,전공지식 보유자
+c3ab33c9,삼성전자 DS 부문,반도체연구소,반도체 공정설계,requirement,"반도체 단위 공정 이해, 회로 및 소자 특성, 물성 및 화학 분석 원리, 전기전자 재료 특성"
+c3ab33c9,삼성전자 DS 부문,반도체연구소,반도체 공정설계,requirement,"및 물성 등 반도체 설비 관련 경험자, Big Data 활용 역량 보유자"
+c3ab33c9,삼성전자 DS 부문,반도체연구소,반도체 공정설계,preference,직무와 연관된 SCI급 논문 작성 및 특허 출원 이력 보유자
+c3ab33c9,삼성전자 DS 부문,반도체연구소,반도체 공정설계,preference,"해외 연구소/설비, 소재 협력사와 커뮤니케이션 가능한 수준의 외국어 회화 역량 보유자"
+ced4e16f,삼성전자,LED사업팀,반도체 공정설계,requirement,"전기전자, 재료/금속, 화학/화공, 물리, 기계 계열 전공자 또는 이에 상응하는 전공지식 보유자"
+ced4e16f,삼성전자,LED사업팀,반도체 공정설계,requirement,"반도체 기본 동작원리, 제품 성능 분석을 하기 위한 지식 보유자"
+ced4e16f,삼성전자,LED사업팀,반도체 공정설계,requirement,"광학설계, 기구설계, 측정, 구동 및 제어, 회로 설계 관련 지식 보유자"
+ced4e16f,삼성전자,LED사업팀,반도체 공정설계,preference,직무와 연관된 대내외 활동 경험 보유자
+ced4e16f,삼성전자,LED사업팀,반도체 공정설계,preference,제품 설계 및 광학 관련 (Spectrum Analyzer/Light Tools/3D Modeling 등) 역량 보유자
+d5ef2dda,삼성전자,,반도체 공정설계,requirement,"전기전자, 재료/금속, 화학/화공, 물리, 기계 계열 전공자 또는 이에 상응하는 전공지식 보유자"
+d5ef2dda,삼성전자,,반도체 공정설계,requirement,"반도체 기본 동작원리, 제품 성능 분석을 하기 위한 지식 보유자"
+d5ef2dda,삼성전자,,반도체 공정설계,requirement,"기구설계, 측정, 구동 및 제어, 회로 설계 관련 지식 보유자"
+d5ef2dda,삼성전자,,반도체 공정설계,preference,직무와 연관된 대내외 활동 경험 보유자
+d5ef2dda,삼성전자,,반도체 공정설계,preference,"제품 설계 및 TCAD Simulation 관련 (Synopsys, Silvaco 등) 역량 보유자"
+d5ef2dda,삼성전자,,반도체 공정설계,preference,"대용량 Data 처리를 위한 Python, AI, Machine Learning 등 Software 역량 보유자"
+d5ef2dda,삼성전자,,반도체 공정설계,preference,Career Vision
+d5ef2dda,삼성전자,,반도체 공정설계,preference,"반도체 소자의 재료, 크기, 전압, 전류 등을 고려하여 소자의 구조와 특성을 전문적으로"
+d5ef2dda,삼성전자,,반도체 공정설계,preference,설계할 수 있는 엔지니어로 성장할 수 있습니다.
+d5ef2dda,삼성전자,,반도체 공정설계,preference,"소자 설계를 바탕으로 여러가지 시뮬레이션 tool을 통해 공정의 결과를 예측, 문제를 사전에"
+d5ef2dda,삼성전자,,반도체 공정설계,preference,방지하여 공정을 최적화합니다
+d5ef2dda,삼성전자,,반도체 공정설계,preference,"이를 통해 반도체 소자의 성능을 향상시키고, 생산비용을"
+d5ef2dda,삼성전자,,반도체 공정설계,preference,절감할 수 있는 통합 엔지니어로 성장할 수 있습니다.
+dbd33459,삼성전자 DS 부문,Foundry사업부,반도체 공정설계,requirement,기본적인 반도체 공정과 소자 특성에 대한 역량 보유자
+dbd33459,삼성전자 DS 부문,Foundry사업부,반도체 공정설계,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계 등), 물리 계열 전공자 또는 이에 상응하는"
+dbd33459,삼성전자 DS 부문,Foundry사업부,반도체 공정설계,requirement,전공지식 보유자
+dbd33459,삼성전자 DS 부문,Foundry사업부,반도체 공정설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+dbd33459,삼성전자 DS 부문,Foundry사업부,반도체 공정설계,preference,"Data Science 관련 Machine Learning, Big Data, 컴퓨터공학, 통계 등 경험 및 지식 보유자"
+ee368584,삼성전자,Foundry사업부,반도체 공정설계,requirement,기본적인 반도체 공정과 소자 특성에 대한 역량 보유자
+ee368584,삼성전자,Foundry사업부,반도체 공정설계,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계 등), 물리 계열 전공자 또는 이에 상응하는"
+ee368584,삼성전자,Foundry사업부,반도체 공정설계,requirement,전공지식 보유자
+ee368584,삼성전자,Foundry사업부,반도체 공정설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+ee368584,삼성전자,Foundry사업부,반도체 공정설계,preference,"Data Science 관련 Machine Learning, Big Data, 컴퓨터공학, 통계 등 경험 및 지식 보유자"
+eecedc6c,삼성전자 DS 부문,LED사업팀,반도체 공정설계,requirement,"전기전자, 재료/금속, 화학/화공, 물리, 기계 계열 전공자 또는 이에 상응하는 전공지식 보유자"
+eecedc6c,삼성전자 DS 부문,LED사업팀,반도체 공정설계,requirement,"반도체 기본 동작원리, 제품 성능 분석을 하기 위한 지식 보유자"
+eecedc6c,삼성전자 DS 부문,LED사업팀,반도체 공정설계,requirement,"광학설계, 기구설계, 측정, 구동 및 제어, 회로 설계 관련 지식 보유자"
+eecedc6c,삼성전자 DS 부문,LED사업팀,반도체 공정설계,requirement,LED 공정을 이해하기 위한 반도체 공정 지식 보유자
+eecedc6c,삼성전자 DS 부문,LED사업팀,반도체 공정설계,requirement,고분자/재료/화학이론 等 소재기술 역량 보유자
+eecedc6c,삼성전자 DS 부문,LED사업팀,반도체 공정설계,preference,직무와 연관된 대내외 활동 경험 보유자
+eecedc6c,삼성전자 DS 부문,LED사업팀,반도체 공정설계,preference,제품 설계 및 광학 관련 (Spectrum Analyzer/Light Tools/3D Modeling 등) 역량 보유자
+eecedc6c,삼성전자 DS 부문,LED사업팀,반도체 공정설계,preference,LED 사업팀 (LED Business)
+f4334e75,삼성전자 DS 부문,Foundry사업부,반도체 공정설계,requirement,기본적인 반도체 공정과 소자 특성에 대한 역량 보유자
+f4334e75,삼성전자 DS 부문,Foundry사업부,반도체 공정설계,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계 등), 물리 계열 전공자 또는 이에 상응하는"
+f4334e75,삼성전자 DS 부문,Foundry사업부,반도체 공정설계,requirement,전공지식 보유자
+f4334e75,삼성전자 DS 부문,Foundry사업부,반도체 공정설계,preference,"직무와 연관된 경험 보유자 (프로젝트, 논문, 특허, 경진대회)"
+f4334e75,삼성전자 DS 부문,Foundry사업부,반도체 공정설계,preference,"Data Science 관련 Machine Learning, Big Data, 컴퓨터공학, 통계 등 경험 및 지식 보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"반도체기본동작원리, 공정개발 등반도체개발의공정프로세스 개선에필요한역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"-반도체단위공정, Device physics 등반도체소자및공정관련전공지식보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-반도체소자의물리적/재료화학적 분석에필요한역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"-메모리제품(DRAM, Flash memory 등)의동작원리와 구조를이해하고"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"제품의성능, 품질개선에 필요한직무지식보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-빅데이터분석역량및통계학관련전공지식보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"반도체기본동작원리, 공정개발 등반도체개발의공정기술 개선에필요한역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-빅데이터분석역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"전기전자, 재료, 물성, 화학, 회로, 소자및물리등계열전공자또는이에상응하는 전공지식보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"-반도체단위공정이해, 회로및소자특성, 물성및화학분석원리, 전기전자재료특성및물성등"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,반도체설비관련경험자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"반도체설비관련경험자, Big Data 활용역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"기계, 전기, 전자, 화학, 재료, 물리계열전공자또는이에상응하는 전공지식보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-반도체설비의유지관리및생산성향상에필요한개조/개선 역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"(RF-Plasma, 진공기술, 전기/전자제어, 센서제어, 열/공압제어, Robot 제어, 진동제어등)"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"전기전자, 건축/토목, 재료/금속, 화학/화공, 기계, 산업공학, 환경/안전, 수학/통계계열전공자또는"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,이에상응하는 전공지식보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-기술적이론과분석적사고를바탕으로 공학적인문제해결이가능한자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,글로벌제조&인프라총괄> 인프라기술(건설/Facility/전기)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"전기전자, 재료/금속, 화학/화공, 기계, 산업공학, 환경/안전, 수학/통계계열전공자또는"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,글로벌제조&인프라총괄> 인프라기술(Gas/Chemical)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"환경, 에너지, 지속경영, 안전보건, 소방관련전공자또는이에상응하는전공지식 보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"-설비, 공정안전관련지식및예측기술보유자(Simulation, 평가Tool 활용)"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-기술력기반법규해석능력보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-반도체사업장의특성과환경안전의중요성을이해하고생명존중과 책임감을가진자로서
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,환경안전분야전공자및역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계, 등), 물리, 화학계열전공자또는"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"-PKG조립 공정, Test공정등반도체공정과기술관련지식"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"공학계열(전기전자, 재료/금속, 화공, 기계, 산업공학등), 물리, 화학계열전공자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,또는이에상응하는 전공지식보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"-반도체설비구조및동작원리관련지식및경험보유자(부품/금형/로봇, 기계유지/보수, 자동화장치, 등)"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-기구/모터/실린더 등요소기술에대하여이해하고적용가능한자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,TSP총괄> 설비기술
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,데이터분석및통신방식을이해하고신기술에 대한관심과이해도를보유한 자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-시스템요구사항을 이해하고이에맞는소프트웨어및IT인프라기획/설계가가능한자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"-컴퓨터, 전기전자/통신, 수학/통계/산업공학, 물리/기계계열전공자또는이에상응하는전공지식보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,AI센터> 신호및시스템설계
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,프로그래밍 언어(C/C++/C#/Python/Java 등) 및알고리즘문제해결역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,"-Embedded시스템 및ARM Architecture, 운영체제(Windows/Linux) 역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-요구사항을 이해하고 이에맞는소프트웨어를 설계및구현할수있는역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,경영학등관련전공자또는부전공자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,requirement,-기본과원칙을중시하고분석적인 사고력/논리력을 바탕으로한문제해결역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"직무와연관된경험보유자(프로젝트, 논문, 특허, 경진대회)"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-Transistor 관련(물리전자, 고체전자물리) 분석유경험자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-Data Science 관련Python, Machine Learning, Big Data, 통계및산술/회귀 분석등유경험자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,Career Vision
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-반도체제품의공정프로세스설계부터 개선까지의 과정을거쳐공정전반에아우르는지식및
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,반도체역량을 배양할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-최적공정조건개발및소자설계를통해반도체소자전문가로 성장할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,메모리사업부> 반도체공정기술
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,메모리사업부 (Memory Business)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,직무: 반도체공정기술
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-Big Data의통계적Tool 활용가능자(R,Python 등)"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,- 공정엔지니어로서 공정전반의 연구및개발하는역량을배양할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-공정최적화와 품질개선활동을 통해공정전문가로성장할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,CTO_반도체연구소
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,미래 기술의 시작점이자 차세대 반도체 개발의 중심!
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,CTO_반도체연구소> 반도체공정설계
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,CTO_반도체연구소(Semiconductor R&D Center)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,직무: 반도체공정설계
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"컴퓨터프로그래밍 언어를통한개발, 데이터분석및시뮬레이션 역량/경험보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-직무와연관된논문작성및특허출원이력보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-해외연구소/설비, 소재협력사와커뮤니케이션 가능한수준의외국어회화역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-반도체제품개발전반을경험하여 해당제품소자및Package 개발을주도하는역량을배양할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-각소자별선행기술과차세대Package 기술에대한연구/개발을통해반도체의미래기술전문가로
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,성장할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,CTO_반도체연구소> 반도체공정기술
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-반도체8대공정및Package의선행개발경험을통해미래공정을선도하는최고공정전문가로
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-소재, 설비, 시뮬레이션 등반도체공정기술과 관련된여러분야와의협업을통해저변을넓힐수있습니다."
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,CTO_반도체연구소> 설비기술
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,직무: 설비기술
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"차세대설비요소기술(IoT 센서기술, Big Data, Smart Factory 제어) 역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-해외Engineer와커뮤니케이션 가능한수준의외국어회화역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-설비의구동원리를 이해하고, 직접maintenance 및troubleshooting을진행하면서"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,설비엔지니어로서의 역량을배양할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-설비자동화및IoT기술을적용한설비개조/개선및스마트팹구축, 설비성능고도화를위한논문작성및"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"특허출원등의업무를진행하고, 이를바탕으로설비Maestro로성장할수있습니다."
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,글로벌 제조&인프라총괄
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,미래지향적・친환경 FAB을 위한 인프라/제조 공통 요소 기술 조직
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,글로벌제조&인프라총괄> 인프라기술(건설/Facility/전기)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,글로벌 제조&인프라총괄 (Global Manufacturing & Infra Technology)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,직무: 인프라기술(건설/Facility/전기)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,해당전공관련기사및기술사자격증취득자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-직무와연관된대내외활동경험보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-해외법인과커뮤니케이션이 가능한수준의외국어(영어, 중국어) 회화역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-국내외삼성전자DS 사업장및건물(FAB, 사무환경등)을기획/설계/시공하는 등반도체 생산에필요한"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,최상의FAB 건설인프라를구축합니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-반도체생산에필요한Facility/Utility(HVAC, UPW, 배기, Bulk Gas 등)를안전하고 안정적으로"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,공급하기위한유지보수부터 기술개발까지 전프로세스를담당하며인프라엔지니어로 성장할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-반도체생산에필요한전기를안전하고 안정적으로 공급하기위한유지보수부터 기술개발까지
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,전프로세스를 담당하며인프라엔지니어로 성장할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,글로벌제조&인프라총괄> 인프라기술(Gas/Chemical)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,직무: 인프라기술(Gas/Chemical)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"해당전공관련산업기사, 기사, 기능장, 기술사자격증취득자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-반도체생산에필요한Gas, Chemical을안전하고안정적으로 공급하기위한유지보수부터 기술개발까지"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,전프로세스를 담당하며인프라전문기술엔지니어로 성장할 수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,글로벌제조&인프라총괄> 안전보건
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,직무: 안전보건
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,안전보건직무관련국가기술자격 보유자(기사이상)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-안전보건직무관련대내외경험보유자(프로젝트, 논문, 특허, 경진대회등)"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-프로젝트현장안전보건관련Setup업무경험보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-반도체현장에대한Clean Room 구조및Utility 공급, 순환시설에대한이해및경험자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-산업심리/행동심리 관련전공자및역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-반도체/인프라 현장맞춤기준수립및사고예방활동수행으로 현장맞춤안전보건 전문가로
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-안전보건분야법규를반영한사내기준수립및관리를통해안전보건전문가로성장할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,TSP총괄
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,반도체 가치를 극대화하는 패키지의 힘!
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,TSP총괄> 반도체공정기술
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,TSP 총괄 (Test and System PKG)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"반도체Package 공정및품질관련경험보유자(프로젝트, 논문, 특허, 경진대회)"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-반도체개발관련Tool 역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-데이터분석역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-광학계구조및이론이해, Image 분석역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-해외업체와커뮤니케이션이 가능한수준의외국어(영어, 일본어) 회화역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-세계반도체시장의 핵심경쟁력인 패키징각공정의공법, 공정조건개발업무능력배양을통해"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"Process Integration, Process Developer 전문가로성장할수있습니다."
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-Package 제품의Wafer, Package, Test Process 품질/생산성향상업무및공정기반기술연구역량을"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,배양할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-발전하는차세대반도체공정연구/분석/개선직무경험을바탕으로Package 공정기술전문가로
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-반도체테스트엔지니어로테스트프로그램 작성, 인터페이스 개발을진행하며, 신제품Test Solution을"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,제공할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-공정/출하시발생하는주요불량인자들에 대해분석하고해결책을적용하여개선할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-반도체설비의컨셉설계, 요소기술개발, 설비시스템S/W, 통신등설비표준화플랫폼개발의전문가로"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,TSP총괄> 설비기술
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"기구설계(Auto CAD, Inventor, CATIA) 및시스템Tool (C언어/Java 등) 역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-패키징공정첨단설비의개발, 동작분석, 성능향상등의업무를통해높은수준의 최신기술동향이해및"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,공정역량을수반한설비전문가로성장할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-Package 제품양산을위한Wafer, Package, 계측, Test Process의설비/제조인프라구축및자동화"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,제조환경을구현하는역량을 배양할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-차세대반도체설비및인프라유지/보수/개조/개선직무경험을바탕으로Package 설비기술전문가로
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-TEST 설비관리, 운영을통하여문제해결능력, 분석하는역량을배양할수있습니다."
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-TEST 업계동향및신기술의지속적인 학습을통해최적의Test Solution을 Consultant 할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,AI센터
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,반도체 비지니스의 글로벌 경쟁력 제고를 위한
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,AI & IT 기술과 서비스를 제공하는 CIO 조직
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,AI센터> 신호및시스템설계
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,AI센터 (AI Center)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,직무: 신호및시스템설계
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,프로그래밍 언어(C/C++/C#/Python/Java 등) 및알고리즘문제해결역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-소프트웨어 및하드웨어플랫폼을 활용한프로젝트수행경험보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-보안관리및거버넌스, 통신보안, 표준화 데이터베이스, 인터넷보안 관련경험보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-운영체제(Windows/Linux) 및Embedded시스템, ARM Architecture역량보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-직무와연관된경험보유자(프로젝트, 논문, 특허, 경진대회)"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-IT 인프라/서비스 설계및개발을통해Autonomous Factory 분야전문가로성장할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-Data 및신기술(AI, ML 등)을바탕으로연구개발하는역량을 배양할수있습니다."
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,AI센터> S/W 개발
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,직무: S/W 개발
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,웹시스템개발을위한Front-end / Back-end 경험보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-Database에대한이해와활용경험보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-AI 및Machine Learning에대한이해와활용경험보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-ML/DL 기반최적화, 예측Model/Application 개발경험"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-CSTS, ISTQB 등SW Testing Certificate 보유자"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-S/W Architecture 및Source 코드분석경험자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-S/W Measurement 기법활용및Metrics 분석경험자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-다양한분석Platform 및AI센터자체S/W Tool을개발하는역량을 배양할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-반도체분야S/W 품질및생산성개선을통해S/W 전문가로 성장할수있습니다.
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,부문공통
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,당신의 성장이 세상의 혁신으로 이어지는 곳
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,부문공통> 경영지원(재무)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,직무: 경영지원(재무)
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,직무와연관된공인자격보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-해외법인과커뮤니케이션이 가능한수준의외국어회화역량보유자
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,"-회계/세무관리, 원가분석, 손익관리, 리소스운영, 자금관리등다양한재무관련역량을"
+60f45e7a,삼성전자,TSP총괄,반도체공정설계,preference,-경영관리직무경험을통해재무/회계관련수준높은이해도를 가질수있으며Global 재무전문가로
+8cf6a37e,SK하이닉스,Tech R&D,소자,requirement,∙ 4년제 학사 이상 졸업(예정)자 (학/석/박)
+8cf6a37e,SK하이닉스,Tech R&D,소자,requirement,"∙ 전자, 전기, 신소재, 물리, 반도체 등 관련 전공"
+8cf6a37e,SK하이닉스,Tech R&D,소자,requirement,| 행동역량 및 Skillset(
+8cf6a37e,SK하이닉스,Tech R&D,소자,preference,"∙ 분석적 사고, 변화 관리, 의사 결정 행동역량 등을 갖춘 인재"
+8cf6a37e,SK하이닉스,Tech R&D,소자,preference,"∙ Integrated Technology 제품 개발, Fail 원인 분석, Process Design Kit 개발 등 경험 보유자"
+d448d940,SK하이닉스,Tech R&D,소자,requirement,∙ 4년제 학사 이상 졸업(예정)자 (학/석/박)
+d448d940,SK하이닉스,Tech R&D,소자,requirement,"∙ 전자, 전기, 신소재, 물리, 반도체 등 관련 전공"
+d448d940,SK하이닉스,Tech R&D,소자,requirement,| 행동역량 및 Skillset(
+d448d940,SK하이닉스,Tech R&D,소자,preference,∙ 반도체 전체 Process에 대한 이해가 높은 인재
+d448d940,SK하이닉스,Tech R&D,소자,preference,"∙ TCAD Simulation, Fail 원인 분석, Programming(C, Python 등) 활용 경험 보유자"
+fcd6a7a3,SK하이닉스,Tech R&D,소자,requirement,∙ 학력 : 4년제 학사 이상 졸업자(학/석/박)
+fcd6a7a3,SK하이닉스,Tech R&D,소자,requirement,"∙ 전공 : 전자, 전기, 신소재, 물리, 반도체 등 관련 전공"
+fcd6a7a3,SK하이닉스,Tech R&D,소자,requirement,| 필요 역량
+fcd6a7a3,SK하이닉스,Tech R&D,소자,requirement,"∙ 분석적 사고, 변화 관리, 의사 결정 행동역량 필요"
+fcd6a7a3,SK하이닉스,Tech R&D,소자,requirement,"∙ Integrated Technology 제품 개발, Fail 원인 분석, Process Design Kit 개발 등의 Skill 필요"
+fcd6a7a3,SK하이닉스,Tech R&D,소자,preference,원문 참조
+56a2d802,SK하이닉스,제조,양산기술,requirement,∙ 학력 : 4년제 학사 이상 졸업자(학/석/박)
+56a2d802,SK하이닉스,제조,양산기술,requirement,"∙ 전공 : 전자, 전기, 기계, 물리, 재료, 화학, 화공, 반도체, 산업공학, 컴퓨터, 이공"
+56a2d802,SK하이닉스,제조,양산기술,requirement,"∙ 전공 : 전자, 전기, 신소재, 물리, 화학, 화공, 반도체, 기계 등 관련 전공"
+56a2d802,SK하이닉스,제조,양산기술,requirement,| 필요 역량
+56a2d802,SK하이닉스,제조,양산기술,requirement,∙ 반도체 공정 Process 전반의 이해가 높은 자
+56a2d802,SK하이닉스,제조,양산기술,requirement,‘24년 하반기 신입채용 안내 이천
+56a2d802,SK하이닉스,제조,양산기술,preference,원문 참조
+95d59906,SK하이닉스,제조,양산기술,requirement,∙ 학력 : 4년제 학사 이상 졸업자(학/석/박)
+95d59906,SK하이닉스,제조,양산기술,requirement,"∙ 전공 : 전자, 전기, 물리, 재료, 화학, 화공, 반도체, 산업공학 관련 전공자"
+95d59906,SK하이닉스,제조,양산기술,requirement,| 필요 역량
+95d59906,SK하이닉스,제조,양산기술,requirement,"∙ 반도체 공정 Process 전반의 이해가 높은 자, 관련 역량 우수자"
+95d59906,SK하이닉스,제조,양산기술,requirement,"∙ Spotfire, Python 프로그래밍 능력 보유자"
+95d59906,SK하이닉스,제조,양산기술,requirement,∙ 석/박사 학위자
+95d59906,SK하이닉스,제조,양산기술,preference,원문 참조
+d4c05ac2,SK하이닉스,제조,양산기술,requirement,∙ 4년제 학사 이상 졸업(예정)자 (학/석/박)
+d4c05ac2,SK하이닉스,제조,양산기술,requirement,"∙ 전자, 전기, 화공, 화학, 재료, 물리, 반도체 관련 전공자"
+d4c05ac2,SK하이닉스,제조,양산기술,requirement,| 행동역량 및 Skillset(
+d4c05ac2,SK하이닉스,제조,양산기술,preference,"∙ 반도체 공정 Process 전반의 이해도가 높은 자, 반도체 관련 실험 및 학습 역량 우수자"
+d4c05ac2,SK하이닉스,제조,양산기술,preference,∙ 프로그래밍 능력 보유자
+d4c05ac2,SK하이닉스,제조,양산기술,preference,"(TEST 프로그램 개발, 분석 프로그램 등)"
