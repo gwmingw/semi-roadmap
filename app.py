@@ -485,6 +485,28 @@ HTML_PAGE = '''
             box-shadow: 0 6px 20px rgba(71, 99, 247, 0.4);
         }
 
+        .sample-resume-btn {
+            display: inline-block;
+            background: #ffffff;
+            color: #000000;
+            border: 1.5px solid #000000;
+            padding: 11px 28px;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            margin-bottom: 15px;
+            font-family: 'Noto Sans KR', sans-serif;
+            text-decoration: none;
+        }
+
+        .sample-resume-btn:hover {
+            background: #f7f7f7;
+            transform: translateY(-1px);
+            text-decoration: none;
+        }
+
         .upload-drag-text {
             color: var(--text-muted);
             font-size: 0.95rem;
@@ -1159,7 +1181,7 @@ HTML_PAGE = '''
                     <div class="upload-title"> PDF 업로드</div>
                     <div class="upload-subtitle">이미지 PDF 업로드 불가 (최대 4MB)</div>
                     <button type="button" class="upload-btn" id="customUploadBtn">파일 선택</button>
-                    <div class="upload-drag-text">또는 파일을 끌어다 놓기</div>
+                    <a class="sample-resume-btn" href="https://drive.google.com/file/d/1-b7oQsrFxJtreqJTPGP-Sz67MhXRjYVu/view?usp=sharing" target="_blank" rel="noopener noreferrer">샘플 이력서 PDF 다운로드</a>
                     <div class="file-selected-text" id="fileSelectedText">선택된 파일: 없음</div>
                 </div>
                 
